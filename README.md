@@ -18,29 +18,49 @@ an AI company, and no exercise costs money to run.
 
 ## Before you start
 
-You need Python 3.10 or newer, `git`, and about ten minutes.
+Works on **Linux, macOS and Windows**. You need `git` and about ten minutes.
+You do *not* need to install Python first — `uv` does that for you.
+
+Windows users: use **PowerShell**, not the old Command Prompt. Press Start, type
+`powershell`, press Enter. Your prompt should begin `PS C:\...`.
 
 **1. Install `uv`** (a fast Python package manager; skip if you have it):
 
+<table>
+<tr><td><b>Linux / macOS</b></td><td>
+
 ```bash
-curl -LsSf https://astral.sh/uv/install.sh | sh      # macOS and Linux
+curl -LsSf https://astral.sh/uv/install.sh | sh
 ```
+
+</td></tr>
+<tr><td><b>Windows</b></td><td>
 
 ```powershell
-powershell -c "irm https://astral.sh/uv/install.ps1 | iex"    # Windows
+powershell -ExecutionPolicy ByPass -c "irm https://astral.sh/uv/install.ps1 | iex"
 ```
 
-**2. Clone this repository and build the environment:**
+</td></tr>
+</table>
 
-```bash
-git clone https://github.com/Amrita-School-of-AI/agentic-ai-fdp.git
+**Then close your terminal and open a new one**, so it picks up the changed
+`PATH`. Skipping this is the most common cause of `uv: command not found`
+straight after a successful install. Check with `uv --version`.
+
+**2. Fork this repository** on GitHub (the **Fork** button, top right). You want
+your own copy, because you will be pushing to it.
+
+**3. Clone your fork and build the environment.** Same on all platforms:
+
+```
+git clone https://github.com/<your-username>/agentic-ai-fdp.git
 cd agentic-ai-fdp
 uv sync
 ```
 
-**3. Check that everything works:**
+**4. Check that everything works:**
 
-```bash
+```
 uv run python -m agentic_fdp.check
 ```
 
@@ -50,6 +70,11 @@ server, and a one-line reply from the model. If you do not, the
 
 You must be on **campus wifi** or the **Amrita VPN**. The model server is on the
 School's own network and is not exposed to the public internet.
+
+> **Windows note.** If your Documents folder syncs to OneDrive, clone somewhere
+> else — `C:\Users\<you>\agentic-ai-fdp` is fine. OneDrive syncing a virtual
+> environment while `uv` is writing to it causes file-lock errors that look like
+> a corrupted install.
 
 ---
 
@@ -81,19 +106,40 @@ not fighting Python.
 
 Check your work at any time:
 
+<table>
+<tr><td><b>Linux / macOS</b></td><td>
+
 ```bash
-./selfcheck ex01           # just this block
-./selfcheck                # every block
+./selfcheck ex01      # just this block
+./selfcheck           # every block
 ```
+
+</td></tr>
+<tr><td><b>Windows</b></td><td>
+
+```powershell
+uv run python selfcheck ex01
+uv run python selfcheck
+```
+
+</td></tr>
+</table>
+
+On Windows, `./selfcheck` alone does not work: PowerShell has no concept of the
+`#!` line that tells Linux and macOS which interpreter to use. Put
+`uv run python` in front and it behaves identically.
 
 Green means the pattern is wired correctly. Red prints the failing test and a
 plain-English hint.
 
-Then watch it run for real:
+Then watch it run for real. This one is the same on every platform:
 
-```bash
-uv run python exercises/ex01_tool_use/demo.py
 ```
+uv run python -m exercises.ex01_tool_use.demo
+```
+
+Note the dots and the missing `.py`: that names a Python module rather than a
+file path, which is why it works identically everywhere.
 
 ### Commit and push to check it in the cloud too
 
@@ -139,9 +185,11 @@ tests check the wiring, the demo shows the behaviour.
 | What you see | What to do |
 |---|---|
 | `No chat server answered on port 8001` | You are not on campus wifi or the Amrita VPN. Connect, then try again. |
-| Still unreachable after connecting | Your instructor will give you an address. `export FDP_CHAT_URL=http://<host>:8001/v1` |
+| Still unreachable after connecting | Your instructor will give you an address. Linux/macOS: `export FDP_CHAT_URL=http://<host>:8001/v1` · Windows: `$env:FDP_CHAT_URL="http://<host>:8001/v1"` |
 | `command not found: uv` | Close the terminal and open a new one, so your shell picks up the new `PATH`. |
-| `uv sync` is very slow | Thirty laptops are downloading at once. It finishes; give it a few minutes. |
+| `./selfcheck` does nothing useful on Windows | Use `uv run python selfcheck` instead. PowerShell cannot run it directly. |
+| `running scripts is disabled on this system` (Windows) | `Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass`, then retry. This lasts for that window only. |
+| `uv sync` is very slow | Thirty laptops are downloading at once. It finishes; give it a few minutes. On Windows, corporate antivirus also scans each file as it is written. |
 | A test fails and the message mentions the script | Your loop is not stopping. Read the hint in the failure, it names the condition. |
 | Everything fails after you edited something | `git diff` to see what changed, or `git checkout exercises/` to start that block again. |
 
@@ -154,12 +202,27 @@ If none of that helps, raise your hand. That is what the day is for.
 The material is deliberately portable. To run it at another institution, point
 it at your own OpenAI-compatible server:
 
+**Linux / macOS**
+
 ```bash
 export FDP_CHAT_URL=http://your-server:8000/v1
 export FDP_MODEL=your-model-name
 export FDP_EMBED_URL=http://your-server:8002/v1
 export FDP_EMBED_MODEL=your-embedding-model
 ```
+
+**Windows (PowerShell)**
+
+```powershell
+$env:FDP_CHAT_URL   = "http://your-server:8000/v1"
+$env:FDP_MODEL      = "your-model-name"
+$env:FDP_EMBED_URL  = "http://your-server:8002/v1"
+$env:FDP_EMBED_MODEL= "your-embedding-model"
+```
+
+Either way these last only for the current terminal. To make them permanent,
+add the `export` lines to `~/.bashrc` or `~/.zshrc`, or on Windows use
+`setx FDP_CHAT_URL "http://your-server:8000/v1"` and open a new terminal.
 
 Nothing else changes. The exercises, tests and CI all read these variables.
 `docs/` holds the slides, the guide and the instructor handbook, which includes

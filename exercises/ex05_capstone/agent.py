@@ -23,10 +23,16 @@ SUPERVISOR = (
     "You have two workers:\n"
     "  RESEARCH — finds facts in the curriculum documents\n"
     "  WRITE    — writes the final answer from the facts gathered so far\n\n"
-    "Reply with exactly one word:\n"
-    "  RESEARCH if more facts are needed\n"
-    "  WRITE    if there are enough facts but no answer has been written\n"
-    "  DONE     if an answer has been written and it addresses the question\n"
+    "You are shown the facts gathered and the answer written so far.\n"
+    "Reply with exactly one word, checking these in order:\n"
+    "  DONE     if an answer has already been written below. Do not ask for it\n"
+    "           to be written again.\n"
+    "  WRITE    if no answer has been written yet, and either there are enough\n"
+    "           facts or research has stopped finding anything new.\n"
+    "  RESEARCH only if no answer has been written and more facts would help.\n\n"
+    "Two rules that matter. Never ask for RESEARCH twice running when it found\n"
+    "nothing: say WRITE, so the question gets an honest 'not in the documents'\n"
+    "rather than no answer at all. And once an answer exists, say DONE."
 )
 
 RESEARCHER = (

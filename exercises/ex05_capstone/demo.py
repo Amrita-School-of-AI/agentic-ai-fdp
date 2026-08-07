@@ -12,7 +12,8 @@ from agentic_fdp import chat_model
 from .agent import build_graph
 
 QUESTIONS = [
-    "How many credits does the M.Tech in Data Science require, and what is the project worth?",
+    "What does the Machine Learning course cover?",
+    "What is the scope of the M.Tech Data Science programme?",
     "What is the fee for the hostel?",  # not in the corpus — watch it give up
 ]
 
@@ -43,13 +44,41 @@ def main() -> None:
                     draft = update["draft"]
                     print("  writer: drafted an answer")
 
-        print(f"\nA: {draft}")
+        if draft:
+            print(f"\nA: {draft}")
+        else:
+            # Reaching the budget without ever writing is a real outcome, not a
+            # crash, and printing an empty answer would hide it.
+            print(
+                "\nA: (nothing was written — the supervisor spent the whole "
+                "budget on research)"
+            )
         print(f"   ({steps} supervisor decisions, {rounds} research rounds)")
 
+    print(f"\n\n{'=' * 70}\nWhat to look at\n{'=' * 70}")
     print(
-        "\n\nThe two questions took different routes through the same graph. "
-        "\nNobody wrote an if-statement for that; the supervisor decided each "
-        "\ntime, and the step budget guaranteed both runs would end."
+        "\nThe questions took different routes through the same graph. Nobody "
+        "\nwrote an if-statement for that: the supervisor decided each time."
+        "\n"
+        "\nNow look at the step counts, because they are not all the same, and "
+        "\nthe untidy one is the most useful thing in this demo."
+        "\n"
+        "\nA clean run is three decisions: RESEARCH, WRITE, DONE. But you will "
+        "\nusually see at least one question where the supervisor keeps saying "
+        "\nWRITE, re-writing an answer it already has, until it hits the step "
+        "\nbudget at 8. The final answer is fine. Six model calls were wasted "
+        "\ngetting there."
+        "\n"
+        "\nThat is not a bug in the code, and it is not something a better "
+        "\nprompt reliably fixes — this prompt has already been through several "
+        "\nrounds of exactly that. It is what supervising with a language model "
+        "\nis actually like. The model is agreeable; asked whether the answer "
+        "\ncould be improved, 'yes' is always defensible."
+        "\n"
+        "\nSo the budget is not a safety net you hope never to need. It is load "
+        "\nbearing, it fires on ordinary questions, and it is the only reason "
+        "\nthat run terminated at all. Set MAX_STEPS to 2 and re-run to see the "
+        "\nother side of the trade: it stops sooner and answers worse."
     )
 
 
