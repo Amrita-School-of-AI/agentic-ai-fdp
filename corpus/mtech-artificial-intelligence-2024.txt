@@ -1,0 +1,3721 @@
+       School of Computing
+
+
+
+
+M.TECH ARTIFICIAL INTELLIGENCE
+                         CURRICULUM 2024
+                        M.TECH – Artificial Intelligence
+             Department of Computer Science and Engineering
+M.Tech in Artificial Intelligence programme has been designed for students who aim to embark
+their career on Data intensive computing. The programme is a graduate degree that develops
+the skillsets and knowledge required in various paradigms of Artificial Intelligence such as
+Machine Learning, Big data analytics, and Deep Learning. The degree is suitable for students
+with a bachelor’s degree in a computing related field as well as students who want to
+demonstrate computer science expertise in addition to a degree in another field. The curriculum
+has been designed to prepare students for highly prolific careers in industry. Some of the job
+profiles include: Application analyst, Data Scientist, Data analyst, Database administrator,
+Information systems manager, IT consultant, Multimedia analyst.
+
+Artificial Intelligence has revolutionized the modern world. Technologies that we now use for
+granted - Internet, mobile phones, medical technology, has various paradigms of Artificial
+Intelligence inherently. This M.Tech programme offers an integrated course of study covering
+the theory, implementation and design of Artificial Intelligence systems with core focus on
+Machine learning and Deep learning systems. The programme has specialized courses in the
+streams of Computer Vision, IoT and High Performance Computing with significant focus on
+research. As a part of the programme during the period of study, students have the opportunity
+to intern at leading companies and R&D labs for a period of six months to one year. There are
+opportunities for the students to take up a semester or one-year study at International
+Universities like Virje University, Netherlands, UC Davis, UNM for an exchange programme
+or to pursue a dual degree programme.
+
+Graduates of this programme are well represented in Oracle, IBM, HP, Cerner, Nokia, GE,
+Bosch, Intuit and other major MNCs as well as in research in premier academic institutions in
+India and abroad. The graduates are competent to take up R&D positions in Industry, academia
+and research labs.
+
+Program Educational Objectives (PEOs)
+
+   1. Build strong foundations in Artificial Intelligence so that they can contribute
+      significantly in the area of research and innovation.
+   2. Develop highly competent professionals in the field of AI to adapt with the latest trends
+      and techniques.
+   3. Bring out professionals and entrepreneurs to design and develop solutions for real world
+      inter- disciplinary problems having positive societal impacts.
+
+
+
+
+                                              1
+Graduate Attributes prescribed by NBA for M-Tech Program
+
+      GA1: Scholarship of knowledge
+      GA2: Critical thinking
+      GA3: Problem solving
+      GA4: Research skill
+      GA5: Usage of modern tools
+      GA6: Collaborative and multidisciplinary work
+      GA7: Project management and finance
+      GA8: Communication
+      GA9: Lifelong learning
+      GA10: Ethical practices and social responsibility
+      GA11: Independent and reflective learning.
+
+
+Program Outcomes (POs)
+
+   1. Enable graduates to understand, design and build novel concepts and algorithms to
+      leverage the power of AI in various application domains. (GA1, GA2, GA3).
+   2. Develop the skillsets to support the requirements of current trends in industry. (GA3,
+      GA5, GA7, GA9).
+   3. An ability to independently carry out research /investigation and development work to
+      solve practical problems while adhering to professional ethics. (GA4, GA9, GA11).
+   4. Students should be able to demonstrate a degree of mastery over the area as per the
+      specialization of the program. The mastery should be at a level higher than the
+      requirements in the appropriate bachelor program. (GA4, GA6, GA7, GA10).
+   5. Build the ability to write and present a substantial technical report/document. (GA8,
+      GA9).
+
+
+Program Outcomes PO3 PO4 and PO5 have been adopted from NBA (Ref.
+https://www.nbaind.org/files/PG_Eng_Annexure/PG_Engineering_Manual.pdf). PO4 has
+been elaborated to suit our M.Tech AI program.
+
+
+
+
+                                             2
+               M.TECH - ARTIFICIAL INTELLIGENCE
+                                CURRICULUM 2024
+
+
+                                              Semester I
+Course Code     Type                            Courses         LTP     Credit
+     24AI601     FC    Foundations of Artificial Intelligence   3-0-2     4
+ 24MA603         FC    Mathematical Foundations of Computing    3-1-0     4
+     24AI602     FC    Machine Learning                         3-0-2     4
+                 SC    Soft Core - I                            3-0-2     4
+ 24RM605         FC    Research Methodology                     2-0-0     2
+ 22AVP103        HU    Mastery Over Mind (MAOM)                 1-0-2     2
+ 23AVP601        HU    Amrita Values Program∗                            P/F
+  23HU601        HU    Career Competency I                      003      P/F
+                                              Total Credits              20
+ *
+  Non-credit course
+                                          Semester II
+Course Code     Type                            Courses         LTP     Credit
+                 SC    Soft Core - II                           3-0-2     4
+                 SC    Soft Core - III                          3-0-2     4
+                 SC    Elective - I                             2-0-2     3
+                 E     Elective - II                            2-0-2     3
+                 E     Elective - III                           2-0-2     3
+     24AI698     FC    Case Study                               0-0-4     2
+  23HU611        HU    Career Competency II                     003       1
+                                              Total Credits              20
+
+                                          Semester III
+Course Code     Type                            Courses         LTP     Credit
+                 E     Elective - IV                            202       3
+                 E     Elective - V                             300       3
+     24AI798           Dissertation Phase I                              10
+                                              Total Credits              16
+
+
+
+
+                                                 3
+                                         Semester IV
+Course Code    Type                           Courses                    LTP          Credit
+ 24AI799              Dissertation Phase II                                              16
+                                          Total Credits                                  16
+
+
+   Sl. No     Type                            Courses                        Credit
+      1        FC     Foundation Core                                         16
+      2        SC     Soft Core                                               12
+      3         E     Elective                                                15
+      4        HU     Amrita Values Program / Career Competency / MAOM         3
+      5               Dissertation                                            26
+                                          Total Credits                       72
+
+
+                                    Foundation Core
+ Course Code                            Courses                     LTP         Credit
+    24AI601     Foundations of Artificial Intelligence               3-0-2        4
+   24MA603      Mathematical Foundations of Computing                3-1-0        4
+    24AI602     Machine Learning                                     3-0-2        4
+   24RM605      Research Methodology                                 200          2
+    24AI698     Case Study                                           004          2
+
+                                         Soft Core
+ Course Code                            Courses                     LTP         Credit
+    24AI631     Foundations of Data Science                          3-0-2        4
+    24AI632     Advanced Algorithm Design                            3-0-2        4
+    24AI633     Probabilistic Graphical Models                       3-0-2        4
+    24AI634     Computational Statistics and Inference Theory        3-0-2        4
+    24AI635     Computational Intelligence                           3-0-2        4
+    24AI636     Deep Learning                                        3-0-2        4
+    24AI637     Reinforcement Learning                               3-0-2        4
+    24AI638     Mining of Massive Datasets                           3-0-2        4
+    24AI639     Generative AI                                        3-0-2        4
+
+
+
+
+                                              4
+                                       Electives List
+Course Code                             Courses                             LTP        Credit
+    24AI731     Machine Learning for Big Data                                202          3
+    24AI732     Applications of Machine Learning                             202          3
+    24AI733     Evolutionary Machine Learning                                202          3
+    24AI734     Applied Predictive Analytics                                 202          3
+    24AI735     Federated Learning                                           202          3
+    24AI736     Explainable AI                                               202          3
+    24AI737     Artificial Intelligence for Robotics                         202          3
+    24AI738     Data Visualization                                           202          3
+    24AI739     Stochastic Modeling                                          202          3
+    24AI740     Networks and Spectral Graph Theory                           202          3
+    24AI741     Parallel and Distributed Data Management                     202          3
+    24AI742     Medical Signal Processing                                    202          3
+    24AI743     Computer Vision                                              202          3
+    24AI744     Natural Language Processing                                  202          3
+    24AI745     GPU Architecture and Programming                             202          3
+    24AI746     Artificial Intelligence for IoT                              202          3
+    24AI747     Quantum Artificial Intelligence                              202          3
+    24AI748     Blockchain Technology                                        202          3
+    24AI749     Artificial Intelligence for Bioinformatics                   202          3
+    24AI750     Cloud and Big Data Analytics                                 202          3
+
+
+*
+ Students can take Electives from other M.Tech branches in place of any one elective. Students
+can select online courses in place of Elective IV and Elective V as per the university norms
+with the consent and approval from the department.
+
+
+
+
+                                                  5
+24AI601                Foundations of Artificial Intelligence                            3-0-2-4
+
+Preamble
+This course will deal with the fundamental principles of Artificial Intelligence including
+knowledge representation, reasoning, decision making and programming techniques. The
+course will also support developing an understanding of the theoretical relationships between
+these algorithms.
+
+Course Objectives
+    To understand basic principles of Artificial Intelligence.
+    To understand the basic areas of artificial intelligence including problem solving,
+      knowledge representation, reasoning, decision making, planning, perception and
+      action.
+    To understand automatic learning methods in artificial intelligence
+
+Course Outcomes
+
+   COs Description
+   CO1 Understand and apply formal methods of knowledge representation in AI systems.
+           Develop and utilize foundational principles, mathematical tools, and programming paradigms of
+   CO2 AI.
+   CO3 Implement learning methods to solve real-world problems effectively.
+   CO4 Employ problem-solving techniques through search algorithms for various AI applications.
+   CO5 Communicate AI concepts and solutions effectively through technical reports and presentations.
+
+Prerequisites
+    None
+
+Syllabus
+
+Principles of search, uninformed search, informed (heuristic) search, genetic algorithms, game
+playing - Basic idea behind search algorithms. Complexity. Combinatorial explosion and NP
+completeness. Polynomial hierarchy. Uninformed Search - Depth-first. Breadth-first. Uniform-
+cost. Depth-limited. Iterative deepening. Informed search – Best-first. A* search. Heuristics.
+Hill climbing. Problem of local extrema. Simulated annealing. Genetic Algorithms.
+
+Knowledge bases and inference; constraint satisfaction, logical reasoning - Fuzzy logic.
+Reasoning under uncertainty – probabilities, conditional independence, Markov blanket, Bayes
+Nets - Probabilistic inference, enumeration, variable elimination, approximate inference by
+stochastic simulation, Markov chain Monte Carlo, Gibbs sampling. Agents that reason
+logically – Knowledge-based agents. Logic and representation. Propositional (Boolean) logic,
+Inference in propositional logic. Syntax. Semantics. Probabilistic Reasoning over time:
+Temporal models, Hidden Markov Models, Kalman filters, Dynamic Bayesian Networks,
+                                                6
+Automata theory. Planning – Definition and goals. Basic representations for planning. Situation
+space and plan space.
+
+Inductive learning, concept formation, decision tree learning, statistical approaches,
+probabilistic methods, learning from examples - neural networks - Probability-Based Learning:
+Probabilistic Models, Naïve Bayes Models, EM algorithm, Introductions to AI Ethics,
+Heterogeneous Data Acquisition techniques, Reinforcement Learning.
+
+Text Book / References
+   1. Stuart Russell and Peter Norvig, Artificial Intelligence: A Modern Approach,
+       Fourth edition, Pearson Education, 2021
+   2. Deepak Khemani. A First Course in Artificial Intelligence. McGraw Hill
+       Education (India), 2013.
+   3. Denis Rothman. Artificial Intelligence by Example, Packt, 2020, 2nd Edition.
+
+CO-PO Mapping
+ COs Description                                             PO1 PO2 PO3 PO4 PO5
+         Understand and apply formal methods of knowledge
+  CO1                                                         3      3      2      -       -
+         representation in AI systems.
+         Develop and utilize foundational principles,
+  CO2    mathematical tools, and programming paradigms of     3      3      -      2       -
+         AI.
+         Implement learning methods to solve real-world
+  CO3                                                         3      -      3      3       -
+         problems effectively.
+         Employ problem-solving techniques through search
+  CO4                                                         3      -      3      3       -
+         algorithms for various AI applications.
+         Communicate AI concepts and solutions effectively
+  CO5                                                         -      -      2      -      3
+         through technical reports and presentations.
+
+Evaluation Pattern - 70:30
+    Midterm Exam - 20%
+    Quizzes - 20%
+    Lab Assignments & Case Study – 30%
+    End Semester Exam - 30%
+
+
+
+
+                                              7
+24MA603               Mathematical Foundations of Computing                          3-1-0-4
+
+Course Objectives
+    To equip students with advanced mathematical tools and techniques: This course aims
+      to provide students with a comprehensive understanding of vector spaces, matrix
+      decompositions, optimization methods, and statistical analysis, enabling them to solve
+      engineering problems with precision and efficiency.
+    To develop analytical and problem-solving skills in engineering contexts: This course
+      focuses on enhancing students' ability to apply theoretical concepts in practical
+      scenarios, including optimization, probabilistic analysis, and statistical inference,
+      preparing them for research and professional practice in engineering and related fields.
+
+Course Outcomes
+  COs Description
+        Analyze and apply vector space concepts and matrix decompositions to solve engineering
+  CO1 problems.
+        Demonstrate proficiency in using mathematical theorems and transformations to find
+  CO2 solutions to engineering problems.
+  CO3 Solve optimization problems relevant to engineering contexts.
+        Analyze and interpret statistical data and apply probabilistic and Bayesian methods for
+  CO4 rigorous analysis and parameter estimation.
+
+Prerequisites
+    Basic programming knowledge
+
+Syllabus
+
+Vector Space: Basis and Dimensions - Change of Basis, Orthogonality – Fundamental Vector
+Spaces Associated with a Matrix, Matrix Decompositions: LU, QR, Eigen Decomposition and
+SVD, Cayley Hamilton Theorem, Fourier Transform and Fourier Basis
+
+Function Optimization – Constrained and Unconstrained Optimization - Linear Programming
+- Linear Regression – Ordinary Least Squares – Gradient Descent – Conjugate Gradient
+Descent – Lagrange Multipliers – KKT Multipliers – ADMM – SVM
+
+Random Variables – Moments - Covariance and Correlation - Probability Distributions –
+Moment generating functions – Transforming a random variable and Jacobean- Central limit
+theorem. Bayes Theorem - Naïve Bayes Classification - Parameter Estimation: MLE –
+Statistical testing: Mean of two random variables and statistical testing for proportions.
+
+Text Book / References
+   1. Gilbert Strang, Linear Algebra and Learning from Data, Wellesley-Cambridge
+       Press, 2019.
+
+                                              8
+   2. William Flannery, Mathematical Modeling and Computational Calculus, Vol-1,
+      Berkeley Science Books, 2013.
+   3. Stephen Boyd and Lieven Vandenberghe, Convex Optimization, Cambridge
+       University Press, 2018.
+   4. Douglas C. Montgomery and George C. Runger, Applied Statistics and
+       Probability for Engineers, John Wiley & Sons Inc., 2005.
+   5. Axler Sheldon, Linear Algebra Done Right, Springer Nature, 2024.
+   6. Howard Anton and Chris Rorrers, Elementary Linear Algebra, Tenth Edition,
+       John Wiley & Sons, Inc., 2010.
+   7. David Forsyth, Probability and Statistics for Computer Science, Springer
+       International Publishing, 2018.
+   8. Ernest Davis, Linear Algebra and Probability for Computer Science
+       Applications, CRC Press, 2012.
+
+CO-PO Mapping
+    COs Description                                             PO1 PO2 PO3 PO4 PO5
+        Analyze and apply vector space concepts and matrix
+    CO1 decompositions to solve engineering problems.            3   -   3   2   -
+        Demonstrate proficiency in using mathematical
+    CO2 theorems and transformations to find solutions to 3          3   3   2   -
+        engineering problems.
+        Solve optimization problems relevant to engineering
+    CO3                                                          3   3   3   2   2
+        contexts.
+        Analyze and interpret statistical data and apply
+    CO4 probabilistic and Bayesian methods for rigorous analysis 2   -   3   1   3
+        and parameter estimation.
+
+Evaluation Pattern - 60:40
+
+      Midterm Exam - 30%
+      Continuous Assessment – 30%
+      End Semester Exam - 40%
+
+
+
+
+                                           9
+24AI602                              Machine Learning                                3-0-2-4
+Preamble
+This course deals with various algorithms to enable computers to learn data without being
+explicitly programmed. An insight into various types of machine learning algorithms, strategies
+for model generation and evaluation are given in this course. The fundamental machine
+learning algorithms required in industries are covered together with their concrete
+implementations.
+
+Course Objectives
+
+      To introduce the fundamental concepts and techniques of Machine Learning
+      To become familiar with various classification and regression methods
+      Apply neural networks, Bayes classifier and k nearest neighbor algorithms in machine
+       learning.
+      To develop skills using recent machine learning techniques and solving real world case
+       study
+
+Course Outcomes
+
+   COs      Description
+   CO1     Understand and apply the basic of ML, learning paradigms and concepts of regression
+   CO2     Design and develop classifier models and evaluate their performance
+   CO3     Acquire skills to build probabilistic model and deep network models for classification
+   CO4     Develop and build clustering models for real world applications
+           Understand and apply the concepts of dimensionality reduction and Reinforcement
+   CO5
+           Learning
+
+
+Prerequisites
+
+      Basics of Linear Algebra, Probability Theory and Optimization: Vectors, Inner product,
+       Outer product, Inverse of a matrix, Eigen analysis, Probability distributions – Discrete
+       distributions and Continuous distributions; Independence of events, Conditional
+       probability distribution and Joint probability distribution, Bayes theorem,
+       Unconstrained optimization, Constrained optimization.
+
+
+Syllabus
+Introduction to machine learning - different forms of learning- Linear regression - Ridge and
+Lasso regression, Logistic regression, Discriminant Functions and models, Bayesian
+regression, regression with basic functions.
+Classification - Perceptron –Multilayer Perceptron - Feed forward network - Backpropagation
+– Support vector machine - Decision trees - evaluation of classifiers – bias and variance.
+Gaussian mixture models -- Expectation-Maximization - Naive Bayes classifier - Ensemble
+                                              10
+Methods - Bagging – Boosting -Time series Prediction and Markov Process - Introduction to
+deep learning - Convolutional neural networks - application of classification algorithm
+Clustering - K-means – Hierarchical and Density Based Clustering – DBSCAN- Assessing
+Quality of Clustering - Dimensionality reduction - Principal Component Analysis.
+Understanding of Machine Learning Project Life Cycle - each stages of the cycle, Examples of
+ML projects.
+
+
+Text Book / References
+
+   1. Alpaydin, Ethem. Introduction to machine learning. MIT press, 2020
+   2. Bishop, Christopher M. Pattern recognition and machine learning. springer, 2006.
+   3. Murphy, Kevin P. Machine learning: a probabilistic perspective. MIT press, 2012.
+   4. Tom Mitchell, "Machine Learning", McGraw-Hill, 1997
+   5. Duda, Richard O., and Peter E. Hart. Pattern classification. John Wiley & Sons, 2006.
+   6. Han, Jiawei, Micheline Kamber, and Jian Pei. "Data mining concepts and techniques
+       third edition." The Morgan Kaufmann Series in Data Management Systems 5.4 (2011):
+       83-124.
+
+
+CO-PO Mapping
+ COs Description                                                  PO1 PO2 PO3 PO4 PO5
+     Understand and apply the basic of ML, learning paradigms
+ CO1                                                               3   1   -   2   -
+     and concepts of regression
+     Design and develop classifier models and evaluate their
+ CO2                                                               3   3   2   -   1
+     performance
+     Acquire skills to build probabilistic model and deep network
+ CO3                                                               3   1   2   2   -
+     models for classification
+     Develop and build clustering models for real world
+ CO4                                                               3   3   -   -   1
+     applications
+     Understand and apply the concepts of dimensionality
+ CO5                                                               3   1   -   2   -
+     reduction and Reinforcement Learning
+
+Evaluation Pattern - 70:30
+
+      Midterm Exam - 20%
+      Continuous Evaluation – 50%
+      End Semester Exam - 30%
+
+
+
+
+                                            11
+24RM605                          Research Methodology                                  2-0-0-2
+
+Course Objectives
+    To enable students to define research problems, learn to evaluate literature and possibly
+      to formulate effective solutions.
+    To prepare students either for a research thesis or for an industry-based project.
+    To provide oral and written communication skills.
+    To inculcate a strict adherence to the principles of research ethics and values.
+
+Course Outcomes
+  COs Description
+  CO1 Understand the basic concepts related to Research and Research Methodology
+  CO2 Applying various tools for identifying, retrieving and organizing the literature.
+        Formulating a Research problem and follow the steps of a good research design to
+  CO3 arrive at a solution.
+  CO4 Document writing using professional tools such as LaTeX, BibTeX, Medeley etc.
+
+Syllabus
+
+Meaning of Research, Types of Research, Research Process, Problem definition, Objectives of
+Research, Research Questions, Research design, Approaches to Research, Quantitative vs.
+Qualitative Approach, Understanding Theory, Building and Validating Theoretical Models,
+Exploratory vs. Confirmatory Research, Experimental vs Theoretical Research, Importance of
+reasoning in research.
+
+Problem Formulation, Understanding Modeling & Simulation, Conducting Literature Review,
+Referencing, Information Sources, Information Retrieval, Role of libraries in Information
+Retrieval, Tools for identifying literatures, Indexing and abstracting services, Citation indexes
+
+Experimental Research: Cause effect relationship, Development of Hypothesis, Measurement
+Systems Analysis, Error Propagation, Validity of experiments, Statistical Design of
+Experiments, Field Experiments, Data/Variable Types & Classification, Data collection,
+Numerical and Graphical Data Analysis: Sampling, Observation, Surveys, Inferential
+Statistics, and Interpretation of Results.
+
+Preparation of Technical Reports and Research Papers, Tables and illustrations, Guidelines for
+writing the abstract, introduction, methodology, results and discussion, conclusion sections of
+a manuscript. References, Citation and listing system of documents.
+
+Nature of Intellectual Property: Patents, Designs, Trade and Copyright. Process of Patenting
+and Development: technological research, innovation, patenting, development. International
+Scenario: International cooperation on Intellectual Property. Procedure for grants of patents,
+Patenting under PCT. Patent Rights: Scope of Patent Rights. Geographical Indications.
+
+                                               12
+Text Book / References
+   1. Stuart Melville and Wayne Goddard, Research methodology: an introduction for
+       science & engineering students, 2nd Edition, 2014.
+   2. Bordens, K. S. and Abbott, B. B., “Research Design and Methods – A Process
+       Approach”, 11thEdition, McGraw-Hill, 2022
+   3. Ron Iphofen (Ed), “Handbook of Research Ethics and Scientific Integrity”,
+       Springer, 2020.
+   4. Ranjit Kumar, 4th Edition, Research Methodology: A Step by Step Guide for
+       beginners, 2015
+
+   5. Davis, M., Davis K., and Dunagan M., “Scientific Papers and Presentations”, 3rd
+      Edition, Elsevier Inc., 2013.
+   6. Robert P. Merges, Peter S. Menell, Mark A. Lemley, Intellectual Property in New
+       Technological Age, 2016.
+   7. Design and Analysis of Experiments, Douglas C. Montgomery, Eight Edition,
+       2013
+
+CO-PO Mapping
+ COs Description                                              PO1 PO2 PO3 PO4 PO5
+     Understanding the work-flow of research, research
+ CO1                                                           -   2   1   2   3
+     types and research models.
+     Applying various tools for identifying, retrieving
+ CO2                                                           -   2   3   1   2
+     and organizing the literature.
+     Formulating a Research problem and follow the steps of a
+ CO3                                                           1   2   1   2   2
+     good research design to arrive at a solution.
+     Document writing using professional tools such
+ CO4                                                           -   -   2   -   1
+     as LaTeX, BibTeX, TikZ, PGF etc.
+
+Evaluation Pattern - 60:40
+
+      Internal – 60%
+      External - 40%
+
+
+
+
+                                            13
+24AI698                                Case Study                                      0-0-4-2
+
+Course Outcomes
+
+   COs Description
+   CO1 To develop skills in doing project, technical presentation and report preparation.
+   CO2 To enable project identification and execution of preliminary works on final semester
+
+Prerequisites
+    None
+
+Syllabus
+
+This course is intended to give orientation towards research and innovation by developing skills
+in paper reading, programming and presentation skills. Each student can select an area for
+project in consultation with the faculty. This can be the initial phase of their dissertation as
+well. It should involve literature review, devising innovative solutions, implementation, testing
+and performance analysis in different application specific contexts. Students will be required
+to make an in-class presentation, project demonstration and a project report. The course will
+be evaluated by a panel of (at least) two faculty members.
+
+Text Book / References
+   1. Relevant literature for the computing problem.
+
+
+CO-PO Mapping
+    COs Description                                         PO1 PO2 PO3 PO4 PO5
+        To develop skills in doing project, technical
+    CO1                                                       1      1      1      2      3
+        presentation and report preparation.
+        To enable project identification and execution of
+    CO2                                                       2      3      3      2      2
+        preliminary works on the second year project
+
+Evaluation Pattern - 80:20
+
+      Internal - 80%
+      External - 20%
+
+
+
+
+                                               14
+24AI631                        Foundations of Data Science                              3-0-2-4
+
+Preamble
+Data Science is about drawing useful conclusions from large and diverse data sets through
+exploration, prediction, and inference. In this course, the students will learn the foundations of
+data science that focuses on pre-processing, exploration and visualization of data alongside the
+statistical and mathematical aspects of select techniques for prediction and classification using
+popular machine learning algorithms. The course also focuses on the associated inferencing
+techniques based on statistical models and tests for quantifying the degree of certainty of
+predictions.
+
+Course Objectives
+    To understand the important steps in drawing useful conclusions from data.
+    To ask appropriate questions about data after data exploration using visualization and
+      descriptive statistics
+    To apply machine learning and optimization techniques to make predictions.
+    To correctly interpret the answers generated by inferential and computational tools.
+
+Course Outcomes
+  COs Description
+  CO1 Understand the statistical foundations of data science
+  CO2 Learn techniques to pre-process raw data so as to enable further analysis
+        Conduct exploratory data analysis and create insightful visualizations to identify
+  CO3 patterns
+       Apply machine learning algorithms for prediction/classification and to derive
+   CO4 insights
+       Evaluate the degree of certainty of predictions using statistical test and models
+   CO5 in Python
+
+Prerequisites
+    Basic Probability
+
+Syllabus
+
+Introduction to Data Science, Causality and Experiments, Data Pre-processing - Data cleaning
+- Data reduction - Data transformation, Visualization and Graphing: Visualizing Categorical
+Distributions - Visualizing Numerical Distributions - Overlaid Graphs and plots - Summary
+statistics of exploratory data analysis, Randomness, Probability, Introduction to Statistics,
+Sampling, Sample Means and Sample Sizes.
+
+Probability distributions and density functions (univariate and multivariate), Error
+Probabilities; Expectations and moments; Covariance and correlation; Sampling and Empirical
+distributions; Permutation Testing, Statistical Inference; Hypothesis testing of means,
+
+                                               15
+proportions, variances and correlations - Assessing Models - Decisions and Uncertainty,
+Comparing Samples - A/B Testing, P-Values, Causality.
+
+Estimation - Resampling and Bootstrap - Confidence Intervals, Properties of Mean - Central
+Limit Theorem - Variability of mean -Choosing Sample Size, Prediction - Regression - Method
+of Least Squares - Visual and Numerical Diagnostics - Inference for true slope - Prediction
+intervals, Classification - Nearest neighbors - accuracy of a classifier, Updating Predictions -
+Making Decisions - Bayes Theorem, Graphical Models
+
+Text Book / References
+   1. Ani Adhikari and John DeNero, ”Computational and Inferential Thinking: The
+       Foundations of Data Science”, e-book.
+   2. Joel Grus, ”Data Science from Scratch: First Principles with Python”, 2/e,
+       O’Reilly Media, 2019.
+   3. Peter Bruce, Andrew Bruce and Peter Gedeck, ”Practical Statistics for Data
+       Scientists: 50+ Essential Concepts Using R and Python”, 2/e, O’Reilly Media,
+       2020.
+   4. Allen B. Downey, “Think Stats: Probability and Statistics for Programmers”, 2/e,
+       by O’Reilly Media, 2014.
+   5. Cathy O’Neil and Rachel Schutt, ”Doing Data Science”, O’Reilly Media, 2013.
+
+
+CO-PO Mapping
+    COs Description                                              PO1 PO2 PO3 PO4 PO5
+    CO1 Understand the statistical foundations of data science    1   2    3      1      1
+        Learn techniques to pre-process raw data so as to
+    CO2                                                           1   2    3      1      1
+        enable further analysis
+        Conduct exploratory data analysis and create
+    CO3                                                           1   2    3      3      1
+        insightful visualizations to identify patterns
+        Apply machine learning algorithms for prediction
+    CO4                                                           3   2    1      2      1
+        and classification to derive insights
+        Evaluate the degree of certainty of predictions using
+    CO5                                                           1   2    2      1      2
+        statistical test and models
+
+Evaluation Pattern - 70:30
+
+      Midterm Exam - 20%
+      Continuous Evaluation – 50%
+      End Semester Exam - 30%
+
+
+
+
+                                                 16
+24AI632                      Advanced Algorithm Design                             3-0-2-4
+
+Preamble
+This course builds upon the basic courses on data structures and algorithm design. It aims to
+enable students to design and adapt algorithms to solve complex problems especially relevant
+for AI domain. The focus will be on design and concrete implementations of various
+algorithmic techniques and their use in different application scenarios with proper analysis
+
+Course Objectives
+    To provide an understanding of algorithm design and analysis used in real life domain
+    To solve complex problems by applying appropriate algorithmic design strategies
+    To critically analyze the complexity of various algorithms
+    To select appropriate design strategy to solve real world problems in AI domain
+
+Course Outcomes
+  COs Description
+        Explain the motivation behind the different algorithmic strategies and/or suitable data
+  CO1 structures and their applications.
+        Articulate different algorithmic design techniques, compare and contrast them, and their
+  CO2 application to real-world problems
+        Apply asymptotic and amortized analysis to determine the time and space complexities
+  CO3 of an algorithm
+        Solve real world problems, especially in ML & AI domain, by identifying and applying
+  CO4 appropriate design techniques
+        Concrete implementations of data structures and algorithms using Programming
+  CO5 Language such as Java or Python
+
+
+Prerequisites
+    Basic Data Structures
+    Basic Mathematics
+    Basic Programming Language
+
+Syllabus
+
+Algorithm Analysis - Methodologies for Analyzing Algorithms, Asymptotic growth rates,
+Amortized Analysis. Array based structures, lists and. Number Theory: Preliminaries, FLT,
+Euclid's algorithm (extended), Totient function, Sieve for primes, Modular exponentiation.
+
+Applications of Divide-and-Conquer, Greedy and Dynamic programming, Randomized
+techniques - Knapsack, Median finding, Scheduling algorithms, Party planning, bitonic TSP.
+String matching algorithms: Z Algorithm, KMP algorithm, Rabin-Karp, Universal hashing,
+consistent hashing, load balancing, power of two choices. Applications of graph algorithms:
+Topological sort, Strongly connected Components, Bi-connected Components, Bridges,
+Articulation points, All Pairs Shortest Paths, Single Source Shortest Paths.
+
+                                             17
+Flow Networks: Ford-Fulkerson algorithm, Edmonds Karp algorithm, Applications of
+maximum flows - Maximum bipartite matching, minimum cost matching. Data Structures:
+Balanced binary trees, Suffix trees, Segment trees, Hash tables. Computational Geometry:
+Convex Hull, Closest pair of points. NP-Completeness: Important NP-Complete Problems,
+Polynomial time reductions, Approximation algorithms.
+
+Text Book / References
+   1. Cormen T H, Leiserson CE, Rivest R L and Stein C, "Introduction to
+       Algorithms", Prentice Hall of India Private Limited. Third Edition 2009.
+
+   2. Michael T Goodrich and Roberto Tamassia, "Algorithm Design and
+       Applications", Wiley, 2014.
+   3. Goodrich M T, Tamassia R and Michael H. Goldwasser, “Data Structures and
+       Algorithms in Python++”, Wiley publication, 2013.
+
+   4. Rajeev Motwani and Prabhakar Raghavan, "Randomized Algorithms",
+       Cambridge University Press, 1995.
+
+   5. Vijay V. Vazirani, "Approximation Algorithm", Springer Science and Business
+       Media, 2003.
+
+
+CO-PO Mapping
+    COs Description                                              PO1 PO2 PO3 PO4 PO5
+        Explain the motivation behind the different algorithmic
+    CO1 strategies and/or suitable data structures and their 3        3   1   -   1
+        applications.
+        Articulate different algorithmic design techniques,
+    CO2 compare and contrast them, and their application to real- 3   3   1   -   1
+        world problems
+        Apply asymptotic and amortized analysis to determine
+    CO3                                                           3   3   1   -   1
+        the time and space complexities of an algorithm
+        Solve real world problems, especially in ML & AI
+    CO4 domain, by identifying and applying appropriate design 3      3   3   -   1
+        techniques
+        Concrete implementations of data structures and
+    CO5 algorithms using Programming Language such as Java 3          3   3   1   1
+        or Python
+
+Evaluation Pattern - 70:30
+
+      Midterm Exam - 20%
+      Continuous Evaluation – 50%
+      End Semester Exam - 30%
+
+
+
+
+                                          18
+24AI633                       Probabilistic Graphical Models                         3-0-2-4
+
+Preamble
+Probabilistic graphical models use a graph-based representation for encoding complex
+distributions over a high-dimensional space. This course deals with representation, inference,
+and learning of probabilistic graphical models. Students will gain an in-depth understanding of
+several types of graphical models; basic ideas underlying exact inference in probabilistic
+graphical models and learning probabilistic models from data.
+
+Course Objectives
+    To enable students to model problems using graphical models
+    To design inference algorithms
+    To learn the structure of the graphical model from the data set
+
+Course Outcomes
+
+   COs Description
+   CO1 Understand the process of encoding probability distributions using graphs
+   CO2 Analyze the independence properties of the graph structure
+       Understand and analyze Markov networks for the graphical modeling of probability
+   CO3 distributions
+
+   CO4 Familiarize methods that approximate joint distributions
+       Study and evaluate methods to learn the parameters of networks with known and
+   CO5 unknown structures
+
+
+Prerequisites
+    Probability and Statistics
+    Programming Languages
+    Algorithm Design
+
+Syllabus
+Introduction: Probability distributions, random variables, joint distributions, random process,
+graphs, undirected and Directed Graphical Models. Representation: Bayesian Networks –
+Independence in graphs – d-separation, I-equivalence, minimal I-maps. Undirected Graphical
+models: Gibbs distribution and Markov Networks, Markov models and Hidden Markov
+Models. From Bayesian to Markov and Markov to Bayesian networks, Triangulation and
+Chordal Graphs. Directed Gaussian graphical models. Exponential Family Models. Factor
+Graph Representation. Conditional Random Fields. Other special Cases: Chains, Trees.
+
+Inference: Variable Elimination (Sum Product and Max-Product). Junction Tree Algorithm.
+Forward Backward Algorithm (for HMMs). Loopy Belief Propagation. Markov Chain Monte
+Carlo Metropolis Hastings. Importance Sampling. Gibbs Sampling. Variational Inference.
+
+                                              19
+Learning Graphical models: Discriminative vs. Generative Learning., Density estimation,
+learning as optimization, maximum likelihood estimation for Bayesian networks, structure
+learning in Bayesian networks, Parameter Estimation in Markov Networks. Structure Learning.
+Learning undirected models- EM: Handling Missing Data. Applications in Vision, Web/IR,
+NLP and Biology. Advanced Topics: Statistical Relational Learning, Markov Logic Networks
+.
+Text Book / References
+   1. Daphne Koller and Nir Friedman, ”Probabilistic Graphical Models: Principles
+       and Techniques”, First Edition, MIT Press, 2009.
+   2. Michael Jordan, ”Learning in Graphical Models”. MIT Press, 1998. Collection
+       of Papers.
+   3. Judea Pearl, Morgan Kaufmann, ”Probabilistic Reasoning in Intelligent
+       Systems”, 1988.
+   4. Kevin P. Murphy, “Machine Learning, a probabilistic perspective”, The MIT
+       Press Cambridge, Massachusetts, 2012.
+   5. Darwiche Adnan, ”Modeling and reasoning with Bayesian networks”,
+       Cambridge university press, 2009.
+
+
+CO-PO Mapping
+    COs Description                                          PO1 PO2 PO3 PO4 PO5
+        Understand the process of encoding probability
+    CO1                                                       3   2    3      1     2
+        distributions using graphs
+        Analyze the independence properties of the graph
+    CO2                                                       3   3    3      1     2
+        structure
+        Understand and analyze Markov networks for the
+    CO3                                                       3   2    3      2     2
+        graphical modeling of probability distributions
+        Familiarize methods that approximate joint
+    CO4                                                       3   2    2      -     -
+        distributions
+        Study and evaluate methods to learn the parameters
+    CO5 of networks with known and unknown structures         3   3    4      2     4
+        using real life data sets
+
+Evaluation Pattern - 70:30
+
+      Midterm Exam - 30%
+      Continuous Evaluation - 20%
+      End Semester Exam - 50%
+
+
+
+
+                                               20
+24AI634         Computational Statistics and Inference Theory                            3-0-2-4
+
+Preamble
+This course mainly focuses on the methods of computational statistics and how these methods
+can be applied in real world data sets. It provides understanding in the basic ideas of statistics,
+sampling distributions, exploratory data analysis, approaches for simulating distributions,
+estimation of probability density functions, and algorithms for data analysis.
+
+Course Objectives
+    Introduce students to the importance of computation in data analysis.
+    To familiarize students with computational methods and simulation techniques used in
+      statistics.
+    To enable the student to explore the features of high dimensional data sets.
+    To choose suitable computational methods to identify statistical pattern in real world
+      data.
+
+Course Outcomes
+
+   COs      Description
+   CO1     Understand the need of computational methods in data analysis
+   CO2     Choose suitable computational methods to analyze real world high dimensional data
+   CO3     Sets
+   CO4     Identify statistical pattern in data using suitable algorithms
+
+Prerequisites
+    Probability and Statistics
+    Linear Algebra
+
+Syllabus
+
+Probability concepts, Probability simulations, Sampling concepts - random sampling, sampling
+distribution-, Parameter estimation methods – Maximum Likelihood Estimation, Method of
+Moments- Random number generation - General techniques for generating Random Variables,
+Monte Carlo Algorithms-Buffon’s needle experiment,
+
+Monte carlo integration, Monte Carlo Methods for Inferential Statistics - Monte Carlo
+Hypothesis Testing, Bootstrap Methods - Exploratory data analysis – Traditional statistics
+methods and computational statistics methods , Frequentist statistics and Bayesian statistics
+Linear models and regression analysis - Maximum likelihood estimation, Linear Regression,
+Polynomial Regression, Stepwise Regression, Ridge Regression, Lasso, ElasticNet - Statistical
+Pattern Recognition- Bayes Decision Theory Estimating Class-Conditional Probabilities,
+Bayes Decision Rule Classification and Regression Trees, Clustering
+
+                                                21
+Classification trees, Algorithm for Normal Attributes, Information Theory and Information.
+Entropy, Highly-Branching Attributes, ID3 to c4.5, CHAID, CART, Regression Trees, Model
+Trees, Pruning. Preprocessing and Post processing in data mining – Steps in Preprocessing,
+Discretization, Manual Approach, Binning, Entropy- based Discretization, Gaussian
+Approximation, K-tile method, Chi Merge, Feature extraction, selection and construction,
+Feature extraction, Algorithms, Feature selection, Feature construction, Missing Data, Post
+processing.
+
+Text Book / References
+   1. Wendy L. Martinez and Angel R Martinez, ”Computational Statistics” ,Chapman
+      & Hall/CRC, 2002.
+   2. Jiawei Han and Micheline Kamber, “Data Mining: Concepts and Techniques”,
+       Morgan Kauf- mann Publishers, 2001.
+   3. K. P. Soman, V. Ajay and Diwakar Shyam, “Insight into Data Mining: Theory
+       and Practice”, Prentice Hall India, 2005.
+   4. Murphy, Kevin P. Machine learning: a probabilistic perspective. MIT press,
+       2012.
+   5. Hastie, T., Tibshirani, R., & Friedman, J. H. The elements of statistical learning:
+       data mining, inference, and prediction. 2nd ed. New York: Springer, 2009.
+
+
+CO-PO Mapping
+    COs Description                                         PO1 PO2 PO3 PO4 PO5
+        Understand the need of computational methods
+    CO1                                                      3   3   2   -   -
+        in data analysis
+        Choose suitable computational methods to analyze
+    CO2                                                      3   3   4   2   1
+        real world high dimensional data sets
+        Identify statistical pattern in data using suitable
+    CO3                                                      3   3   3   4   3
+        algorithms
+        Use existing methods to develop new statistical
+    CO4                                                      2   3   3   -   -
+        tools
+
+Evaluation Pattern - 70:30
+
+      Midterm Exam - 30%
+      Continuous Evaluation – 40%
+      End Semester Exam - 30%
+
+
+
+
+                                              22
+24AI635                        Computational Intelligence                           3-0-2-4
+Preamble
+This course covers the principles and applications of computational intelligence techniques,
+including artificial neural networks, evolutionary algorithms, and fuzzy systems. Students will
+gain theoretical knowledge and practical skills to design, implement, and analyze intelligent
+systems
+
+Course Objectives
+
+      Gain comprehensive knowledge of neural network architectures and training
+       techniques, including backpropagation, gradient descent, and hyperparameter tuning.
+      Develop proficiency in designing and implementing genetic algorithms and fuzzy logic
+       systems, with a focus on real-world applications and hybrid computational intelligence
+       systems.
+
+Course Outcomes
+
+   COs      Description
+   CO1     Understand the foundational concepts of computational intelligence.
+   CO2     Apply computational intelligence techniques to solve real-world problems.
+           Develop the ability to critically analyze and compare different computational
+   CO3
+           intelligence methods.
+           Gain hands-on experience with software tools and libraries for computational
+   CO4
+           intelligence.
+
+
+Prerequisites
+
+      Basic programming knowledge (Python or MATLAB)
+      Introductory courses in linear algebra, calculus, and probability
+
+
+Syllabus
+Introduction to Neural Networks: Biological inspiration, Perceptron and its limitations,
+Multilayer Perceptron, Training Neural Networks: Backpropagation algorithm, Gradient
+descent optimization, Overfitting and regularization, Hyper parameter tuning, Kohonen’s Self-
+Organizing Networks - Hopfield Networks, Boltzmann Machine, Introduction to Advanced
+Architectures: CNN, RNN and Auto encoders
+Introduction to Evolutionary Algorithms: Biological inspiration, Genetic algorithms (GA),
+Evolution strategies (ES), Genetic programming (GP), Genetic Algorithms: Representation and
+initialization, Selection, crossover, and mutation, Fitness evaluation, Convergence and
+diversity maintenance, Advanced Evolutionary Techniques: Differential evolution (DE),
+Particle swarm optimization (PSO)
+
+
+                                              23
+Introduction to Fuzzy Logic: Fuzzy sets and membership functions, Fuzzy rules and reasoning,
+Fuzzy inference systems, Defuzzification methods, Designing Fuzzy Systems: Fuzzy
+controllers, Fuzzy clustering, Fuzzy decision making, Applications in control systems and data
+analysis
+Hybrid Computational Intelligence Systems: Neuro-fuzzy systems, Genetic-fuzzy systems,
+Applications and case studies.
+
+
+Text Book / References
+
+   1. R.C. Eberhart, “Computational Intelligence: Concept to Implementations”, Morgan
+       Kaufmann Publishers, 2007.
+   2. Timothy J. Ross, "Fuzzy Logic with Engineering Applications," 4th Edition, Wiley,
+       2016
+   3. Laurence Fausett, “Fundamentals of Neural Networks”, Prentice Hall,1994
+   4. Nazmul Siddique, Hojjat Adeli, “Computational Intelligence: Synergies of Fuzzy
+       Logic, Neural Networks and Evolutionary Computing”, Willey 2013
+
+
+CO-PO Mapping
+ COs Description                                                PO1 PO2 PO3 PO4 PO5
+     Understand the foundational concepts of computational
+ CO1                                                             3   -   -   -   -
+     intelligence.
+     Apply computational intelligence techniques to solve real-
+ CO2                                                             -   3   -   -   -
+     world problems.
+     Develop the ability to critically analyze and compare
+ CO3                                                             3   -   2   2   -
+     different computational intelligence methods.
+     Gain hands-on experience with software tools and libraries
+ CO4                                                             -   3   3   -   2
+     for computational intelligence.
+
+Evaluation Pattern - 70:30
+
+      Midterm Exam - 20%
+      Lab Assignments & Case Study – 50%
+      End Semester Exam - 30%
+
+
+
+
+                                             24
+24AI636                                Deep Learning                                   3-0-2-4
+
+Preamble
+With the advent of high-end computing facilities and with the availability of huge amount of
+data, deep learning became the de facto standard machine learning strategy to learn
+complicated patterns and is offering the state of the art results in diverse fields including but
+not limited to automatic language translation, speech processing, medical diagnoses and in
+almost all fields of computer vision. This course provides core understanding in different deep
+learning architectures, design principles, learning strategies and encourages the usage of many
+deep learning tools in designing and deploying solutions.
+
+Course Objectives
+    To introduce to students, different deep neural network architectures, training
+      strategies/ algorithms, possible challenges, tools and techniques available in designing
+      and deploying solutions to different practical/Engineering problems.
+
+Course Outcomes
+  COs Description
+        Understand and apply the basics of neural networks and address practical aspects of deep
+  CO1 learning
+        Design and implement CNNs and apply them to real-world tasks such as object detection,
+  CO2 face recognition
+        Develop and utilize RNNs, GRUs, LSTMs, and attention models for NLP applications
+  CO3 including word embedding and speech processing
+        Understand and implement advanced deep learning models and apply them to solve
+  CO4 complex problems
+
+
+Prerequisites
+    Computational Linear Algebra
+
+Syllabus
+
+Neural Networks basics – Linear Separable Problems and Perceptron – Multi layer neural
+networks and Back Propagation, Practical aspects of Deep Learning: Train/ Dev / Test sets,
+Bias/variance, Vanishing/exploding gradients, Gradient checking, Hyper Parameter Tuning
+
+Convolutional Neural Networks – Basics and Evolution of Popular CNN architectures –
+Transfer Learning–Applications: Object Detection and Localization, Face Recognition, Neural
+Style Trans- fer Recurrent Neural Networks – GRU – LSTM – NLP – Word Embeddings –
+Transfer Learning – Attention Models – Applications: Sentinel Classification, Speech
+Recognition, Action Recognition
+
+Restricted Boltzmann Machine – Deep Belief Network – Auto Encoders – Applications: Semi-
+Supervised classification, Noise Reduction, Non-linear Dimensionality Reduction. Goal
+
+                                               25
+Oriented Decision Making – Policy and Target Networks – Deep Quality Network for
+Reinforcement Learning
+
+Introduction to GAN – Encoder/Decoder, Generator/Discriminator architectures. Challenges
+in NN training – Data Augmentation – Hyper parameter Settings – Transfer Learning–
+Developing and Deploying ML Models (e.g., Matlab/Tensor Flow/PyTorch)
+
+Text Book / References
+   1. Ian Goodfellow, YoshuaBengio and Aeron Courville,” Deep Learning”, MIT
+       Press, First Edi- tion, 2016.
+   2. Adam Gibson and Josh Patterson,” Deep Learning, A practitioner’s approach”,
+       O’Reilly, First Edition, 2017.
+   3. Francois Chollet,” Deep Learning with Python”, Manning Publications Co, First
+       Edition, 2018.
+   4. Research Papers on Relevant Topics and Internet Resources
+
+
+CO-PO Mapping
+ COs Description                                              PO1 PO2 PO3 PO4 PO5
+     Understand and apply the basics of neural networks and
+ CO1                                                           3   1   -   2   -
+     address practical aspects of deep learning
+     Design and implement CNNs and apply them to real-world
+ CO2                                                           3   3   2   -   1
+     tasks such as object detection, face recognition
+     Develop and utilize RNNs, GRUs, LSTMs, and attention
+ CO3 models for NLP applications including word embedding and  3   1   2   2   1
+     speech processing
+     Understand and implement advanced deep learning models
+ CO4                                                           3   3   2   -   1
+     and apply them to solve complex problems
+
+
+Evaluation Pattern - 70:30
+
+      Midterm Exam - 20%
+      Lab Assignments & Case Study – 50%
+      End Semester Exam - 30%
+
+
+
+
+                                           26
+24AI637                           Reinforcement Learning                           3-0-2-4
+
+Preamble
+Artificial intelligence techniques face challenges in learning from dynamic environment with
+minimal data. This course deals with various algorithms to learn such an environment.
+Elements of Reinforcement Learning, Model Based Learning, Temporal Difference Learning
+and Policy Search are the main focus topics of this course.
+
+Course Objectives
+    Good understanding of various types of algorithms for Reinforcement Learning
+    Be able to design an RL system
+
+Course Outcomes
+
+   COs      Description
+            Understand the fundamentals of reinforcement learning and recognize how it
+   CO1     complements other ML techniques.
+   CO2      Acquire knowledge of different RL algorithms and apply them in practical applications
+           Learn to model tasks as reinforcement learning problems within the framework of
+   CO3     Markov Decision Processes and develop solutions
+   CO4     Implement RL algorithms using a scientific programming language
+
+
+Prerequisites
+    Machine Learning basics
+    Probability Theory basics
+    Programming basics
+
+Syllabus
+
+Introduction to Machine Learning and its various types, Motivation and Introduction to
+Reinforcement Learning, Multi arm Bandits, Markov Decision Process, Value functions;
+Dynamic programming: Policy evaluation and improvement, Value iteration and Policy
+iteration algorithms
+
+Value prediction problems: Temporal difference learning in finite state spaces Algorithms for
+large state spaces Control: Closed loop interactive learning, online and active learning in
+bandits, Q learning in finite MDPs, Q learning with function approximation,
+
+On policy approximation of action values: Value Prediction with Function Approximation,
+Gradient- Descent Methods, Policy approximation: Actor critic methods, Monte Carlo
+Methods: Monte-carlo prediction, estimation of action values, off policy prediction via
+importance sampling,
+
+                                             27
+Text Book / References
+   1. Sutton and Barto, Reinforcement Learning: An Introduction, The MIT Press
+       Cambridge, Massachusetts London, England, 2015
+   2. Csaba Szepesvari, Algorithms for Reinforcement Learning, Morgan & Claypool,
+       United States, 2010
+   3. Xiao, Z. (2024). Reinforcement Learning: Theory and Python Implementation.
+       Springer, 2024, ISBN 9789811949326.
+   4. Li, S. E. Reinforcement Learning for Sequential Decision and Optimal Control.
+       Springer. 2024, ISBN 9789811689093.
+
+
+CO-PO Mapping
+ COs Description                                                PO1 PO2 PO3 PO4 PO5
+      Understand the fundamentals of reinforcement learning and
+ CO1                                                             3   -   -   -   -
+     recognize how it complements other ML techniques.
+      Acquire knowledge of different RL algorithms and apply
+ CO2                                                             3   2   1   -   -
+     them in practical applications
+     Learn to model tasks as reinforcement learning problems
+ CO3 within the framework of Markov Decision Processes and       3   3   3   3   -
+     develop solutions
+     Implement RL algorithms using a scientific programming
+ CO4                                                             3   3   3   3   3
+     language
+
+Evaluation Pattern - 70:30
+
+      Midterm Exam - 20%
+      Lab Assignments – 25%
+      Project – 25%
+      End Semester Exam - 30%
+
+
+
+
+                                          28
+24AI638                          Mining of Massive Datasets                          3-0-2-4
+
+Preamble
+With the rise of user-web interaction and networking, as well as technological advances in
+processing power and storage capability, the demand for effective and sophisticated knowledge
+discovery techniques has grown exponentially. Businesses need to transform large quantities
+of information into intelligence that can be used to make smart business decisions. The
+importance of data to business decisions, strategy and behavior has proven unparalleled in
+recent years. Predictive analytics, data mining and machine learning are tools giving us new
+methods for analyzing massive data sets. Companies place true value on individuals who
+understand and manipulate large data sets to provide informative outcomes.
+
+Course Objectives
+    To acquire knowledge of existing systems and approaches to handle large scale data
+      science problems.
+    Apply different data mining techniques to handle large amounts of data.
+    Analyze the performance of various data mining techniques when applied to diverse
+      data sets.
+    To gain insights into the design of different machine learning algorithms applied for
+      data mining.
+
+Course Outcomes
+   COs     Description
+       Understand the importance of data to be applied for predictive analytics that considers
+   CO1 data mining and machine learning as tools to analyze massive data sets.
+
+       Introduce the design and operation of various big-data systems like Hadoop, Spark and
+   CO2 Hive.
+
+       Apply suitable data mining algorithms to handle huge document databases and infinite
+   CO3 streams of data to mine large social networks and web graphs.
+
+       Use case studies as a powerful analytical tool that will provide first-hand insight into how
+   CO4 big data problems and their solutions allow companies like Google to succeed in the
+       market.
+       Design large scale machine learning algorithms with practical hands-on experience for
+   CO5 analyzing very large amounts of data.
+
+Prerequisites
+    Machine Learning.
+
+Syllabus
+
+Basics of Data Mining - Computational Approaches - Statistical Limits on Data Mining -
+Bonferroni’s Principle - Importance of Words in Documents - Hash Functions - Indexes -
+Secondary Storage - The Base of Natural Logarithms - Power Laws -MapReduce - Distributed
+                                             29
+File Systems- Algorithms Using MapReduce . Extensions to MapReduce. Finding Similar
+Items - Applications of Near-Neighbor Search - Shingling of Documents - Similarity-
+Preserving Summaries of Sets - Locality- Sensitive Hashing for Documents - Distance
+Measures.
+
+Mining Data Streams: The Stream Data Model - Sampling Data in a Stream - Filtering Streams
+– Blooms Filter. Link Analysis: PageRank - Efficient Computation of PageRank - Topic-
+Sensitive PageRank - Link Spam. Frequent Itemsets: The Market-Basket Model - Market
+Baskets and the A-Priori Algorithm - Handling Larger Datasets in Main Memory- The
+Algorithm of Park, Chen, and Yu - The Multistage Algorithm - The Multi-hash Algorithm.
+
+Clustering: Introduction to Clustering Techniques -Points, Spaces, and Distances - Clustering
+Strategies - The Curse of Dimensionality. Hierarchical Clustering - K-means Algorithms – The
+Algorithm of Bradley, Fayyad, and Reina - CURE algorithm - Clustering in Non-Euclidean
+Spaces. Recommendation Systems: A Model for Recommendation Systems - Content-Based
+Recommendations - Collaborative Filtering – UV Decomposition. Dimensionality Reduction.
+Mining Social-Network Graphs: Social Networks as Graphs - Clustering of Social-Network
+Graphs - Direct Discovery of Communities - Partitioning of Graphs - Finding Overlapping
+Communities – Simrank. Dimensionality Reduction: Eigenvalues and Eigenvectors of
+Symmetric Matrices- Principal-Component Analysis - Singular-Value Decomposition
+
+Text Book / References
+
+   1. Jeffrey David Ullman, Jure Leskovec, Anand Rajaraman, “Mining of Massive Data
+      Sets”, ebook, Cambridge University Press, 2020.
+   2. Jiawei Han, Micheline Kamber, Jian Pei, ‘Data Mining. Concepts and Techniques’,
+      3rd Edition (The Morgan Kaufmann Series in Data Management Systems), Elsevier,
+      2012.
+
+
+CO-PO Mapping
+ COs Description                                                 PO1 PO2 PO3 PO4 PO5
+     Understand the importance of data to be applied for
+ CO1 predictive analytics that considers data mining and machine  3   1   -   -   -
+     learning as tools to analyze massive data sets.
+     Introduce the design and operation of various big-data
+ CO2                                                              2   2   -   -   3
+     systems like Hadoop, Spark and Hive.
+     Apply suitable data mining algorithms to handle huge
+ CO3 document databases and infinite streams of data to mine      3   -   3   3   2
+     large social networks and web graphs.
+     Use case studies as a powerful analytical tool that will
+     provide first-hand insight into how big data problems and
+ CO4                                                              2   3   2   2   2
+     their solutions allow companies like Google to succeed in
+     the market.
+     Design large scale machine learning algorithms with
+ CO5 practical hands-on experience for analyzing very large       3   3   3   -   3
+     amounts of data.
+
+
+                                             30
+Evaluation Pattern - 70:30
+
+      Midterm Exam - 20%
+      Lab Assignments – 25%
+      Project – 25%
+      End Semester Exam - 30%
+
+
+
+
+                                 31
+24AI639                             Generative AI                                    3-0-2-4
+
+Preamble
+This course offers an in-depth exploration of Generative AI, focusing on Generative
+Adversarial Networks (GANs) and Large Language Models (LLMs). Generative AI represents
+a cutting-edge field that aims to create models capable of generating realistic data,
+encompassing images, music, and text. Students will gain an understanding of generative
+models' principles and historical impact. The course covers GANs' architecture, and types like
+DCGANs and StyleGANs, and applications It also addresses performance challenges and
+improvement techniques. For LLMs, the course examines models like GPT-4 and BERT, their
+training on extensive text data, and applications in NLP tasks such as text generation,
+translation, and summarization. Students will learn to implement and fine-tune LLMs for
+specific purposes.
+
+Course Objectives
+
+      To understand basic principles of Artificial Intelligence.
+      To understand the basic areas of artificial intelligence including problem solving,
+       knowledge representation, reasoning, decision making, planning, perception and
+       action.
+      To understand automatic learning methods in artificial intelligence
+
+Course Outcomes
+
+   COs      Description
+           To understand and design architectures for various Generative Adversarial Network
+   CO1     (GAN) variants.
+   CO2     To implement and train GANs for practical real-world applications.
+   CO3     To apply techniques for assessing and improving the performance of GANs.
+           Apply the principles and optimization techniques of Large Language Models (LLMs) like
+   CO4     GPT-4 and BERT for various downstream tasks
+   CO5     To implement and fine-tune LLMs for various natural language processing (NLP) tasks.
+
+Prerequisites
+    Basic knowledge of Deep Learning
+    Familiarity with Python programming
+
+Syllabus
+
+Recap of Deep neural networks, Variational Autoencoders (VAEs), and attention mechanisms.
+Generative Adversarial Networks (GANs) GAN components, DCGANs using convolutional
+layers, control your GAN and build conditional GAN. Use GANs for data augmentation and
+privacy preservation, GANs applications, Pix2Pix and CycleGAN for image translation.
+                                             32
+Comparison of generative models, FID method to assess GAN fidelity and diversity, Bias in
+GAN, StyleGAN techniques
+
+Principles of Transformers, Word embeddings, Introduction to Large Language Models –
+Decoder-only LLMs: A deep dive into GPT, Encoder Only LLMs-BERT, Prompting –
+different prompting strategies – Instruction tuning – fine tuning – parameter efficient fine-
+tuning – quantized fine tuning. Small Language models. Training LLMs using reinforcement
+Learning.
+
+Evaluating LLMs: Benchmarks, evaluation frameworks and popular leaderboards.
+Applications/Case study of Large Language Models - Text Generation, Translation, and
+Summarization - Question Answering, Sentiment Analysis, Chatbots, Application of LLMs in
+healthcare and Code generation, latest advancements in LLMs.
+
+Text Book / References
+   1. Generative AI in Practice:Bernad Marr, Wiley,March 2024
+   2. Hands-On Large Language Models by Jay Alammar, Maarten Grootendorst,
+       December 2024 Publisher(s): O'Reilly Media.
+   3. Ian Goodfellow, YoshuaBengio and Aeron Courville,” Deep Learning”, MIT
+       Press,2016
+   4. ‘Deep Learning for Natural Language Processing: Develop Deep Learning
+       Models for your Natural Language Problems (Ebook)’, Jason Browlee, Machine
+       Learning Mastery, 2017.
+   5. Getting Started with Google BERT: Build and train state-of-the-art natural
+       language processing models using BERT by Sudharsan Ravichandiran, Packt
+       Publishing Limited January 2021.
+   6. Comprehensive         Overview     of      LLMs-       A     survey      paper:
+       https://arxiv.org/pdf/2307.06435. Other research papers on LLM
+   7. ‘Speech & language processing’ , Daniel Jurafsky, James H Martin, preparation
+       [cited 2020 June 1] Available from: https://web.stanford.edu/~jurafsky/slp3/
+
+
+CO-PO Mapping
+ COs Description                                               PO1 PO2 PO3 PO4 PO5
+     To understand and design architectures for various         3   1   -   -   -
+ CO1 Generative Adversarial Network (GAN) variants.
+     To implement and train GANs for practical real-world 2         3   2   -   -
+ CO2 applications.
+     To apply techniques for assessing and improving the 3          2   2   -   -
+ CO3
+     performance of GANs.
+     Apply the principles and optimization techniques of Large  3   1   -   2   -
+ CO4 Language Models (LLMs) like GPT-4 and BERT for various
+     downstream tasks
+     To implement and fine-tune LLMs for various natural 3          1   -   2   1
+ CO5
+     language processing (NLP) tasks.
+                                             33
+Evaluation Pattern - 70:30
+
+      Midterm Exam - 20%
+      Continuous Assessment - Theory - 10%
+      Continuous Assessment - Lab – 40%
+      End Semester Exam - 30%
+
+
+
+
+                                         34
+24AI731                          Machine Learning for Bigdata                          2-0-2-3
+
+Preamble
+This course deals with two aspects of big data analytics. The first one is the infrastructure for
+big data analytics. Introduction to tools and algorithms that can be used to generate models
+from big data and to scale those models up to big data problems. Spark framework is the
+chosen platform. The second is the understanding and implementation of scalable and
+streaming algorithms to analyze voluminous data that is growing exponentially
+
+Course Objectives
+    To understand various scalable machine learning algorithms to solve big data problems.
+    To understand the SPARK architecture
+    To implement Machine Learning algorithms using PySpark
+
+Course Outcomes
+
+   COs  Description
+       Understand and explain how machine learning algorithm is made scalable to solve
+   CO1 big data problems.
+   CO2 Implement scalable Machine Learning algorithms using PySpark.
+       Apply and compare different strategies for big data analytics using various machine
+   CO3 learning algorithms
+       Understand Streaming algorithms and Coreset concept to analyze
+   CO4 high dimensional data
+
+
+Prerequisites
+    Machine Learning.
+
+Syllabus
+
+Introduction to Spark : Spark Architecture, Spark Jobs and APIs. Resilient Distributed
+Datasets- Creating RDDs, Transformation, Actions. Dataframes- Python to RDD
+communications, Creating Dataframes, Dataframe queries. MLlib -Loading and Transforming
+the data. Implementation of Machine Learning algorithms such as Classification and Clustering
+using the MLlib
+
+Approaches to Modelling- Importance of Words in Documents - Hash Functions- Indexes -
+Secondary Storage -The Base of Natural Logarithms - Power Laws - Map Reduce. Finding
+similar items: Shingling – LSH - Distance Measures. Mining Data Streams: Stream data model
+- Sampling data - Filtering streams. Link Analysis: Page Rank, Link Spam.
+
+Frequent Item Sets: Market Basket Analysis, A-Priori Algorithm - PCY Algorithm, Big data
+Clustering: Clustering in Non-Euclidean Spaces, BFR, CURE. Structured Streaming: Spark
+
+                                               35
+Streaming, Application dataflow. Coresets: Coresets for K-means, K -median clustering
+
+Text Book / References
+   1. Anand Raja Raman, Jure Leskovec and J.D. Ullman, “Mining of Massive Data
+       sets”, e-book, Publisher, 2014.
+   2. Kevin P. Murphey, “Machine Learning, a Probabilistic Perspective”, The MIT
+       Press Cambridge, Massachusetts, 2012.
+   3. Tomasz Drabas, Denny Lee , ”Learning Pyspark”, Packt, February 2017.
+   4. Jeff M. Phillips, ”Coresets and Sketches”, arXiv:1601.00617,2016
+
+
+CO-PO Mapping
+ COs Description                                            PO1 PO2 PO3 PO4 PO5
+     Understand and explain how machine learning
+ CO1                                                         3   -   -   -   -
+     algorithm is made scalable to solve big data problems.
+     Implement scalable Machine Learning algorithms using
+ CO2                                                         3   3   3   3   3
+     PySpark.
+     Apply and compare different strategies for big data
+ CO3                                                         3   2   1   1   -
+     analytics using various machine learning algorithms
+     Understand Streaming algorithms and Coreset concept
+ CO4                                                         3   2   1   1   -
+     to analyze high dimensional data
+
+Evaluation Pattern - 70:30
+
+      Midterm Exam - 20%
+      Lab Assignments – 25%
+      Project – 25%
+      End Semester Exam - 30%
+
+
+
+
+                                            36
+24AI732                      Applications of Machine Learning                    2-0-2-3
+
+Preamble
+Voluminous and high dimensional data persist in almost all domains. This course deals with
+applications of machine learning in various domains to solve complex optimization problems
+such as recommendation systems, web advertising, and customer segmentation. The entire life
+cycle of data analytics is dealt with in this course.
+
+Course Objectives
+    To understand the design and implementation strategies of various applications of
+      machine learning
+    To apply techniques of preprocessing, model generation and evaluation on a given
+      dataset from a particular domain.
+    To compare different strategies of machine learning on a particular application
+
+Course Outcomes
+
+   COs  Description
+       Understand how Machine learning is applied to solve problems in various
+   CO1 applications like game playing, recommendation systems, high dimensional
+       analysis, and targeted web advertising
+   CO2 Present and Implement ML algorithms to solve real world problems
+       Apply and compare different types of Machine learning approaches for a given
+   CO3 application problem in the context of performance
+
+       Design a machine learning system by incorporating various components of ML
+   CO4 and evaluate the performance
+
+
+Prerequisites
+    Machine Learning.
+
+Syllabus
+
+Review of machine learning Concepts, Design of ML system – data cleaning, feature
+engineering, model selection, model building & fine tuning, and model deployment. Bias,
+variance, learning curves, and error analysis. Recommendation Systems – Model for
+Recommendation Systems, Utility Matrix, Content-Based Recommendations, Discovering
+Features of Documents, Collaborative Filtering. Usage of UV and NMF decomposition in
+Recommendation systems
+
+Advertising on the Web: Issues in Online Advertising, Online and offline algorithms, The
+matching Problem, The AdWords Problem, The Balance Algorithm, A Lower Bound on
+Competitive Ratio for Balance. Customer segmentation – Subspace Clustering, Types of
+Subspace clustering, Top down and bottom-up approach: PROCLUS and, CLIQUE and their
+                                            37
+applications in Indexing in databases. Application of dimensionality reduction-SVD for Latent
+Semantic Indexing, CUR for approximate query processing from databases, PCA, for Image
+Processing – compression, identification and Visualization.
+
+Sparse models, State space models, Markov Decision Process, Bellman equations, Value
+iteration and Policy iteration, Linear Quadratic Regulation (LQR), Non-linear dynamics to
+LQR, Linear Quadratic Gaussian (LQG), Independent component Analysis (ICA) for speech
+processing
+
+Text Book / References
+   1. Anand Raja Raman, Jure Leskovec and J.D. Ullman, “Mining of Massive Data
+       sets”, e-book, Publisher, 2014.
+   2. Kevin P. Murphey, “Machine Learning, a Probabilistic Perspective”, The MIT
+       Press Cambridge, Massachusetts, 2012.
+   3. Selected Journal papers to be given as case study from each module.
+
+
+CO-PO Mapping
+ COs Description                                              PO1 PO2 PO3 PO4 PO5
+     Understand how Machine learning is applied to solve
+     problems in various applications like game playing,
+ CO1                                                           3   3   3   2   2
+     recommendation systems, high dimensional analysis,
+     and targeted web advertising
+     Present and Implement ML algorithms to solve real
+ CO2                                                           3   3   3   2   2
+     world problems
+     Apply and compare different types of Machine learning
+ CO3 approaches for a given application problem in the context 1   3   3   2   2
+     of performance
+     Design a machine learning system by incorporating
+ CO4                                                           3   3   3   2   2
+     various components of ML and evaluate the performance
+
+Evaluation Pattern - 70:30
+
+      Midterm Exam - 20%
+      Lab Assignments – 25%
+      Project – 25%
+      End Semester Exam - 30%
+
+
+
+
+                                             38
+24AI733                        Evolutionary Machine Learning                       2-0-2-3
+Preamble
+This course explores the intersection of evolutionary computation and machine learning. It
+provides an in-depth understanding of how evolutionary techniques can enhance machine
+learning methods. The course covers a wide range of topics, from fundamental concepts to
+advanced applications, and equips students with the skills to apply these techniques to real-
+world problems. It’s a blend of theoretical knowledge and practical implementation, designed
+to prepare students for future academic or professional roles in this exciting field.
+
+Course Objectives
+
+      To understand the fundamental concepts of evolutionary algorithms and their
+       applications in various learning paradigms in machine learning.
+      To develop proficiency in implementing evolutionary computation techniques for
+       clustering, classification, regression, and ensemble learning.
+      To learn to enhance machine learning models through evolutionary approaches for data
+       preparation, model parametrization, design, and validation.
+      To critically evaluate and compare the effectiveness of evolutionary computation
+       methods with traditional machine learning techniques.
+
+Course Outcomes
+
+   COs     Description
+       Understand the principles and techniques of evolutionary computation in machine
+   CO1 learning
+
+       Develop the ability to formulate and solve problems using evolutionary computation
+   CO2 techniques.
+
+       Demonstrate the ability to apply evolutionary algorithms to solve problems in clustering,
+   CO3 classification, regression, and ensemble learning
+
+   CO4 Design, validate, and optimize machine learning models using evolutionary computation.
+Prerequisites
+
+      Mathematical Foundations of Computing
+      Machine Learning
+
+Syllabus
+Evolutionary Machine Learning Basics: Fundamentals of Evolutionary Machine Learning -
+Introduction to Evolutionary Computation, Biological Inspiration behind Evolutionary
+Algorithms. Evolutionary Supervised Machine Learning - Introduction to Supervised
+Learning, Evolutionary Algorithms for Regression and Classification, Feature Selection using
+Evolutionary Algorithms. Evolutionary Machine Learning for Unsupervised Learning -
+Introduction to Unsupervised Learning, Evolutionary Clustering Algorithms, Evolutionary
+                                             39
+Dimensionality Reduction Techniques. Evolutionary Computation and the Reinforcement
+Learning Problem - Introduction to Reinforcement Learning, Evolutionary Algorithms for
+Policy Optimization, Balancing Exploration and Exploitation using Evolutionary Techniques.
+ Evolutionary Computation as Machine Learning: Evolutionary Regression and Modelling
+- Evolutionary Algorithms for Regression Problems, Model Selection and Optimization using
+Evolutionary Techniques. Evolutionary Clustering and Community Detection - Community
+Detection in Networks using Evolutionary Techniques. Evolutionary Classification -
+Evolutionary Algorithms for Binary and Multi-class Classification, Hyperparameter Tuning
+and Model Selection using Evolutionary Techniques. Evolutionary Ensemble Learning -
+Evolutionary Algorithms for Ensemble Model Construction, Diversity and Performance
+Optimization using Evolutionary Techniques.
+Evolutionary Computation for Machine Learning: Genetic Programming as an Innovation
+Engine for Automated Machine Learning: The Tree-Based Pipeline Optimization Tool (TPOT),
+Evolutionary Model Validation—An Adversarial Robustness Perspective, Evolutionary
+Approaches to Explainable Machine Learning, Evolutionary Algorithms for Fair Machine
+Learning.
+
+Text Book / References
+   1. Banzhaf, W., Machado, P., Zhang, M. (Eds.) (2023). Handbook of Evolutionary
+       Machine Learning. Springer.
+   2. Song, T., Zheng, P., Wong, M. L. D., Wang, X. (2019). Bio-Inspired Computing
+       Models and Algorithms. World Scientific.
+   3. Floreano, D., Mattiussi, C. (2008). Bio-Inspired Artificial Intelligence. MIT
+       Press.
+   4. Mitchell, T. (1997). Machine Learning. McGraw Hill.
+   5. Eiben, A. E., Smith, J. E. (2015). Introduction to Evolutionary Computing.
+       Springer.
+
+CO-PO Mapping
+ COs Description                                                   PO1 PO2 PO3 PO4 PO5
+     Understand the principles and techniques of evolutionary
+ CO1                                                                3   2   3   1   -
+     computation in machine learning
+     Develop the ability to formulate and solve problems using
+ CO2                                                                3   3   3   2   1
+     evolutionary computation techniques.
+     Demonstrate the ability to apply evolutionary algorithms to
+ CO3 solve problems in clustering, classification, regression, and  3   3   3   2   1
+     ensemble learning
+     Design, validate, and optimize machine learning models
+ CO4                                                                3   3   3   3   2
+     using evolutionary computation.
+
+Evaluation Pattern - 70:30
+
+      Midterm Exam - 20%
+      Lab Assignments – 50%
+      End Semester Exam - 30%
+
+                                           40
+24AI734                         Applied Predictive Analytics                       2-0-2-3
+
+Preamble
+Predictive analytics is used to predict of future outcomes based on historical data using
+statistical and machine learning techniques. This course provides a comprehensive review of
+various analytics methods. Students will gain an in-depth understanding of supervised and
+unsupervised learning for predictive analytics. The course will also cover the principles of
+forecasting analytics.
+
+Course Objectives
+    To familiarize students with the methods for exploration and visualization of data
+    To develop machine learning models for predictive tasks
+    To choose suitable performance measures for predictive models
+    To apply predictive modelling techniques in real world data
+
+Course Outcomes
+
+   COs     Description
+   CO1 Understand a nd de scribe analytical methods used in predictive analytics
+   CO2 Evaluate the measures to access predictive performance of data mining tasks
+   CO3 Understand and design prediction, classification methods
+       Learn and identify appropriate methods for forecasting different types of time
+   CO4 series data
+
+   CO5 Apply suitable predictive methods in real-life problems
+
+Prerequisites
+    Linear Algebra and Probability
+
+Syllabus
+
+Introduction and Overview of the Predictive Analytics – Building a Predictive Model -
+Predictive Power and Overfitting - Data Partitioning – Exploratory Data Analysis - Data
+Visualization - Dimension Reduction - Principal Components Analysis - Performance
+Evaluation - Evaluating Predictive Performance - Judging Classifier Performance – Lift and
+Decile Charts – Oversampling.
+
+Prediction and Classification Methods - Multiple Linear Regression - Explanatory vs.
+Predictive Modeling - Estimating the Regression Equation and Prediction - The k-NN
+Classifier (Categorical Outcome) - The Naive Bayes Classifier - Classification and Regression
+Trees - Logistic Regression - Neural Nets - Discriminant Analysis - Combining Methods:
+Ensembles - Uplift Modeling - Association Rules and Collaborative Filtering - Clustering.
+
+
+                                             41
+Forecasting Time Series – Components of a Time Series – Data Partitioning and Performance
+Evaluation for Time Series – Naive Forecasts - Smoothing Methods - Introduction - Moving
+Average - Simple Exponential Smoothing – Advanced Exponential Smoothing–Regression-
+Based Forecasting - Autocorrelation and ARIMA Models - Data Analytics - Social Network
+Analytics - - Text Mining - predictive analytics in business application - Other Case Studies.
+
+Text Book / References
+   1. Max Kuhn and Kjell Johnson, “Applied Predictive Modeling”, Springer, 2018.
+   2. Galit Shmueli, Peter Gedeck, Peter C. Bruce, Nitin R. Patel, “Data Mining for
+       Business Analytics: Concepts, Techniques, and Applications in Python”, Wiley,
+       2019.
+   3. Daniel T. Larose and Chantal D. Larose, “Data Mining and Predictive Analytics”
+       (Wiley Series on Methods and Applications in Data Mining), Wiley, 2015.
+   4. Ratner Bruce, ”Statistical and Machine-Learning Data Mining:: Techniques for
+       Better Predictive Modeling and Analysis of Big Data”, CRC Press, 2017.
+   5. Abbott Dean, ”Applied predictive analytics: Principles and techniques for the
+       professional data analyst”, John Wiley & Sons, 2014.
+
+
+CO-PO Mapping
+ COs Description                                                 PO1 PO2 PO3 PO4 PO5
+     Understand a n d d e s c r i b e analytical methods used in
+ CO1                                                              3   1   -   -   -
+     predictive analytics
+     Evaluate the measures to access predictive performance
+ CO2                                                              3   3   2   -   -
+     of data mining tasks
+     Understand and design prediction, classification
+ CO3                                                              3   3   3   1   -
+     methods
+     Learn and identify appropriate methods for forecasting
+ CO4                                                              3   2   2   1   -
+     different types of time series data
+ CO5 Apply suitable predictive methods in real-life problems      3   3   3   3   3
+
+Evaluation Pattern - 70:30
+
+      Midterm Exam - 30%
+      Continuous Evaluation – 40%
+      End Semester Exam - 30%
+
+
+
+
+                                             42
+24AI735                           Federated Learning                                  2-0-2-3
+
+Preamble
+Federated Learning can improve the performance of models by leveraging the diversity of the
+data across different devices. In this course, students will learn basics of Federated Learning
+and will be able to apply the real-time updates of the model in various practical scenarios.
+
+Course Objectives
+    Get exposure to need for distributed model updates
+    To understand the importance of privacy and security in machine learning techniques
+
+Course Outcomes
+
+   COs     Description
+   CO1 Describe the key concepts and architecture of Federated Learning.
+   CO2 Apply different methods to develop federated learning systems.
+   CO3 Apply optimization techniques in Federated Learning
+   CO4 Construct and scale a simple federated system
+       Evaluate privacy and security concerns in Federated Learning and implement privacy-
+   CO5 preserving techniques.
+
+Prerequisites
+    Machine Learning
+
+Syllabus
+
+Introduction to Federated Learning - Overview of Federated Learning: Definition, History, and
+Applications - Concepts and Terminology - Federated Learning Architecture -Machine
+Learning Perspective -Security & Privacy in Federated Learning - Federated Learning vs
+Centralized Learning: Comparison and Contrast
+
+Horizontal Federated Learning (HFL) -Definition and Architecture of Horizontal Federated
+Learning - Federated Averaging (FedAvg) Algorithm - Improvements on the FedAvg
+Algorithm
+
+Vertical Federated Learning (VFL) - Definition and Architecture of Vertical Federated
+Learning - VFL Algorithms: Secure Federated Linear Regression, Secure Federated Tree
+Boosting
+
+Federated Learning with Non-IID Data - Heterogeneity in Federated Learning -Stratification
+and Local Updated Rules - Advanced Optimization Techniques in Federated Learning -
+Adaptive Learning Rate -Momentum and Weight Decay
+                                              43
+Federated Transfer Learning (FTL) - Framework of Federated Transfer Learning -
+Homomorphic Encryption in FTL - FTL Training Process -FTL Prediction Process - Security
+Analysis of FTL - Secret Sharing based FTL
+
+Security in Federated Learning - Protecting Against Data Leakage in FL -Private Parameter
+Aggregation for FL - Data Leakage in FL Advanced Security Issues -Dealing with Byzantine
+Threats to Neural Networks in FL
+
+Practical Applications and Case Studies -Real-world Applications of Federated Learning
+
+Text Book / References
+   1. Federated learning comprehensive overview of methods and applications
+       Springer Nature Switzerland AG; 1st ed. 2022 edition By Heiko Ludwig
+       (Editor), Nathalie Baracaldo.
+   2. Federated Learning, Morgan Claypool Publishers, By Qiang Yang, Yang Liu,
+       Yong Cheng, Yan Kang, Tianjian Chen, and Han Yu.
+   3. Federated Learning with Python by Kiyoshi Nakayama PhD, George Jeno,
+       O'Reilly Media, Inc. Pub.
+   4. What-is-federated learning? By Emily Glanz, Nova Fallen, O'Reilly Media, Inc.
+      Pub.
+
+
+CO-PO Mapping
+ COs Description                                             PO1 PO2 PO3 PO4 PO5
+     Describe the key concepts and architecture of Federated
+ CO1                                                          3   -   3   2   -
+     Learning.
+     Apply different methods to develop federated learning
+ CO2                                                          3   2   1   -   2
+     systems.
+  CO3    Apply optimization techniques in Federated Learning     2   -   2      3        3
+
+  CO4    Construct and scale a simple federated system           2   3   2      3        -
+         Evaluate privacy and security concerns in Federated
+  CO5                                                            2   2   3      2        2
+         Learning and implement privacy-preserving techniques.
+
+Evaluation Pattern - 70:30
+
+       Midterm Exam - 20%
+       Continuous Evaluation – 50%
+       End Semester Exam - 30%
+
+
+
+
+                                                    44
+24AI736                             Explainable AI                                   2-0-2-3
+
+Preamble
+
+This course provides an Introduction to Explainable AI (XAI) through practical applications
+and real-world examples. Students will gain a basic proficiency in interpreting and explaining
+the decisions of ML and AI systems, in a transparent and understandable manner to humans.
+The course will cover various XAI techniques and algorithms, including rule-based models,
+feature importance analysis, model-agnostic approaches, and post-hoc explanations.
+
+Course Objectives
+
+      To understand how to explain machine learning models with various techniques.
+      To explain various factors affecting the efficiency of machine learning models.
+      To apply the explainability while applying ML models in practical applications.
+
+Course Outcomes
+
+   COs Description
+   CO1 Understand the concept and importance of explainability in AI models
+       Apply visual explanations techniques such as PDP, ICE, Surrogate Models, and Feature
+   CO2 Importance
+   CO3 Explain structured data, images, and unstructured data using Deep Explainers and LLMs
+   CO4 Evaluate the application of explainability techniques in model development processes
+
+Prerequisites
+    Machine Learning, Python Programming
+
+Syllabus
+
+Explainability –What and Why, When not to use explainability; Types of explainability and
+Taxonomy, Explainability in the model development process.
+
+Visual Explanations – Transparent models and RuleFit, Partial Dependency Plots, Partial
+Dependency plot (PDP), Individual conditional expectations (ICE), Applications of these plots,
+Global Explanations – Surrogate Models, Feature Importance; Local Explanations – LIME,
+Shapley values.
+
+Explaining Structured Data, Explaining Images and Unstructured Data and Text Deep
+Explainers, Time Series Explainers, LLM, Foundation Models.
+
+
+
+
+                                             45
+Text Book / References
+   1. Denis Rothman “Hands-On Explainable AI (XAI with Python”, Packt
+       Publishing, 2020
+   2. Explainable AI for Practitioners by Michael Munn, David Pitman, O'Reilly
+       Media 2022, ISBN: 9781098119133
+   3. Explainable AI: Interpreting, Explaining and Visualizing Deep Learning, Lecture
+       Notes in Artificial Intelligence, Springer Nature, 2019
+
+
+CO-PO Mapping
+ COs Description                                                  PO1 PO2 PO3 PO4 PO5
+     Understand the concept and importance of explainability in
+ CO1 AI models                                                     2   2   1   2   -
+     Apply visual explanations techniques such as PDP, ICE,
+ CO2 Surrogate Models, and Feature Importance                      2   2   3   2   -
+     Explain structured data, images, and unstructured data using
+ CO3                                                               3   2   2   3   1
+     Deep Explainers and LLMs
+     Evaluate the application of explainability techniques in
+ CO4                                                               1   1   3   2   3
+     model development processes
+
+Evaluation Pattern - 70:30
+
+      Midterm Exam - 20%
+      Quizzes - 20%
+      Lab Assignments & Case Study – 30%
+      End Semester Exam - 30%
+
+
+
+
+                                            46
+24AI737                        Artificial Intelligence for Robotics                    2-0-2-3
+
+Preamble
+In recent years, several off-the-shelf robots have become available and some of them have
+made their way into our homes, offices, and factories. The ability to program robots has
+therefore become an important skill; e.g., for robotics research as well as in several companies
+(such as iRobot, ReThink Robotics, Willow Garage, medical robotics, and others). We study
+the problem of how a robot can learn to perceive its world well enough to act in it, to make
+reliable plans, and to learn from its own experience. The focus will be on algorithms and
+machine learning techniques for autonomous operation of robots.
+
+Course Objectives
+    To understand the principles of reinforcement learning which is one of the key learning
+      techniques for robots.
+    To understand uncertainty handling in robotics through probabilistic approaches.
+    To learn how measurements work for robots.
+
+Course Outcomes
+
+   COs      Description
+   CO1 Learn the foundations of reinforcement learning for robotics
+   CO2 Understand basic probabilistic principles behind Robotics intelligence
+   CO3 Learn different measurement techniques for robotics
+   CO4 Understand POMDP and its significance for robotics
+   CO5 Implement principles of robotics intelligence for solving real world problems
+
+Prerequisites
+    Data Structures and Algorithms
+    Foundation of Data Science
+    Linear Algebra and Optimization
+    Principles of AI and ML
+
+Syllabus
+
+Overview: Robotics introduction, historical perspective on AI and Robotics, Uncertainty in
+Robotics Reinforcement Learning: Basic overview, examples, elements, Tabular Solution
+Methods - Multi- armed bandits, Finite Markov decision process, Dynamic programming
+(Policy Evaluation, Policy Iteration, Value Iteration), Monte Carlo Methods, Temporal-
+Difference Learning (Q-learning, SARSA).
+
+Approximate Solution Methods - On-policy Prediction with Approximation, Value function
+approximation, Non-linear function approximation, Reinforcement Learning in robotics,
+                                              47
+Recursive state estimation: Robot Environment Interaction, Bayes filters, Gaussian filters –
+The Kalman filter, The Extended Kalman Filter, The information filter, The particle filter
+Robot motion: Velocity Motion Model, Odometry Motion Model, Motion and maps.
+
+Measurement: Beam Models of Range Finders, Likelihood Fields for Range Finders,
+Correlation- Based Sensor Models, Feature-Based Sensor Models, Overview of POMDP.
+
+Text Book / References
+   1. Sebastian Thrun, Wolfram Burgard, Dieter Fox, Probabilistic Robotics, MIT
+       Press 2005
+   2. Richard S. Sutton, Andrew G. Barto, Reinforcement Learning: An Introduction”,
+       Second edition, MIT Press, 2018
+   3. Jens Kober, Jan Peters, Learning Motor Skills: From Algorithms to Robot
+       Experiments, Springer, 2014
+   4. Francis X. Govers, Artificial Intelligence for Robotics, Packt, 2018
+
+
+CO-PO Mapping
+ COs Description                                         PO1 PO2 PO3 PO4 PO5
+     Learn the foundations of reinforcement learning for
+ CO1                                                      3   1   3   -   1
+     robotics
+     Understand basic probabilistic principles behind
+ CO2                                                      3   1   3   -   1
+     Robotics intelligence
+  CO3    Learn different measurement techniques for robotics         3   -   3   -     1
+
+  CO4    Understand POMDP and its significance for robotics          3   -   3   -     1
+         Implement principles of robotics intelligence for solving
+  CO5                                                                3   -   3   1      -
+         real world problems
+
+Evaluation Pattern - 70:30
+
+       Midterm Exam - 20%
+       Lab Assignments – 25%
+       Project – 25%
+       End Semester Exam - 30%
+
+
+
+
+                                                   48
+24AI738                              Data Visualization                                 2-0-2-3
+
+Preamble
+Data visualization is an essential aspect of the data science portfolio and finds application
+across diverse disciplines which use visualization techniques to explore and present data. This
+course lays a road map to data-driven storytelling by focusing on the principles, methods, and
+techniques of scientific visualization that help to create powerful and engaging visuals, tailored
+to the needs of diverse stakeholders.
+
+Course Objectives
+    To understand the important role of visualization in the analysis of data.
+    To apply data visualization best practices to choose the appropriate visualization
+      tailored to the needs of the audience.
+    To learn some of the latest tools and software to produce effective visuals that capture
+      the stories within the data
+
+Course Outcomes
+
+   COs      Description
+   CO1 Understand and explain the key techniques used in data visualization
+   CO2 Apply effective visualizations to explore and analyze input data
+   CO3 Present the insights and findings in engaging formats that produce compelling stories
+   CO4 Evaluate data visualization systems for their effectiveness
+       Design and build data visualization systems following the best practices using
+   CO5 popular software tools for visualization such as Tableau/QlikView
+
+Prerequisites
+    Basic Data Science.
+
+Syllabus
+
+Value of Visualization – What is Visualization and Why do it: External representation –
+Interactivity – Difficulty in Validation. Data Abstraction: Dataset types – Attribute types –
+Semantics. Task Abstraction – Analyze, Produce, Search, Query. Four levels of validation –
+Validation approaches – Validation examples. Marks and Channels
+
+Rules of thumb – Arrange tables: Categorical regions – Spatial axis orientation – Spatial layout
+density. Arrange spatial data: Geometry – Scalar fields – Vector fields – Tensor fields. Arrange
+networks and trees: Connections, Matrix views – Containment. Map color: Color theory,
+Color maps and other channels.
+
+Manipulate view: Change view over time – Select elements – Changing viewpoint – Reducing
+attributes. Facet into multiple views: Juxtapose and Coordinate views – Partition into views
+                                               49
+– Static and Dynamic layers – Reduce items and attributes: Filter – Aggregate. Focus and
+context: Elide – Superimpose - Distort, Case Studies using Tableau/Qlikview – Tabular Data -
+Graphs - Networks - Trees - Spatial Data - Text/Logs - Time Series Complex Combinations.
+
+Text Book / References
+   1. Tamara Munzner, ”Visualization Analysis and Design”, A K Peters Visualization
+       Series, CRC Press, 2014.
+   2. Claus O. Wilke, ”Fundamentals of Data Visualization: A primer for making
+       informative and compelling figures”, O’Reilly, 2019.
+   3. Kieran Healy, ”Data Visualization: A Practical Introduction”, Princeton
+       University Press, 2019.
+   4. Andy Kirk, ”Data Visualization, A Handbook for Data Driven Design”, 2nd ed,
+       Sage Publi- cations, 2019.
+   5. Nathan Yau, ”Visualize This: The Flowing Data Guide to Design, Visualization
+       and Statistics”, John Wiley & Sons, 2011.
+   6. Daniel Murray, ”Tableau Your Data!: Fast and Easy Visual Analysis with
+       Tableau Software”, Wiley, 2016.
+
+
+CO-PO Mapping
+ COs Description                                           PO1 PO2 PO3 PO4 PO5
+     Understand the key techniques and theory used in
+ CO1                                                        3   -   -   -   -
+     visualization of data
+     Apply effective visualizations to explore and analyze
+ CO2                                                        3   -   -   1   -
+     input data
+     Present the insights and findings in engaging formats
+ CO3                                                        3   -   -   -   1
+     that produce compelling stories
+     Evaluate data visualization systems for their
+ CO4                                                        3   2   -   -   -
+     effectiveness
+     Design and build data visualization systems following
+ CO5 the best practices using popular software tools for 3      3   3   3   2
+     visualization such as Tableau/QlikView
+
+Evaluation Pattern - 70:30
+
+      Midterm Exam - 20%
+      Lab Assignments – 25%
+      Project – 25%
+      End Semester Exam - 30%
+
+
+
+
+                                            50
+24AI739                           Stochastic Modeling                                 2-0-2-3
+
+Preamble
+This course provides an in-depth exploration of stochastic processes with a focus on their
+applications in artificial intelligence.
+
+Course Objectives
+    Gain a foundational understanding of finite Markov chains in discrete time.
+    Develop a comprehensive understanding of martingales in discrete time, covering
+      fundamental theoretical concepts and their practical implications.
+    Explore the essential principles of stochastic processes in continuous time, focusing on
+      key examples such as the Poisson process and Brownian motion.
+    Acquire insights into elementary stochastic calculus applied to Brownian motion,
+      enhancing comprehension of its theoretical underpinnings.
+
+Course Outcomes
+
+   COs      Description
+           Demonstrate a deep understanding of the theoretical foundations of finite Markov chains
+   CO1     in discrete time.
+   CO2     Apply martingale theory to analyze algorithms and decision-making processes in AI.
+           Understand the essential principles of stochastic processes in continuous time, with a
+   CO3     focus on the Poisson process.
+           Apply elementary stochastic calculus techniques to Brownian motion and related
+   CO4     processes.
+
+Prerequisites
+    None.
+
+Syllabus
+
+Introduction to Stochastic Processes: Overview of stochastic processes - Introduction to
+conditional expectations. Conditional Expectations: Definition and properties of conditional
+expectations - Conditional expectations in the context of stochastic processes - Bayesian
+inference and decision theory.
+
+Discrete Time Martingales: Definition and properties of martingales - Stopping times and
+optional stopping theorem - Discrete Time Markov Chains: Definition and properties of
+Markov chains - Classification of states, ergodicity - Stationary distributions and convergence
+- Markov decision processes (MDPs) and modelling sequential decision problems.
+
+Poisson Process: Interarrival times and memory lessness - Poisson processes in queuing theory
+and AI applications - Brownian Motion: - Stochastic integration and differential equations -
+Geometric Brownian motion and its applications in finance and AI. Elements of Ito Stochastic
+                                              51
+Calculus: Ito integral and Ito's lemma - Stochastic differential equations and models in
+continuous time.
+
+Text Book / References
+   1. Lawler, G. F. (2006). Introduction to Stochastic Processes (2nd ed.). Cambridge
+       University Press.
+   2. Del Moral, P. (2014). Stochastic Processes: From Applications to Theory, Springer.
+   3. Shreve, S. E. (2004). Stochastic Calculus for Finance II: Continuous-Time
+      Models (1st ed.). Springer.
+   4. Brzezniak, Z., & Zastawniak, T. (1999). Basic Stochastic Processes (1st ed.).
+       Springer.
+   5. Taylor, H. M., & Karlin, S. (2010). An Introduction to Stochastic Modeling (4th
+       ed.). Academic Press.
+
+CO-PO Mapping
+ COs Description                                                 PO1 PO2 PO3 PO4 PO5
+     Demonstrate a deep understanding of the theoretical
+ CO1                                                              2   2   2   1   2
+     foundations of finite Markov chains in discrete time.
+     Apply martingale theory to analyze algorithms and
+ CO2                                                              2   1   2   2   2
+     decision-making processes in AI.
+     Understand the essential principles of stochastic processes
+ CO3                                                              2   2   2   2   1
+     in continuous time, with a focus on the Poisson process.
+     Apply elementary stochastic calculus techniques to
+ CO4                                                              2   2   2   2   2
+     Brownian motion and related processes.
+
+Evaluation Pattern - 70:30
+
+      Midterm Exam - 20%
+      Quiz – 20%
+      Lab Continuous Assessment – 30%
+      End Semester Exam / Project - 30%
+
+
+
+
+                                            52
+24AI740                Networks and Spectral Graph Theory                           2-0-2-3
+
+Preamble
+Network science is an inter disciplinary field that combines mathematics, social science,
+computer science and many other areas. This course is essentially bringing an understanding
+on the behavior of networked systems such as the Internet, social networks, and biological
+networks.
+
+Course Objectives
+    Exploring graph models in networked systems; understanding the structure and the
+      behavior.
+    Empirical study and hands-on experience on social networks and other systems
+
+Course Outcomes
+  COs Description
+   CO1 Understanding the key concepts in network graphs
+   CO2 Apply a range of measures and models for characterizing network structure
+   CO3 Define methodologies for analyzing networks of different fields
+
+   CO4 Apply graph algorithms to different networks
+       Demonstrate knowledge of network graphs with the help of software tools such
+   CO5 NetworkX and Gephi
+
+Prerequisites
+    Primary knowledge of linear algebra and familiarity with graphs.
+    Working knowledge in Python for data science.
+
+Syllabus
+
+Graphs and Networks- Review of basic graph theory, Mathematics of networks- Networks and
+their representation, Graph spectra, Graph Laplacian, Structure of complex networks,
+Clustering, Com- munity structures, Social networks - the web graph, the internet graph,
+citation graphs. Measures and metrics- Degree centrality, Eigenvector centrality, Katz
+centrality, PageRank, Hubs and authorities, Closeness centrality, Betweenness centrality,
+Transitivity, Reciprocity, Similarity, assortative mixing.
+
+Networks models - Random graphs, Generalized random graphs, The small-world model,
+Exponential random graphs, The large-scale structure of networks- small world effect, Degree
+distributions, Power laws and scale-free networks; Structure of the Internet, Structure of the
+World Wide Web. Fundamental network algorithms- Graph partitioning, Maximum flows and
+minimum cuts, Spectral graph partitioning, Community detection, Girvan and Newman
+Algorithm, Simple modularity maximization, Spectral modularity maximization, Fast methods
+based on the modularity.
+                                             53
+Models of network Formation-Preferential attachment, Model of Barabasi and Albert, Vertex
+copying models, Network optimization models; Epidemics on networks- Models of the spread
+of disease, SI model, SIR model, SIS model, SIRS model; Network Search-Web search,
+Searching distributed databases. Graph databases like Neo4j, Graph Convolutional Neural
+Networks, Graph algorithms and implementation using NetworkX and Gephi.
+
+Text Book / References
+   1. M.E.J. Newman, “Networks: An Introduction”, Oxford University Press, 2018.
+   2. Dougles West, “Introduction to Graph Theory”, Third Edition, PHI Learning
+       Private Limited, 2021.
+   3. Guido Caldarelli, “Scale-Free Networks - Complex Webs in Nature and Technology
+       (2nd ed.)”, Oxford University Press, 2020.
+
+   4. Alain Barrat, Marc Barthelemy and Alessandro Vespignani, “Dynamical
+       processes on Complex networks”, Cambridge University Press, 2008.
+   5. Reuven Cohen and Shlomo Havlin, “Complex Networks: Structure, Robustness
+       and Function”, Cambridge University Press, 2010.
+
+
+CO-PO Mapping
+ COs Description                                                    PO1 PO2 PO3 PO4 PO5
+  CO1    Understanding the key concepts in network graphs            -   3   -   1     -
+         Apply a range of measures and models for
+  CO2                                                                3   2   -   -     -
+         characterizing network structure
+         Define methodologies for analyzing networks of different
+  CO3                                                                3   -   2   -     -
+         fields
+  CO4    Apply graph algorithms to different networks                -   -   2   3     -
+         Demonstrate knowledge of network graphs with the help
+  CO5                                                                -   -   -   3     3
+         of software tools such NetworkX and Gephi
+
+Evaluation Pattern - 70:30
+
+       Midterm Exam - 20%
+       Lab Assignments – 20%
+       Project – 30%
+       End Semester Exam - 30%
+
+
+
+
+                                                  54
+24AI741               Parallel and Distributed Data Management                       2-0-2-3
+Preamble
+The improvements in Database Management System (DBMS) technology have resulted in
+significant developments in distributed computing and parallel processing technologies. This
+has led to the development of distributed database management systems and parallel database
+management systems that are now the dominant data management tools for highly data-
+intensive applications. In addition to an introduction to parallel and distributed database
+architectures and their implementation features, this course covers advanced query processing
+and optimization approaches for parallel and distributed systems. The students also gain
+knowledge in setting up a distributed database application using the latest technologies.
+
+Course Objectives
+
+      To provide an understanding of the distributed and parallel database architectures so as
+       to make a choice while implementing a distributed application;
+      To learn how a distributed database can be implemented for an application;
+      To get trained in distributed query processing and optimization for various distributed
+       or parallel database applications
+
+Course Outcomes
+
+   COs      Description
+           Understand the need for different distributed and parallel database architectures and
+   CO1
+           study its characteristics.
+   CO2     Design algorithms for distributed and parallel data processing.
+   CO3     Understand the concepts of fragmentation and allocation algorithms.
+   CO4     Implement optimized parallel and distributed queries for such a system.
+           Design and build an application using one of the latest distributed or parallel database
+   CO5
+           technology.
+
+
+Prerequisites
+
+      DBMS
+      Algorithms and Data Structures
+      Advanced Java, Apache Spark
+
+Syllabus
+Introduction: Parallel and Distributed architectures, models, complexity measures,
+Communication aspects, A Taxonomy of Distributed Systems - Models of computation: shared
+memory and message passing systems, synchronous and asynchronous systems, Global state
+and snapshot algorithms.
+
+
+
+                                              55
+Distributed and Parallel databases: Centralized versus Distributed Systems, Parallel versus
+Distributed Systems, Distributed Database Architectures-Shared disk, shared nothing,
+Distributed Database Design – Fragmentation and Allocation, Optimization.
+Query Processing and Optimization – Parallel/ Distributed Sorting, Parallel/Distributed Join,
+Parallel/Distributed Aggregates, Network Partitions, Replication, Publish/Subscribe Systems-
+Case study on Apache Kafka Distributed Publish/Subscribe messaging Hadoop and Map
+Reduce – Data storage and analysis, Design and concepts of HDFS, YARN, Map Reduce
+workflows and Features, Setting up a Hadoop cluster.
+
+Text Book / References
+
+   1. M. Tamer Özsu and Patrick Valduriez, “Principles of Distributed Database Systems”,
+      4th Edition, 2020, Springer
+   2. Dimitri P. Bertsekas and John N. Tsitsiklis, ”Parallel and distributed computation :
+      Numerical methods”, 3rd Edition, 2020
+   3. Andrew S. Tannenbaum and Maarten van Steen ”Distributed Systems: Principles and
+      Paradigms”, Third Edition, Prentice Hall, October 2017.
+   4. Ajay D. Kshemkalyani and Mukesh Singhal, ”Distributed Computing: Principles,
+      Algorithms and Systems”, Cambridge University Press, 2011.
+   5. Vijay K. Garg, ”Elements of Distributed Computing”, Wiley-IEEE Press, May 2002
+   6. David DeWitt and Jim Gray, ”Parallel database systems: The future of high
+      performance database systems”, CACM, 1992
+   7. Tom White, ”Hadoop-The Definitive Guide”, 4th ed., O’Reilly, 2015
+
+
+CO-PO Mapping
+ COs Description                                                PO1 PO2 PO3 PO4 PO5
+     Understand the need for different distributed and parallel
+ CO1 database architectures and study its characteristics.       3   -   -   -   -
+     Design algorithms for distributed and parallel data
+ CO2 processing.                                                 3   2   2   2   -
+     Understand the concepts of fragmentation and allocation
+ CO3                                                             3   2   -   -   -
+     algorithms.
+     Implement optimized parallel and distributed queries for
+ CO4                                                             3   2   -   -   -
+     such a system.
+     Design and build an application using one of the latest
+ CO5                                                             3   3   3   3   3
+     distributed or parallel database technology.
+
+Evaluation Pattern - 70:30
+
+      Midterm Exam - 30%
+      Continuous Evaluation – 40%
+      End Semester Exam - 30%
+
+
+                                             56
+24AI742                            Medical Signal Processing                          2-0-2-3
+
+Preamble
+The development of Medical Imaging over the past four decades have been truly revolutionary.
+It is therefore essential to develop knowledge in Medical Signal Processing, stepping out of the
+conventional notion of extending the art of instrumentation in biomedicine. The course aims to
+provide the graduate students with a detailed background of state-of-the-art electrical
+engineering practices used in biomedical engineering. The course aims to provide an
+understanding of various image modalities captured based on various signal processing
+techniques. This course will also cover the application of various Deep learning techniques, for
+segmentation as well as classification problems.
+
+Course Objectives
+    To understand various signals and the image modalities in the field of Biomedical.
+    To study origins and characteristics of some of the most commonly used biomedical
+      signals like ECG.
+    To explore research domain in biomedical signal processing.
+    To understand various reconstruction techniques for CT and MRI.
+
+Course Outcomes
+  COs Description
+   CO1 Understand and explain various methods of acquiring bio signals.
+       Understand a nd com pare various sources of bio signal distortions and
+   CO2 its remedial techniques.
+
+   CO3 Analyze ECG and EEG signal with characteristic feature points.
+       Apply and implement deep learning techniques for medical image segmentation,
+   CO4 clustering and classification problems.
+       Understand various volume reconstruction and volume rendering techniques for
+   CO5 medical images.
+
+Prerequisites
+    None.
+
+Syllabus
+Signals and systems: Review, Medical Imaging Modalities and the need for different modalities
+(MRI, CT, OCT for Retinal Images, PET, X-Ray, Ultra Sound, Microscopy, Flow Cytometry,
+Imaging Flow Cytometry, etc. Pre-processing – Image Enhancement – Focus Analysis - Noise
+reduction
+
+(Additive and Speckle Noise) – Image Quality Measures - Domain Transformation: Fourier
+Domain and Wavelet Domain- Thermal Imaging. Basic electrocardiography, ECG lead
+systems, ECG signal characteristics
+
+                                              57
+Medical Image Segmentation – Deep Learning based Segmentation on 2D or 3D volume of
+Data Feature Extraction – Morphological Features – Textural Features –, Feature extraction for
+1D Biomedical signals– Deep Features. Image Registration and Fusion — Key Point Matching
+- Geometric transformations. ECG data acquisition, ECG lead system, ECG signal
+characteristics (parameters and their estimation), Analog filters, ECG amplifier, and QRS
+detector, Power spectrum of the ECG, Band pass filtering techniques, Differentiation
+techniques, Template matching techniques, A QRS detection algorithm
+
+Classification and Clustering– Examples of image classification for diagnostic/assistive
+technologies –Deep learning-based classifiers. 3D volume reconstruction – Reconstruction
+techniques for CT, MRI, Reconstruction of cell structure from focus stack of images - CT and
+MRI volume reconstruction – Wavelet based Volume Rendering, Applications of EEG.
+
+Text Book / References
+   1. Klaus D. Toennies, ”Guide to Medical Image Analysis - Methods and
+       Algorithms”, Advances in Computer Vision and Pattern Recognition, 2nd
+       Edition, Springer-Verlag London, 2017, DOI: 10.1007/978-1-4471-7320-5,
+       ISBN 978-1-4471-7318-2
+   2. Geoff Dougherty, “Medical Image Processing Techniques and application”,
+       Springer New York 2011
+   3. Mostafa Analoui, Joseph D. Bronzino, Donald R. Peterson, “Medical Imaging:
+       Principles and Practices”, Taylor and Francis group, 2012
+   4. Analyzing Neural Time Series Data-Theory and Practice (MIT Press) 2014
+
+
+CO-PO Mapping
+ COs Description                                           PO1 PO2 PO3 PO4 PO5
+     Understand a nd explain various methods of acquiring
+ CO1                                                        3   1   -   -   1
+     bio signals.
+     Understand a n d c o m p a r e various sources of bio
+ CO2 signal distortions and                                 3   2   -   -   2
+     its remedial techniques.
+     Analyze ECG and EEG signal with characteristic
+ CO3                                                        1   3   2   -   1
+     feature points.
+     Apply and implement deep learning techniques for
+ CO4 medical      image    segmentation,   clustering  and 3    3   2   -   3
+     classification problems.
+     Understand various volume reconstruction and volume
+ CO5                                                        2   3   2   -   3
+     rendering techniques for medical images.
+
+Evaluation Pattern - 50:50
+    Midterm Exam - 30%
+    Continuous Evaluation – 20%
+    End Semester Exam - 50%
+
+
+                                             58
+24AI743                            Computer Vision                                   2-0-2-3
+
+Preamble
+Computer Vision is one of the fastest growing and most exciting AI (Artificial Intelligence)
+disciplines in today’s academia and industry. This course is designed to open the doors for
+students who are interested in learning about the fundamental principles and important
+applications of computer vision. The course starts with the basic understanding of image
+formation and various image pre- processing techniques. It also deals with visual object
+detection and recognition algorithms. Object tracking and Motion segmentation from videos
+are also introduced as part of the course. The course also gives exposure to image
+reconstruction, camera calibration, stereo vision camera projection models etc. which enable
+students to understand the concepts required for implementing modern AI applications which
+can perceive understand and reconstruct complex visual world like robots navigating space and
+performing duties, smart cars which can drive safe etc.
+
+Course Objectives
+
+      To introduce students to the state-of-the-art algorithms in the area of image analysis
+       and object recognition
+      Give an exposure to video analysis techniques for object tracking and motion estimation
+      To build good understanding on the computer vision concepts and techniques to be
+       applied for robotic vision applications
+      Enable students to apply the vision algorithms and develop applications in the domain
+       of image analysis, robotic navigation
+
+Course Outcomes
+
+   COs     Description
+   CO1 Understand and explain the different models of image formation
+       Understand and implement different techniques of image analysis through image
+   CO2 feature extraction and object recognition.
+       Apply fundamental algorithms for video analysis such as object tracking, motion
+   CO3 segmentation etc.
+       Analyze the major technical approaches involved in image registration, camera
+   CO4 calibration, pose estimation, stereo vision etc. to be applied to develop vision
+       algorithms for robotic applications.
+       Apply the algorithms and develop applications in the domain of image analysis
+   CO5 and robotic vision
+
+Prerequisites
+    None.
+
+
+
+
+                                             59
+Syllabus
+
+Introduction to Image Processing-Basic mathematical concepts: Image enhancement: Grey
+level transforms, Spatial filtering. Extraction of special features: edge and corner detection.
+Morphological processing, Image transforms, Discrete Fourier Transform, Fast Fourier
+Transform. Frequency domain enhancement.
+
+Image Segmentation Algorithms: contextual, non-contextual segmentation, texture
+segmentation. Feature Detectors and Descriptors, Feature Matching-Object Recognition, Face
+detection (Viola Jones), Face Recognition,
+
+Modern computer vision architectures based on deep convolutional neural networks, The Use
+of Motion in Segmentation Optical Flow & Tracking Algorithms, YOLO, DeepSORT: Deep
+Learning to Track Custom Objects in a Video, Action classification with convolutional neural
+networks, RNN, LSTM
+
+Image registration, 2D and 3D feature-based alignment, Pose estimation, Geometric intrinsic
+calibration, -Camera Models and Calibration: Camera Projection Models – orthographic,
+affine, perspective, projective models. Projective Geometry, transformation of 2-d and 3-d,
+Internal Parameters, Lens Distortion Models, Calibration Methods – linear, direct, indirect and
+multiplane methods. Geometry of Multiple views- Stereopsis, Camera and Epipolar Geometry,
+Fundamental matrix; Homography, Rectification, DLT, RANSAC, 3-D reconstruction
+framework; Auto-calibration., Introduction to SLAM (Simultaneous Localization and
+Mapping).
+
+Text Book / References
+   1. Deep Learning (Adaptive Computation and Machine Learning series) Ian
+       Goodfellow, Yoshua Bengio, Aaron Courville, Francis Bach, January 2017,
+       MIT Press
+   2. Richard Szelinski, Computer Vision: Algorithms and Applications, 2010
+   3. E. Trucco and A. Verri, Prentice Hall, 1998.Introductory techniques for 3D
+       Computer Vision.
+   4. Marco Treiber, “An Introduction to Object Recognition Selected Algorithms for
+       a Wide Variety of Applications”, Springer, 2010.
+   5. Forsyth and Ponce, “Computer Vision – A Modern Approach”, Second Edition,
+       Prentice Hall, 2011.
+   6. R. C. Gonzalez, R. E. Woods, ‘Digital Image Processing’, 4th edition Addison-
+       Wesley,2016.
+
+
+
+
+                                              60
+CO-PO Mapping
+ COs Description                                                PO1 PO2 PO3 PO4 PO5
+     Understand and explain the different models of image
+ CO1 formation                                                   3   3   1   -   -
+     Understand and implement different techniques of image
+ CO2 analysis through image feature extraction and object 3          2   -   -   1
+     recognition.
+     Apply fundamental algorithms for video analysis such as
+ CO3                                                             3   3   2   -   -
+     object tracking, motion segmentation etc.
+     Analyze the major technical approaches involved in image
+     registration, camera calibration, pose estimation, stereo
+ CO4                                                             -   -   3   1   2
+     vision etc. to be applied to develop vision algorithms for
+     robotic applications.
+     Apply the algorithms and develop applications in the
+ CO5                                                             -   -   -   3   3
+     domain of image analysis and robotic vision
+
+Evaluation Pattern - 70:30
+
+      Midterm Exam - 20%
+      Lab Assignments – 25%
+      Project – 25%
+      End Semester Exam - 30%
+
+
+
+
+                                        61
+24AI744                          Natural Language Processing                          2-0-2-3
+
+Preamble
+This course introduces the fundamental concepts and techniques of Natural Language
+Processing (NLP). Students will gain an in-depth understanding of the computational
+properties of natural languages and the commonly used algorithms for processing linguistic
+information. The course examines NLP models and algorithms using both the traditional
+symbolic and the more recent statistical approaches.
+
+Course Objectives
+    The objective of this course is to provide students with a comprehensive understanding
+      of both the theoretical foundations and practical applications of NLP. Students will gain
+      expertise in various NLP techniques, tools, and models, enabling them to address
+      complex language-related challenges in diverse domains. The course aims to equip
+      students with the skills needed to develop advanced NLP systems and conduct
+      innovative research in the field
+
+Course Outcomes
+
+   COs     Description
+   CO1 Understand and Apply Fundamental NLP Concepts
+
+   CO2 Develop and Implement Advanced Word Embeddings and Language Models
+
+   CO3 Apply Machine Learning and Deep Learning Techniques to NLP Tasks
+
+   CO4 Utilize NLP Toolkits and Develop Practical NLP Applications
+
+Prerequisites
+    Basics of Machine Learning
+    Python Programming Language
+    Basics of Probability
+
+Syllabus
+
+Foundations of NLP: Introduction to NLP: Syntax, Semantics, Morphology, Word
+Representation: One-hot Encoding, Bag-of-Words (BoW), Term Frequency – Inverse
+Document Frequency (TF-IDF), Language Models: n-grams, Neural Network-based Word
+Embedding Algorithms, Advanced Text Embeddings: Word2Vec, GloVe, FastText,
+Contextual Embeddings (BERT, ELMo, GPT, XLNet, RoBERTa, Sequences and Sequential
+Data
+
+Machine Learning and Deep Learning for NLP: Recurrent Neural Networks (RNNs), Long
+Short-Term Memory Networks (LSTMs), Gated Recurrent Units (GRUs), Sequence to
+                                              62
+Sequence Modelling, Encoder-Decoder Architectures, Attention Mechanism, Transformer
+Networks, Topic Modelling: LSA, LDA, Dynamic Topic Models
+Practical Tools and Applications: NLP Toolkits (Eg. NLTK, SpaCy, Stanford NLP, OpenNLP)
+and case studies, Applications: Part-of-Speech Tagging, Named Entity Recognition (NER),
+Dependency Parsing, Sentiment Analysis, Machine Translation, Text Summarization,
+Evaluation Metrics, Visualization of Text Data, Emerging Trends: Zero-shot and Few-shot
+Learning, Multilingual and Cross-lingual Models, Explainable AI, Ethical Considerations
+
+Text Book / References
+   1. Daniel Jurafsky, James H Martin, Speech & language processing, preparation
+       [cited 2020 June 1] Available: from: https://web. stanford.edu/~ jurafsky/slp3
+       (2018).
+   2. Christopher Manning and Hinrich Schütze, Foundations of Statistical Natural
+       Language Processing, MIT press, 1999.
+   3. Steven Bird, Ewan Klein and Edward Loper, Natural Language Processing with
+       Python, O'Reilly Media, Inc., 2009.
+   4. Jason Browlee, Deep Learning for Natural Language Processing: Develop Deep
+       Learning Models for your Natural Language Problems (Ebook), Machine
+       Learning Mastery, 2017
+   5. Research papers and articles from recent NLP conferences (ACL, EMNLP,
+       NAACL)
+
+
+CO-PO Mapping
+ COs Description                                                  PO1 PO2 PO3 PO4 PO5
+  CO1    Understand and Apply Fundamental NLP Concepts             3   1   -     2      -
+         Develop and Implement Advanced Word Embeddings and
+  CO2                                                              3   1   -     2      -
+         Language Models
+         Apply Machine Learning and Deep Learning Techniques to
+  CO3                                                              3   1   2     -      -
+         NLP Tasks
+         Utilize NLP Toolkits and Develop Practical NLP
+  CO4                                                              -   3   1     -      2
+         Applications
+
+
+Evaluation Pattern - 70:30
+
+       Midterm Exam - 20%
+       Lab Assignments – 25%
+       Project – 25%
+       End Semester Exam - 30%
+
+
+
+
+                                                63
+24AI745                   GPU Architecture and Programming                          2-0-2-3
+Preamble
+GPU accelerated processors are being actively used nowadays in general purpose and scientific
+computing. These massively parallel, off-the shelf devices are used to run compute-intensive
+and time-consuming part of applications. This course introduces the students to the Single
+Instruction Multiple Thread (SIMT) architecture of modern GPUs and architecture-aware
+programming frameworks like Compute Unified Device Architecture (CUDA) and OpenCL.
+While CUDA programming model is a proprietary framework for the students to learn to
+interface with GPUs, OpenCL allows them to be familiarized with an open, heterogeneous
+parallel computing model. Modern day applications of GPUs are also introduced to the students
+through case studies.
+
+Course Objectives
+
+      To introduce the fundamentals of GPU computing architectures and programming
+       models.
+      To familiarize the student with GPU aware programming frameworks like proprietary
+       NVIDIA CUDA(C) and open heterogeneous programming standards like OpenCL.
+      To create GPGPU accelerated real world applications.
+
+Course Outcomes
+
+   COs     Description
+       Understand and analyze parallel programming architectures, including SIMT architecture
+   CO1 of modern GPUs, and their implications for AI and industry applications.
+
+       Master GPU-aware programming using NVIDIA CUDA and OpenCL frameworks to
+   CO2 develop efficient GPU-accelerated applications.
+
+       Design and implement heterogeneous computing solutions across CPU/GPU
+   CO3 architectures using OpenCL, emphasizing performance optimization and scalability.
+         Apply GPU computing techniques to real-world applications such as convolution, video
+   CO4 processing, histogram analysis, and mixed particle simulations, and evaluate their
+         performance metrics and scalability.
+Prerequisites
+
+     Computer Architecture
+     Programming Fundamentals
+     Data Structures
+Syllabus
+Introduction to Parallel Programming – Types of Parallelism – SIMD and SIMT – GPU
+architecture- Threads, Blocks and Grids- GPU Memory Organization- CUDA Programming
+Model- CUDA Mem- ory Model- Multidimensional thread management with CUDA- Basic
+CUDA Programming Examples -CUDA Streams – Synchronization and Warp Scheduling,
+Optimization.
+                                             64
+Introduction to OpenCL - OpenCL Device Architectures - Basic OpenCL Programming Model
+– OpenCL Memory Model - Concurrency and Execution Model - Dissecting a CPU/GPU -
+OpenCL for Heterogeneous Computing - OpenCL Implementation – examples.
+Case study: Convolution, Video Processing, Histogram and Mixed Particle Simulation -
+OpenCL Extensions - OpenCL Profiling and Debugging – WebCL, Applications of GPU
+Architecture like Gaming, Computer Vision, etc.
+
+
+Text Book / References
+   1. David B. Kirk, Wenmei W. Hwu, Morgan Kaufmann, Programming Massively
+       Parallel Processors: A Hands-on Approach, 2016
+   2. Benedict R. Gaster, Lee Howes, David, R. Kaeli, Perhaad Mistry and Dana
+       Schaa, ”Heterogeneous Computing with OpenCL”, Elsevier, 2013.
+   3. Jason Sanders, Edward Kandrot, ”CUDA by Example: An Introduction to
+       General-Purpose GPU Programming”, Addison-Wesley Professional, 2010
+   4. Shane Cook, ”CUDA Programming: A Developer’s Guide to Parallel Computing
+       with GPUs”, Newnes, 2012
+   5. Aaftab Munshi, Benedict Gaster, Timothy G. Mattson, James Fung and Dan
+       Ginsburg, ”OpenCL Programming Guide”, Addison-Wesley Professional,
+       2011.
+   6. Ryoji Tsuchiyama, Takashi Nakamura, Takuro Iizuka and Akihiro Asahara, ”The
+       OpenCL Programming Book”, Fixstars Corporation, 2010.
+   7. Matthew Scarpio, ”OpenCL in Action: How to Accelerate Graphics and
+       Computations”, Manning Publications, 2011.
+
+CO-PO Mapping
+ COs Description                                                PO1 PO2 PO3 PO4 PO5
+     Understand and analyze parallel programming architectures,
+ CO1 including SIMT architecture of modern GPUs, and their       1   2   2   1   -
+     implications for AI and industry applications.
+
+        Master GPU-aware programming using NVIDIA CUDA
+  CO2   and OpenCL frameworks to develop efficient GPU-           1   3   2   -     -
+        accelerated applications.
+
+        Design and implement heterogeneous computing solutions
+  CO3   across CPU/GPU architectures using OpenCL, emphasizing    1   3   3   1     1
+        performance optimization and scalability.
+        Apply GPU computing techniques to real-world
+        applications such as convolution, video processing,
+  CO4                                                             1   2   2   2     1
+        histogram analysis, and mixed particle simulations, and
+        evaluate their performance metrics and scalability.
+
+Evaluation Pattern - 70:30
+    Midterm Exam - 20%
+    Lab Assignments – 25%
+    Project – 25%
+    End Semester Exam - 30%
+                                                65
+24AI746                       Artificial Intelligence for IoT                        2-0-2-3
+
+Preamble
+This course introduces the architectural overview and design principles of IoT, how to develop
+a machine learning application using Raspberry Pi and building Machine learning models for
+edge devices using Raspberry Pi. Deep learning models using TensorFlowLite is also discussed
+in this course.
+
+Course Objectives
+    Understand the general concepts in IoT and get familiar with the various hardware and
+      software components of it
+    Understand how to build real-life IoT based projects for different application domains
+    Hands-on training to implement IoT with Raspberry Pi
+
+Course Outcomes
+
+   COs     Description
+   CO1 Understand the architecture, the design principles and elements of IoT.
+   CO2 Gain the necessary skills needed to build Machine learning models for edge devices
+       Be able to design, deploy and evaluate scalable real-life IoT systems for different
+   CO3 application domains
+       Understand and build scalable ML pipeline using Flask, Python, uWSGI,
+   CO4 TensorFlow
+
+Prerequisites
+    Basic knowledge on Python Programming
+    Basic knowledge on Machine Learning
+
+Syllabus
+
+Introduction to IoT, Architectural Overview and Design Principles, Elements of IoT (Arduino,
+Rasp- berry Pi, NodeMCU, Sensors & Actuators), IoT Applications, Sensing, Actuation,
+Networking Basics, Embedded OS, IoT and Cloud, Security aspects in IoT.
+
+IoT Application Development, Introduction to Raspberry Pi, Integrating Sensors and Actuators
+with Raspberry Pi, Pushing and Managing Data in IoT Clouds, Programming APIs
+(Python/Node.js/Arduino) for communication protocols (MQTT, ZigBee, Bluetooth, UDP,
+TCP), Implementation of IoT with Raspberry Pi (lab - sensor, MQTT, visualization)
+
+Introduction to ML and Deep learning models for IoT (challenges, opportunities, solutions),
+Sensor data classification using ML in Raspberry Pi (lab), Introduction to TensorFlowLite,
+Image classification on Raspberry Pi (lab), building scalable ML pipeline using Flask, Python,
+uWSGI, TensorFlow
+                                             66
+Text Book / References
+   1. Vijay Madisetti, Arshdeep Bahga, ¨Internet of Things, “A Hands on
+       Approach”, University Press
+   2. Raj Kamal, “Internet of Things: Architecture and Design”, McGraw Hill
+   3. Stuart Russell and Peter Norvig, “Artificial Intelligence: A Modern Approach”,
+       3rd Edition, Prentice Hall
+   4. Sudip Misra, Anandarup Mukherjee, Arijit Roy, “Introduction to IoT”,
+       Cambridge University Press, 2020
+   5. Elaine Rich and Kevin Knight, “Artificial Intelligence”, Tata McGraw Hill
+   6. Amita Kapoor, Hands-On Artificial Intelligence for IoT, 2019, Packt Publishing
+   7. https://www.tensorflow.org/lite/tutorials
+
+
+CO-PO Mapping
+ COs Description                                            PO1 PO2 PO3 PO4 PO5
+     Understand the architecture, the design principles and
+ CO1                                                         1   2   3   1   1
+     elements of IoT.
+     Gain the necessary skills needed to build Machine
+ CO2                                                         3   2   2   -   1
+     learning models for edge devices
+     Be able to design, deploy and evaluate scalable real-
+ CO3 life IoT systems for different                          3   3   3   1   3
+     application domains
+     Understand and build scalable ML pipeline using
+ CO4                                                         1   3   3   1   3
+     Flask, Python, uWSGI, TensorFlow
+
+Evaluation Pattern - 70:30
+
+      Midterm Exam - 20%
+      Lab Assignments – 25%
+      Project – 25%
+      End Semester Exam - 30%
+
+
+
+
+                                              67
+24AI747                         Quantum Artificial Intelligence                        2-0-2-3
+
+Preamble
+This course deals with how to use quantum algorithms in artificial intelligence. The course
+also covers Quantum physics-based information and probability theory, and their relationships
+to artificial intelligence by associative memory and Bayesian networks. Students will get an
+introduction to the principles of quantum computation and its mathematical framework.
+
+Course Objectives
+    To understand how the physical nature, as described by quantum physics, can lead to
+      algorithms that imitate human behavior
+    To explore possibilities for the realization of artificial intelligence by means of quantum
+      computation
+    To learn computational algorithms as described by quantum computation
+
+Course Outcomes
+
+   COs      Description
+   CO1 Understand the computation with Qubits
+   CO2 Apply Quantum algorithms - Fourier Transform and Grover’s amplification
+   CO3 Apply Quantum problem solving using tree search
+       Understand and explore the models of Quantum Computer and Quantum Simulation
+   CO4 tools
+
+   CO5 Explore open-source Quantum computer libraries for applications
+
+Prerequisites
+    Machine Learning
+    Programming Languages
+    Probability
+
+Syllabus
+
+Introduction - artificial intelligence - computation - Cantor’s diagonal argument - complexity
+theory - Decision problems - P and NP - Church–Turing Thesis - Von Neumann architecture -
+Problem Solving - Rules - Logic-based operators - Frames - Categorial representation - Binary
+vector representation - Production System - Deduction systems - Reaction systems - Conflict
+resolution - Human problem-solving - Information and measurement - Reversible Computation
+- Reversible circuits - Toffoli gate
+
+Introduction to quantum physics - Unitary Evolution - Quantum Mechanics - Hilbert space -
+Quan- tum Time Evolution - Von Neumann Entropy - Measurement - Heisenberg’s uncertainty
+
+                                              68
+principle - Randomness - Computation with Qubits - Computation with m Qubit - Matrix
+Representation of Serial and Parallel Operations - Quantum Boolean Circuits - Periodicity -
+Quantum Fourier Transform - Unitary Transforms - Search and Quantum Oracle - Grover’s
+Amplification - Circuit Representation - Speeding up the Traveling Salesman Problem - The
+Generate-and-Test Method - Quantum Problem-Solving - Heuristic Search - Quantum Tree
+Search - Tarrataca’s Quantum Production System.
+
+A General Model of a Quantum Computer - Cognitive architecture - Representation - Quantum
+Cognition - Decision making - Unpacking Effects - Quantum Walk on a graph - Quantum
+annealing - Optimization problems - Quantum Neural Computation - Applications on Quantum
+annealing Computer - Development libraries - Quantum Computer simulation tool kits.
+
+Text Book / References
+   1. Andreas Wichert, Principles of Quantum Artificial Intelligence, First edition,
+       World Scientific Publishing, 2014
+   2. Peter Wittek, Quantum Machine Learning, First edition, Academic Press, 2014.
+
+
+CO-PO Mapping
+ COs Description                                                 PO1 PO2 PO3 PO4 PO5
+  CO1    Understand the computation with Qubits                   2   2   2     -      3
+         Apply Quantum algorithms - Fourier Transform and
+  CO2                                                             2   2   2     -      3
+         Grover’s amplification
+  CO3    Apply Quantum problem solving using tree search          3   3   3     2      3
+         Understand and explore the models of Quantum
+  CO4    Computer and Quantum Simulation                          3   3   3     3      3
+         tools
+         Explore open- s our ce Quantum computer libraries for
+  CO5                                                             3   3   2     2      3
+         applications
+
+Evaluation Pattern - 70:30
+
+       Midterm Exam - 30%
+       Continuous Evaluation – 40%
+       End Semester Exam - 30%
+
+
+
+
+                                                  69
+24AI748                          Blockchain Technology                              2-0-2-3
+
+Preamble
+
+Blockchain is the latest technology in the domain of Computer security and is capable of
+contributing on security aspects of many segments in industry and society.
+
+Course Objectives
+    Understand how blockchain systems (mainly Bitcoin and Ethereum) work.
+    Design, build, and deploy smart contracts and distributed applications.
+    Integrate ideas from blockchain technology into their own projects
+
+Course Outcomes
+
+   COs      Description
+   CO1     Understand the fundamental characteristics of Blockchain and cryptocurrency
+   CO2     Understand the basics concepts of Bitcoin and Ethereum Blockchain
+   CO3     Develop smart contracts using Solidity
+   CO4     Understand the architecture of distributed applications
+   CO5     Develop DApps for real-life use cases
+
+Prerequisites
+    None
+
+Syllabus
+
+Need for Distributed Record-Keeping, distributed ledger technology, Modeling faults and
+adversaries, Byzantine Generals problem, Nakamoto’s concept with Blockchain-based
+cryptocurrency, Transaction: - syntax, structure and validation, Blocks- Structure, Genesis
+block, and Merkle tree. Mining: -target, hash rates, Consensus mechanisms, forking. Byzantine
+fault-tolerant distributed computing, coins, wallets, Bitcoin scripting language.
+
+Ethereum smart contract architecture, contract transactions, comparing Bitcoin scripting vs.
+Ethereum Smart Contracts, Remix IDE, Solidity: - variables, data types, addresses and
+balances, strings in Solidity, global Msg-Object, mapping, structure, array, require, assert
+revert, constructor, fallback functions, View/Pure Getter functions. modifier, inheritance,
+importing of Files, events and return variables, ABI array, debugging libraries .
+
+DApps architecture, blockchain server, Truffle suite: setup and test cases, Web3 SDK, Web3
+provider, Ganache, MetaMask integration with web3, channel concept and micropayment
+channel, web interface for DApps, Deployment to public testnet and mainnet, Network ID,
+Infura API, private Blockchain, Go-Ethereum, Type of DApps, Oracles, Ethereum
+improvement proposal(EIP) framework, standard ERC 20 for token Dapps, ERC 721 for non-
+fungible tokens.
+
+                                             70
+Hyperledger fabric, the plug and play platform and mechanisms in permissioned blockchain
+Privacy,
+
+Textbooks / References:
+
+   1. Ramamurthy, Bina. Blockchain in action. Manning Publications, 2020.
+   2. https://web3js.readthedocs.io/en/v1.7.3/
+   3. Merunas Grincalaitis, “Mastering Ethereum: Implement Advanced Blockchain
+        Applications Using Ethereum-supported Tools, Services, and Protocols”, Packt
+        Publishing.
+
+
+CO-PO Mapping
+ COs Description                                              PO1 PO2 PO3 PO4 PO5
+     Understand the fundamental characteristics of Blockchain
+ CO1                                                           -   3   -   -   -
+     and cryptocurrency
+     Understand the basics concepts of Bitcoin and Ethereum
+ CO2                                                           -   3   -   -   -
+     Blockchain
+  CO3    Develop smart contracts using Solidity                    -   3   -   -    -
+
+  CO4    Understand the architecture of distributed applications   -   3   -   -    1
+
+  CO5    Develop DApps for real-life use cases                     -   3   1   -    1
+
+
+Evaluation Pattern - 70:30
+
+       Midterm Exam - 30%
+       Continuous Evaluation – 40%
+       End Semester Exam - 30%
+
+
+
+
+                                                     71
+24AI749               Artificial Intelligence for Bioinformatics                   2-0-2-3
+
+Preamble
+This course exposes the students to apply AI technology in the domain of Bioinformatics.
+
+Course Objectives
+    To incorporate the concepts of bioinformatics using statistics.
+    To enhance the application of programming for bioinformatics.
+    To explore the challenges in bioinformatics and apply AI for solutions.
+
+Course Outcomes
+   COs     Description
+   CO1 Understand and appreciate the role of bioinformatics in solving biological problems.
+   CO2 Demonstrate working proficiency with statistical techniques in Bioinformatics
+
+   CO3 Apply the concepts of deep learning problems in bioinformatics
+
+
+Prerequisites
+    Basic knowledge of Deep Learning
+    Python programming
+
+Syllabus
+
+Introduction to the Basics of Molecular Biology - DNA,RNA, Genes and Proteins,Central
+Dogma of Molecular biology, Cell regulation, What is Bioinformatics, Challenges in
+Bioinformatics - Genome, Transcriptome, Proteome. –Python programming for
+bioinformatics.
+
+AI in Bioinformatics Applications - Decision Trees, Neural Networks, Application guidelines,
+Genetic Algorithms, Probabilistic Graphical Models in Bioinformatics, Hybrid Models and
+Neural Network Parameterization of Graphical Models, Cellular Automata.
+
+Internet Resources and Public Structure Databases in Molecular Biology, Sequences.
+
+Text Book / References
+
+   1. Karthik Raman, an Introduction to Computational Systems Biology (Systems
+       Level Modeling of Cellular Networks), CRC Press, 2021.
+   2. Bioinformatics algorithm, An active learning Approach’, Phillip Compeauand
+       Pavel PevznerVol.1. and Vol. 2 ,2015.
+   3. ‘Essential Bioinformatics’, JinXiong, Cambridge University Press, 2006
+   4. Edward Keedwell and Ajit Narayanan, Intelligent Bioinformatics, John Wiley &
+       Sons Ltd, 2005
+
+                                            72
+CO-PO Mapping
+ COs Description                                                 PO1 PO2 PO3 PO4 PO5
+     Understand and appreciate the role of bioinformatics in
+ CO1                                                              1   2   3   -   -
+     solving biological problems.
+     Demonstrate working proficiency with statistical techniques
+ CO2 in Bioinformatics                                            -   2   2   3   -
+     Apply the concepts of deep learning problems in
+ CO3                                                              3   3   2   2   2
+     bioinformatics
+
+Evaluation Pattern - 70:30
+
+      Midterm Exam - 30%
+      Continuous Evaluation – 40%
+      End Semester Exam - 30%
+
+
+
+
+                                         73
+24AI750                         Cloud and Big Data Analytics                          2-0-2-3
+
+Preamble
+There is an unprecedented amount of data that is generated in today’s world by both humans
+and machines. Being able to store, manage, analyze, and building intelligent applications has a
+critical impact on business, scientific discovery, social and environmental challenges. This
+course helps students to use cloud platform with its tools and distributed computing techniques
+to quickly build prototypes and applications for scalable data and workloads.
+
+Course Objectives
+    To introduce principles of cloud computing and build applications on cloud platforms.
+    To understand distributed computing paradigms and its implementations on cloud
+      platform.
+    To apply principles of Big Query for handling big data.
+
+Course Outcomes
+
+   COs     Description
+   CO1 To introduce principles of cloud computing.
+
+   CO2 Develop and deploying applications on cloud platform.
+
+   CO3 Understand Distributed Machine learning with hadoop and spark.
+       Create data analytics applications on distributed cloud computing platforms for
+   CO4 using Spark and its Tools.
+
+   CO5 Develop methods to handle Containers and Kubernetes in Google Cloud.
+
+Prerequisites
+    Basics of Machine Learning.
+
+Syllabus
+
+Cloud computing fundamentals - Principles of Cloud Computing Systems, Elastic Cloud
+Systems for Scalable Computing, Cloud Architectures Compared with Distributed Systems,
+Service Models, Ecosystems and Scalability Analysis, Building Compute Service - Storage
+Service – Databases Service - Serverless Models on Cloud.
+
+Frameworks for Big data: Hadoop – Hadoop Framework – Hadoop Daemon - Map Reduce
+Programming- Hadoop Ecosystem - Spark - Framework – RDD – Advanced RDD - Structured
+data - SQL, Dataframes, and Datasets – Streaming in Spark - Spark Distributed Processing -
+Building Spark ML on Cloud platform.
+
+Cloud dataflow – dataflow templates, data transformation with cloud dataflow, working with
+                                              74
+apache beam, cloud publisher subscriber - architecture, message flow, implementation. Cloud
+data processing. Introduction to Containers and Kubernetes in Google Cloud, Introduction to
+AI platform pipelines
+
+Text Book / References
+   1. Kai Hwang, “Cloud Computing for Machine Learning and Cognitive
+       Applications”, MIT Press, 2017.
+   2. Murari Ramuka, “Data Analytics with Google Cloud Platform “, BPB PUBN,
+       2019.
+   3. Anand Deshpande, Manish Kumar, Vikram Chaudhari, “Hands-On Artificial
+       Intelligence on Google Cloud Platform”, Packt Publishing, 2020.
+   4. Jeffrey Jackovich, Ruze Richards, “Machine Learning with AWS”, Packt
+       Publishing, 2018.
+   5. Jules S. Damji, Brooke Wenig, Tathagata Das, Denny Lee, “Learning Spark
+       Lightning fast data analysis”, O’Reilly Media, Inc, 2020.
+
+
+CO-PO Mapping
+ COs Description                                                   PO1 PO2 PO3 PO4 PO5
+  CO1    To introduce principles of cloud computing.                2   1   -   -      -
+
+  CO2    Develop and deploying applications on cloud platform.      2   3   -   -      -
+         Understand Distributed Machine learning with hadoop
+  CO3                                                               2   3   3   -      -
+         and spark.
+         Create data analytics applications on distributed cloud
+  CO4                                                               2   3   3   2      1
+         computing platforms for using Spark and its Tools.
+         Develop methods to handle Containers and Kubernetes
+  CO5                                                               2   3   3   2      1
+         in Google Cloud.
+
+Evaluation Pattern - 70:30
+
+       Midterm Exam - 20%
+       Lab Assignments – 25%
+       Project – 25%
+       End Semester Exam - 30%
+
+
+
+
+                                                 75
+24AI798                                 Dissertation Phase I                                  10
+
+Course Objectives
+
+The student is expected to carry out supervised research in this course. An intensive literature
+in the chosen area, should result in sound knowledge in the area and result in the identification
+of a suitable research problem, and its formulation and analysis. Study of relevant
+supplementary literature, mastering useful programming languages and tools for the problem,
+are also expected at this stage of the project. The student is expected to present three reports at
+different evaluation points during the semester, with clearly defined achievements and plans
+for further steps.
+
+Course Outcomes
+
+  COs Description
+  CO1 Demonstrate sound fundamentals in a chosen area of computing.
+      Identify and formulate a problem of research interest in the chosen area of
+  CO2 computing.
+  CO3 Analyze the computing problem and propose solutions.
+  CO4 Effectively communicate the work at all stages of the project.
+
+
+References
+   1. Relevant literature for the computing problem.
+
+CO-PO Mapping
+
+ COs Description                                           PO1       PO2    PO3     PO4     PO5
+     Demonstrate sound fundamentals in a chosen area of
+ CO1 computing.                                             3          2       2      2       2
+     Identify and formulate a problem of research interest
+ CO2 in the chosen area of computing                        2          3       3      3       2
+     Analyze the computing problem and propose solutions.
+ CO3                                                        3          3       3      2       2
+         Effectively communicate the work at all stages of
+  CO4                                                          2       3       3      2       2
+         the project.
+
+Evaluation Pattern - 80:20
+
+       Internal - 80%
+       External - 20%
+
+
+
+
+                                                  76
+24AI799                               Dissertation Phase II                                  16
+Course Objectives
+The student is expected to demonstrate the core competency aimed by this course, i.e., the
+development of enhancements to the knowledge base in the area of interest in computing. The
+secondary competencies include the management of time bound projects involving research,
+analysis of problem complexities, design and development of effective solutions and
+communication of the project’s progress, adhering to ethical practices at every stage. This stage
+of the project evaluates the state of maturity of these competencies. The student is expected to
+present two reports at intermediate stages, as well as prepare and defend a thesis on his research
+work.
+
+Course Outcomes
+ COs Description
+  CO1 Reflectively analyze proposed solutions to the identified computing problem.
+  CO2 Design and develop solutions to the problem and analyze results.
+  CO3 Prepare a thesis report and defend the thesis on the work done.
+      Augment the knowledge base in the chosen area of computing, adhering to
+  CO4 ethical practices at every stage.
+
+Prerequisites
+    Dissertation Phase I
+
+References
+   1. Relevant literature for the computing problem.
+
+CO-PO Mapping
+ COs Description                                              PO1   PO2     PO3    PO4     PO5
+     Reflectively analyze pr o p os e d s ol uti ons t o the
+ CO1                                                           3      3       3      3       -
+     identified computing problem
+     Design and develop solutions to the problem and
+ CO2                                                           3      3       3      3       2
+     analyze results.
+     Prepare a thesis report and defend the thesis on the
+ CO3                                                           3      3       3      2       2
+     work done.
+     Augment the knowledge base in the chosen area of
+ CO4                                                           3      3       3      2       3
+     computing, adhering to ethical practices at every stage.
+
+Evaluation Pattern - 80:20
+    Internal - 80%
+    External - 20%
+
+
+** Evaluations patterns mentioned in the syllabus are recommendations from BOS. Final
+decision on the same can be done at the class committee.
+
+                                               77
+23HU601                                Career Competency I                             L-T-P-C: 0-0-3-P/F
+
+
+Prerequisite:
+An open mind and the urge for self-development, basic English language skills and knowledge of high
+school level arithmetic.
+Course Objectives:
+         Help students transit from campus to corporate and enhance their soft skills
+         Enable students to understand the importance of goal setting and time management skills
+         Support them in developing their problem solving and reasoning skills
+         Inspire students to enhance their diction, grammar and verbal reasoning skills
+
+Course Outcomes:
+CO1: Soft Skills - To develop positive mindset, communicate professionally, manage time effectively
+and set personal goals and achieve them.
+CO2: Soft Skills - To make formal and informal presentations with self-confidence.
+CO3: Aptitude - To analyze, understand and employ the most suitable methods to solve questions on
+arithmetic and algebra.
+CO4: Aptitude - To analyze, understand and apply suitable techniques to solve questions on logical
+reasoning and data analysis.
+CO5: Verbal - To infer the meaning of words and use them in the right context. To have a better
+understanding of the nuances of English grammar and become capable of applying them effectively.
+CO6: Verbal - To identify the relationship between words using reasoning skills. To understand and
+analyze arguments and use inductive/deductive reasoning to arrive at conclusions and communicate
+ideas/perspectives convincingly.
+ CO-PO Mapping
+PO/CO
+          PO1 PO2 PO3
+  CO1        2      1       -
+  CO2        2      1       -
+  CO3        2      1       -
+  CO4        2      1       -
+  CO5        1      2       -
+  CO6        2      2       -
+
+Syllabus:
+Soft Skills
+Introduction to ‘campus to corporate transition’:
+Communication and listening skills: communication process, barriers to communication, verbal and
+non-verbal communications, elements of effective communication, listening skills, empathetic
+listening, role of perception in communication.
+Assertiveness skills: the concept, assertiveness and self-esteem, advantages of being assertive,
+assertiveness and organizational effectiveness.
+Self-perception and self-confidence: locus of control (internal v/s external), person perception, social
+perception, attribution theories-self presentation and impression management, the concept of self and
+self-confidence, how to develop self-confidence.
+Goal setting: the concept, personal values and personal goals, goal setting theory, six areas of goal
+setting, process of goal setting: SMART goals, how to set personal goals
+Time management: the value of time, setting goals/ planning and prioritizing, check the time killing
+                                                  78
+habits, procrastination, tools for time management, rules for time management, strategies for effective
+time management
+Presentation skills: the process of presentation, adult learning principles, preparation and planning,
+practice, delivery, effective use of voice and body language, effective use of audio visual aids, dos and
+don’ts of effective presentation
+Public speaking-an art, language fluency, the domain expertise (Business GK, Current affairs), self-
+confidence, the audience, learning principles, body language, energy level and conviction, student
+presentations in teams of five with debriefing
+Verbal
+Vocabulary: Familiarize students with the etymology of words, help them realize the relevance of word
+analysis and enable them to answer synonym and antonym questions. Create an awareness about the
+frequently misspelt words, commonly confused words and wrong form of words in English.
+Grammar: Train students to understand the nuances of English Grammar and thereby enable them to
+spot grammatical errors and punctuation errors in sentences.
+Reasoning: Stress the importance of understanding the relationship between words through analogy
+questions and learn logical reasoning through syllogism questions. Emphasize the importance of
+avoiding the gap (assumption) in arguments/ statements/ communication.
+Oral Communication Skills: Aid students in using the gift of the gab to improve their debating skills.
+Writing Skills: Introduce formal written communication and keep the students informed about the
+etiquettes of email writing. Make students practise writing emails especially composing job application
+emails.
+Aptitude
+Numbers: Types, Power Cycles, Divisibility, Prime, Factors & Multiples, HCF & LCM, Surds, Indices,
+Square roots, Cube Roots and Simplification.
+Percentage: Basics, Profit, Loss & Discount, and Simple & Compound Interest.
+Ratio, Proportion & Variation: Basics, Alligations, Mixtures, and Partnership.
+Averages: Basics, and Weighted Average.
+Time and Work: Basics, Pipes & Cistern, and Work Equivalence.
+Time, Speed and Distance: Basics, Average Speed, Relative Speed, Boats & Streams, Races and
+Circular tracks.
+Statistics: Mean, Median, Mode, Range, Variance, Quartile Deviation and Standard Deviation.
+Data Interpretation: Tables, Bar Diagrams, Line Graphs, Pie Charts, Caselets, Mixed Varieties, and
+other forms of data representation.
+Equations: Basics, Linear, Quadratic, Equations of Higher Degree and Problems on ages.
+Logarithms, Inequalities and Modulus: Basics
+References
+Soft Skills:
+Communication and listening skills:
+    Andrew J DuRbin , “Applied Psychology: Individual and organizational effectiveness”, Pearson-
+       Merril Prentice Hall, 2004
+    Michael G Aamodt, “An Applied Approach, 6th edition”, Wadsworth Cengage Learning, 2010
+Assertiveness skills:
+    Robert Bolton, Dorothy Grover Bolton, “People Style at Work..and Beyond: Making Bad
+       Relationships Good and Good”, Ridge Associates Inc., 2009
+    John Hayes “Interpersonal skills at work”, Routledge, 2003
+    Nord, W. R., Brief, A. P., Atieh, J. M., & Doherty, E. M., “Meanings of occupational work: A
+       collection of essays (pp. 21- 64)”, Lexington, MA: Lexington Books, 1990
+Self-perception and self-confidence:
+    Mark J Martinko, “Attribution theory: an organizational perspective”, St. Lucie, 1995
+    Miles Hewstone, “Attribution Theory: Social and Functional Extensions”, Blackwell, 1983
+Time management:
+    Stephen Covey, “The habits of highly effective people”, Free press Revised edition, 2004
+    Kenneth H Blanchard , “The 25 Best Time Management Tools & Techniques: How to Get More
+       Done Without Driving Yourself Crazy” , Peak Performance Press, 1st edition 2005
+                                                   79
+     Kenneth H. Blanchard and Spencer Johnson, “The One Minute Manager” , William Morrow,
+      1984
+
+Verbal:
+    Erica Meltzer, “The Ultimate Guide to SAT Grammar”
+    Green, Sharon, and Ira K. Wolf, “Barron's New GRE”, Barron's Educational Series, 2011
+    Jeff Kolby, Scott Thornburg & Kathleen Pierce, “Nova’s GRE Prep Course”
+    Kaplan, “Kaplan New GRE Premier”, 2011-2012
+    Kaplan’s GRE Comprehensive Programme
+    Lewis Norman, “Word Power Made Easy”, Goyal Publishers, Reprint edition, 1 June 2011
+    Manhattan Prep, “GRE Verbal Strategies Effective Strategies Practice from 99th Percentile
+       Instructors”
+    Pearson- “A Complete Manual for CAT”, 2013
+    R.S. Aggarwal, “A Modern Approach to Verbal Reasoning”
+    S. Upendran, “Know Your English”, Universities Press (India) Limited, 2015
+    Sharon Weiner Green, Ira K. Wolf, “Barron's New GRE, 19th edition (Barron's GRE)”, 2019
+    Wren & Martin, “English Grammar & Composition”
+    www.bbc.co.uk/learningenglish
+    www.cambridgeenglish.org
+    www.englishforeveryone.org
+    www.merriam-webster.com
+Aptitude:
+  Arun Sharma, “How to Prepare for Quantitative Aptitude for the CAT Common Admission
+      Test”, Tata Mc Graw Hills, 5th Edition , 2012
+  Arun Sharma, “How to Prepare for Logical Reasoning for the CAT Common Admission Test”,
+      Tata Mc Graw Hills, 2nd Edition, 2014
+  Arun Sharma, “How to Prepare for Data Interpretation for the CAT Common Admission Test”,
+      Tata Mc Graw Hills, 3nd Edition, 2015
+  R.S. Aggarwal, “Quantitative Aptitude For Competitive Examinations”, S. Chand Publishing,
+      2015
+  R.S. Aggarwal, “A Modern Approach To Verbal & Non-Verbal Reasoning”, S. Chand
+      Publishing, Revised -2015
+  Sarvesh Verma, “Quantitative Aptitude-Quantum CAT”, Arihant Publications, 2016
+  www.mbatious.com
+  www.campusgate.co.in
+  www.careerbless.com
+
+Evaluation Pattern
+
+Assessment                                                 Internal    External
+Continuous Assessment (CA)* – Soft Skills                        30          -
+Continuous Assessment (CA)* – Aptitude                           10         25
+Continuous Assessment (CA)* – Verbal                             10         25
+Total                                                            50         50
+Pass / Fail
+*CA - Can be presentations, speaking activities and tests.
+
+
+
+
+                                               80
+ 23HU611                               Career Competency II                            L-T-P-C: 0-0-3-1
+
+Pre-requisite: Willingness to learn, team spirit, basic English language and communication skills and
+knowledge of high school level arithmetic.
+Course Objectives:
+      Help students to understand the importance of interpersonal skills and team work
+      Prepare the students for effective group discussions and interviews participation.
+      Help students to sharpen their problem solving and reasoning skills
+      Empower students to communicate effectively by using the correct diction, grammar and verbal
+         reasoning skills
+Course Outcomes:
+CO1: Soft Skills - To demonstrate good interpersonal skills, solve problems and effectively participate
+in group discussions.
+CO2: Soft Skills - To write technical resume and perform effectively in interviews.
+CO3: Aptitude - To identify, investigate and arrive at appropriate strategies to solve questions on
+arithmetic by managing time effectively.
+CO4: Aptitude - To investigate, understand and use appropriate techniques to solve questions on
+logical reasoning and data analysis by managing time effectively.
+C05: Verbal - To be able to use diction that is more refined and appropriate and to be competent in
+knowledge of grammar to correct/improve sentences
+C06: Verbal - To be able to examine, interpret and investigate passages and to be able to generate
+ideas, structure them logically and express them in a style that is comprehensible to the
+audience/recipient.
+CO-PO Mapping
+PO/CO
+             PO1       PO2 PO3
+   CO1          2         1        -
+   CO2          2         1        -
+   CO3          2         1        -
+   CO4          2         1        -
+   CO5          1         2        -
+   CO6          2         2        -
+
+Syllabus
+Soft Skills
+Interpersonal skill: ability to manage conflict, flexibility, empathetic listening, assertiveness, stress
+management, problem solving, understanding one’s own interpersonal needs, role of effective team
+work in organizations
+Group problem solving: the process, the challenges, the skills and knowledge required for the same.
+Conflict management: the concept, its impact and importance in personal and professional lives,
+(activity to identify personal style of conflict management, developing insights that helps in future
+conflict management situations.)
+Team building and working effectively in teams: the concept of groups (teams), different stages of
+group formation, process of team building, group dynamics, characteristics of effective team, role of
+leadership in team effectiveness. (Exercise to demonstrate the process of emergence of leadership in a
+group, debrief and reflection), group discussions.
+Interview skills: what is the purpose of a job interview, types of job interviews, how to prepare for an
+interview, dos and don’ts of interview, One on one mock interview sessions with each student
+Verbal
+Vocabulary: Help students understand the usage of words in different contexts. Stress the importance
+of using refined language through idioms and phrasal verbs.
+Grammar: Enable students to identify poorly constructed sentences or incorrect sentences and
+                                                    81
+improvise or correct them.
+Reasoning: Facilitate the student to tap her/his reasoning skills through critical reasoning questions and
+logical ordering of sentences.
+Reading Comprehension: Enlighten students on the different strategies involved in tackling reading
+comprehension questions.
+Public Speaking Skills: Empower students to overcome glossophobia and speak effectively and
+confidently before an audience.
+Writing Skills: Practice closet tests that assess basic knowledge and skills in usage and mechanics of
+writing such as punctuation, basic grammar and usage, sentence structure and rhetorical skills such as
+writing strategy, organization, and style.
+
+Aptitude
+Sequence and Series: Basics, AP, GP, HP, and Special Series.
+Geometry: 2D, 3D, Coordinate Geometry, and Heights & Distance.
+Permutations & Combinations: Basics, Fundamental Counting Principle, Circular Arrangements, and
+Derangements.
+Probability: Basics, Addition & Multiplication Theorems, Conditional Probability and Bayes'
+Theorem.
+Logical Reasoning I: Arrangements, Sequencing, Scheduling, Venn Diagram, Network Diagrams,
+Binary Logic, and Logical Connectives, Clocks, Calendars, Cubes, Non-Verbal reasoning and Symbol
+based reasoning.
+Logical Reasoning II: Blood Relations, Direction Test, Syllogisms, Series, Odd man out, Coding &
+Decoding, Cryptarithmetic Problems and Input - Output Reasoning.
+Data Sufficiency: Introduction, 5 Options Data Sufficiency and 4 Options Data Sufficiency.
+Campus recruitment papers: Discussion of previous year question papers of all major recruiters of
+Amrita Vishwa Vidyapeetham.
+Miscellaneous: Interview Puzzles, Calculation Techniques and Time Management Strategies.
+
+References
+Soft Skills
+Team Building
+     Thomas L.Quick, ”Successful team building”, AMACOM Div American Mgmt Assn, 1992
+     Brian Cole Miller, “Quick Team-Building Activities for Busy Managers: 50 Exercises
+        That Get Results in Just 15 Minutes”, AMACOM; 1 edition, 2003.
+     Patrick Lencioni, “The Five Dysfunctions of a Team: A Leadership Fable”, Jossey-Bass,
+        1st Edition, 2002
+                    Verbal
+     “GMAT Official Guide” by the Graduate Management Admission Council, 2019
+     Arun Sharma, “How to Prepare for Verbal Ability And Reading Comprehension For CAT”
+     Joern Meissner, “Turbocharge Your GMAT Sentence Correction Study Guide”, 2012
+     Kaplan, “Kaplan GMAT 2012 & 13”
+     Kaplan, “New GMAT Premier”, Kaplan Publishing, U.K., 2013
+     Manhattan Prep, “Critical Reasoning 6th Edition GMAT”
+     Manhattan Prep, “Sentence Correction 6th Edition GMAT”
+     Mike Barrett “SAT Prep Black Book The Most Effective SAT Strategies Ever Published”
+     Mike Bryon, “Verbal Reasoning Test Workbook Unbeatable Practice for Verbal Ability,
+        English Usage and Interpretation and Judgement Tests”
+     www.bristol.ac.uk/arts/skills/grammar/grammar_tutorial/page_55.htm
+     www.campusgate.co.in
+Aptitude
+     Arun Sharma, “How to Prepare for Quantitative Aptitude for the CAT Common Admission
+        Test”, Tata Mc Graw Hills, 5th Edition, 2012
+     Arun Sharma, “How to Prepare for Logical Reasoning for the CAT Common Admission Test”,
+
+                                                   82
+        Tata Mc Graw Hills, 2nd Edition , 2014
+       Arun Sharma, “How to Prepare for Data Interpretation for the CAT Common Admission Test”,
+        Tata Mc Graw Hills, 3nd Edition , 2015
+       R.S. Aggarwal, “Quantitative Aptitude For Competitive Examinations”, S. Chand Publishing ,
+        2015
+       R.S. Aggarwal, “A Modern Approach To Verbal & Non-Verbal Reasoning”, S. Chand
+        Publishing , Revised -2015
+       Sarvesh Verma, “Quantitative Aptitude-Quantum CAT” , Arihant Publications , 2016
+       www.mbatious.com
+       www.campusgate.co.in
+       www.careerbless.com
+
+Evaluation Pattern
+Assessment                                         Internal        External
+Continuous Assessment (CA)* – Soft Skills                30              -
+Continuous Assessment (CA)* – Aptitude                   10             25
+Continuous Assessment (CA)* – Verbal                     10             25
+Total                                                    50             50
+*CA - Can be presentations, speaking activities and tests.
+
+
+
+22AVP103                          Mastery Over Mind (MAOM)                                    1-0-2 2
+
+1.         Course Overview
+Master Over the Mind (MAOM) is an Amrita initiative to implement schemes and organize university-
+wide programs to enhance health and wellbeing of all faculty, staff, and students (UN SDG -3). This
+program as part of our efforts for sustainable stress reduction gives an introduction to immediate and
+long-term benefits and equips every attendee to manage stressful emotions and anxiety facilitating inner
+peace and harmony.
+With a meditation technique offered by Amrita Chancellor and world-renowned humanitarian and
+spiritual leader, Sri Mata Amritanandamayi Devi (Amma), this course has been planned to be offered
+to all students of all campuses of AMRITA, starting off with all first years, wherein one hour per week
+is completely dedicated for guided practical meditation session and one hour on the theory aspects of
+MAOM. The theory section comprises lecture hours within a structured syllabus and will include
+invited guest lecture series from eminent personalities from diverse fields of excellence. This course
+will enhance the understanding of experiential learning based on university’s mission: “Education for
+Life along with Education for Living”, and is aimed to allow learners to realize and rediscover the
+infinite potential of one’s true Being and the fulfilment of life’s goals.
+2. Course Syllabus
+Unit 1                                                                                     (4 hours)
+Causes of Stress: The problem of not being relaxed. Need for meditation -basics of stress management
+at home and workplace. Traditions and Culture. Principles of
+meditation– promote a sense of control and autonomy in the Universal Human Value System. Different
+stages of Meditation. Various Meditation Models. Various practices of Meditation techniques in
+different schools of philosophy and Indian Knowledge System.
+Unit 2                                                                                      (4 hours)
+Improving work and study performance. Meditation in daily life. Cultivating compassion and good
+mental health with an attitude of openness and acceptance. Research and Science of Meditation:
+Significance of practising meditation and perspectives from diverse fields like science, medicine,
+technology. philosophy, culture, arts, management, sports, economics, healthcare, environment etc. The
+role of meditation for stress and anxiety reduction in one’s life with insights based on recent cutting-
+edge technology. The effect of practicing meditation for the wholesome wellbeing of an individual.
+Unit 3                                                                                     (4 hours)
+                                                  83
+Communications: principles of conscious communication. Relationships and empathy: meditative
+approach in managing and maintaining better relationships in life during the interactions in the world,
+role of MAOM in developing compassion, empathy and responsibility, instilling interest, and
+orientation to humanitarian projects as a key to harness intelligence and compassion in youth.
+Methodologies to evaluate effective awareness and relaxation gained from meditation. Evaluating the
+global transformation through meditation by instilling human values which leads to service learning
+and compassion driven research.
+TEXT BOOKS:
+1.Mata Amritanandamayi Devi, “Cultivating Strength and vitality,” published by Mata
+Amritanandamayi Math, Dec 2019
+2.Swami Amritaswarupananda Puri ,”The Color of Rainbow “ published by MAM, Amritapuri.
+
+
+REFERENCES:
+1.Craig Groeschel, “Winning the War in Your Mind: Change Your Thinking, Change Your Life”
+Zondervan Publishers, February 2019
+2.R Nagarathna et al, “New Perspectives in Stress Management “Swami Vivekananda Yoga Prakashana
+publications, Jan 1986
+3. Swami Amritaswarupananda Puri “Awaken Children Vol 1, 5 and 7 - Dialogues with Amma on
+   Meditation”, August 2019
+4. Swami Amritaswarupananda Puri “From Amma’s Heart - Amma’s answer to questions raised during
+   world tours” March 2018
+5. Secret of Inner Peace- Swami Ramakrishnananda Puri, Amrita Books, Jan 2018.
+6. Mata Amritanandamayi Devi “Compassion :The only way to Peace:Paris Speech”, MA Center, April
+   2016.
+7. Mata Amritanandamayi Devi “Understanding and collaboration between Religions”, MA
+Center, April
+   2016.
+8. Mata Amritanandamayi Devi “Awakening of Universal Motherhood: Geneva Speech” M A center,
+   April 2016.
+
+3. Evaluation and Grading
+ Internal                                              External                                Total
+ Components                            Weightage       Practical ( attendance and class        100%
+ Quizzes( based on the reading         20% 40%         participation) 60%
+ material)
+ Assignments (Based on webinars        20%
+ and lecture series)
+
+4.    Course Outcomes (CO)
+ CO1: Relate to the causes of stress in one’s life.
+CO2: Experiment with a range of relaxation techniques
+CO3: Model a meditative approach to work, study, and life.
+CO4: Develop appropriate practice of MA-OM technique that is effective in one’s life
+CO5: Inculcate a higher level of awareness and focus.
+CO6: Evaluate the impact of a meditation technique
+
+*Program Outcomes (PO) (As given by NBA and ABET)
+PO1: Engineering Knowledge
+PO2: Problem Analysis
+PO3: Design/Development of Solutions
+PO4: Conduct Investigations of complex problems
+PO5: Modern tools usage
+
+                                                  84
+       PO6: Engineer and Society
+       PO7: Environment and Sustainability
+       PO8: Ethics
+       PO9: Individual & Team work
+       PO10: Communication
+       PO11: Project management & Finance
+       PO12: Lifelong learning
+
+       CO – PO Affinity Map
+
+P O/   PO1 PO2 PO3 PO4 PO5 PO6 PO7 PO8 PO9 PO10 PO11 PO12 PS01 PSO2 PSO3
+CO
+CO 1     3     3     3      2           -    2   3    -   3   -   3   -   -   -
+CO 2     3     3     3      2     2     _    2   3    3   3   -   3   -   -   -
+CO 3     3     3     2      2     2     2    2   3    3   3   -   3   -   -   -
+CO 4     3     3     3      2     -     2    3   3    3   3   -   3   -   -   -
+CO 5     3     2     2      2     -     2    -   3    2   2   -   2   -   -   -
+CO 6     3     2     2      2     3     2    _   3    2   2   -   2   -   -   -
+
+
+
+
+                                                 85
+

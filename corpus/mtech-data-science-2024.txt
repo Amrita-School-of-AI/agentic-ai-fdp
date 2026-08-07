@@ -1,0 +1,3164 @@
+                              Amrita School of Computing
+                              Amrita Vishwa Vidyapeetham
+
+
+                                M.TECH DATA SCIENCE
+                                   CURRICULUM 2024
+
+
+
+
+Amrita Vishwa Vidyapeetham.              MTC-DS            M.Tech
+Curriculum June 2024
+                                 GENERAL INFORMATION
+
+
+
+
+Course Outcomes (CO) – Statements that describe what students are expected to know, and are
+able to do at the end of each course. These relate to the skills, knowledge, and behaviour that
+students acquire in their progress through the course.
+Program Outcomes (POs) – Program Outcomes are statements that describe what students are
+expected to know and be able to do upon graduating from the Program. These relate to the skills,
+knowledge, attitude, and behaviour that students acquire through the program. Program outcomes
+should be consistent with graduate attributes prescribed by NBA.
+Graduate Attributes prescribed by NBA for M-Tech Program
+GA1: Scholarship of knowledge
+GA2: Critical thinking
+GA3: Problem solving
+GA4: Research skill
+GA5: Usage of modern tools
+GA6: Collaborative and multidisciplinary work
+GA7: Project management and finance
+GA8: Communication
+GA9: Lifelong learning
+GA10: Ethical practices and social responsibility
+GA11: Independent and reflective learning.
+
+
+
+
+Amrita Vishwa Vidyapeetham.                  MTC-DS                      M.Tech
+Curriculum June 2024
+                                            Scope
+
+This program aims at preparing students in data science especially in data driven modeling and
+scientific computation. This program is tuned to cater to the demands in terms of skills required
+for the emerging scenarios in the industry and academia. Students will be skilled in domains such
+as Automation, Deep Learning, Text Analytics, Generative AI and System Building.
+
+
+
+
+Amrita Vishwa Vidyapeetham.                  MTC-DS                       M.Tech
+Curriculum June 2024
+Program Outcomes
+Graduates of this program will be able to
+PO1: Develop an in depth understanding about the principles, tools and techniques pertinent to
+     data science (GA1)
+PO2: Apply the principles of data science to solve real life problems in various fields of
+     Engineering, Physical and Natural Sciences. (GA2 & GA3)
+PO3: Implement state of the art data analysis techniques in different computing platforms (GA5)
+PO4: Arrive at innovative solutions for problems pertinent to data analysis in multiple domains
+     (GA4 & GA6)
+PO5: Able to identify and execute projects relevant to data analysis that will benefit the society
+     (GA7, GA9, GA10 & GA11)
+PO6: Able to communicate the findings of their analysis to scientific community through quality
+     publications (GA4, GA9 & GA11)
+
+
+
+Program Specific Objectives (PSOs)
+Graduates of the program will be able to
+PSO1: Apply the mathematical concepts and techniques of data science to formulate solutions of
+     real-world problems in industry relevant domains
+PSO2: Implement the algorithms for solving problems related to data science using high
+     performance computing platform and cloud computing platform.
+PSO3: Conduct research in data science and pursue a career in research and development pertinent
+     to data science.
+
+
+
+
+Amrita Vishwa Vidyapeetham.                  MTC-DS                        M.Tech
+Curriculum June 2024
+SEMESTER I
+
+ Category Course Code Title                                L-T-P       Credit
+ FC                   Computational Mathematics for Data
+          24MA604                                          303         4
+                      Science
+ FC       24DS601     Machine Learning                     303         4
+ FC       24DS602     Foundation of Data Management        303         4
+ SC                   SC-1                                 203         3
+ HU       22AVP103    Mastery Over Mind (MAOM)             102         2
+ SC       24RM607     Research Methodology                 200         2
+ HU       23AVP601    Amrita Values Program                            P/F
+ HU       23HU601     Career Competency - I                003         P/F
+                      Total                                30          19
+
+
+SEMESTER II
+
+ Category         Course        Title                      L-T-P       Credit
+                  Code
+ FC               24DS611       Deep Learning              303         4
+ SC                             SC-2                       203         3
+ SC                             SC-3                       203         3
+ SC                             SC-4                       203         3
+ E                              Elective 1                 203         3
+ E                              Elective 2                 203         3
+ HU               23HU611       Career Competency - II     003         1
+                                Total                      34          20
+
+
+
+
+SEMESTER III
+
+ Category Course Code           Title                      L-T-P       Credit
+ E                              Elective 3                 203         3
+ E                              Elective 4                 203         3
+ P        24DS798               Dissertation               0 0 11      11
+                                Total                      21          17
+
+
+SEMESTER IV
+
+ Category         Course Code   Title                       L-T-P          Credit
+ P                24DS799       Dissertation                0 0 16         16
+                                Total                       16             16
+                                Grand Total                                72
+
+Amrita Vishwa Vidyapeetham.                    MTC-DS         M.Tech
+Curriculum June 2024
+LIST OF COURSES
+                                         FOUNDATION CORE
+
+ Course Code           Title                                            L-T-P    Credit
+ 24MA604               Computational Mathematical for Data Science      303      4
+ 24DS602               Foundation of Data Management                    303      4
+ 24DS601               Machine Learning                                 303      4
+ 24DS611               Deep Learning                                    303      4
+
+
+
+
+                                           SUBJECT CORE
+ Course Code           Title                                            L-T-P    Credit
+ 24DS631               Embedded Computing & Realtime OS for Data        203      3
+                       Science Applications
+ 24RM607               Research Methodology                             200      2
+ 24DS632               Introduction to Probabilistic Graphical Models   203      3
+ 24DS633               Scientific Computing                             203      3
+ 24DS634               Text Mining and Analytics                        203      3
+ 24DS635               Big Data Framework for Data Science              203      3
+ 24DS636               Statistical Modelling                            203      3
+ 24DS637               Advanced Data Visualization and Analytics        203      3
+
+
+
+
+Amrita Vishwa Vidyapeetham.                       MTC-DS                M.Tech
+Curriculum June 2024
+                                     PROFESSIONAL ELECTIVES
+ Course Code                                    Title                    L-T-P    Credit
+ 24DS731               AI Applications for Power Systems                203      3
+ 24DS732               Deep Learning in Genomics and Biomedicine        203      3
+ 24DS733               Deep Learning for Biomedical Data Analysis       203      3
+ 24DS734               Deep Learning for Speech Signal Processing       203      3
+ 24DS735               Social Media Analytics                           203      3
+ 24DS736               Deep Learning for Visual Recognition             203      3
+ 24DS737               Deep Learning for Cyber Security                 203      3
+ 24DS738               Complex Systems in Engineering, Finance &        203      3
+                       Biology: Modelling & Analysis
+ 24DS739               High Performance Computing                       203      3
+ 24DS740               Multiscale Modelling in Fluid Mechanics          203      3
+ 24DS741               Computer Vision                                  203      3
+ 24DS742               Reinforcement Learning                           203      3
+ 24DS743               Blockchain Technology                            203      3
+ 24DS744               Predictive Analytics for Internet of Things      203      3
+ 24DS745               Cloud Computing and Security in the Cloud        203      3
+ 24DS746               Financial Data Analytics                         203      3
+ 24DS747               Material Informatics                             203      3
+ 24DS748               Integration of data science and system biology   203      3
+ 24DS749               Introduction to Graph Theory                     203      3
+
+
+
+
+Amrita Vishwa Vidyapeetham.                        MTC-DS               M.Tech
+Curriculum June 2024
+                                            SEMESTER I
+
+24MA604                  Computational Mathematical for Data Science             L-T-P-C: 3-0-3-4
+
+Course Objectives
+    The course will lay down the basic concepts and techniques of linear algebra, calculus and
+      optimization theory needed for subsequent study.
+    The course will explore the concepts initially through computational experiments and then
+      try to understand the concepts and theory behind it.
+    The course will provide the background required to use the methods in research work
+      and/or applications.
+
+Course Outcomes
+After completing this course, the students will be able to
+
+CO1: Use computational techniques and algebraic skills essential for the study of systems of linear
+     equations, matrix algebra, vector spaces, eigenvalues and eigenvectors, orthogonality,
+     diagonalization, matrix projection.
+CO2: understand the importance of single variable calculus and multivariable calculus in machine
+     learning models.
+CO3: Understand the importance of optimization for data science and implementation of
+     analytical & numerical methods for solving constrained optimization problems and
+     unconstrained optimization problems.
+CO4: Understand the use of linear algebra, calculus and optimization techniques in various
+     algorithm formulation in data science using machine learning, deep learning and
+     reinforcement learning techniques.
+
+CO-PO Mapping
+
+     PO/PSO                                                            PSO1      PSO2     PSO3
+                       PO1     PO2    PO3     PO4       PO5   PO6
+         CO
+        CO1              2      2       1      1         2      2        2            -    2
+        CO2              2      1       1      1         1      2        2            -    2
+        CO3              3      3       2      2         2      2        3            1    2
+        CO4              3      3       3      3         3      3        3            2    3
+
+
+Syllabus
+
+Matrices, Rank, and Gaussian Elimination-vector spaces and subspaces, linear independence, basis
+and dimension, four fundamental subspaces. Orthogonality - perpendicular vectors and orthogonal
+subspaces, inner products and projections onto lines, projections and least square applications,
+orthogonal basis- Gram Schmidt orthogonalization, Eigenvalues and Eigenvectors – Singular
+Amrita Vishwa Vidyapeetham.                    MTC-DS                        M.Tech
+Curriculum June 2024
+Value Decomposition, diagonal form of a matrix, Positive Definite Matrices - minima, maxima
+and saddle points, tests for positive definiteness, semi-definite and indefinite matrices.
+Introduction -Single Variable calculus and multi-variable calculus
+Introduction - mathematical optimization, least-squares and linear programming, convex and
+nonlinear optimization. convex sets, convex optimization problems - optimization problem in
+standard form, convex optimization problems, quasi-convex optimization, linear optimization,
+quadratic optimization, generalized inequality constraints, unconstrained minimization- gradient
+descent method, Conjugate gradient method, steepest descent method, Newton's method.
+Textbooks / References
+        Gilbert Strang, Linear Algebra and its Applications, Fourth Edition, Cambridge University
+         Press. 2009.
+        Gene H. Golub and V. Van Loan, Matrix Computations, Third Edition, John Hopkins
+         University Press, Baltimore, 1996.
+        David C. Lay, Linear Algebra and Its Applications, Pearson Addison Wesley, 2002.
+        Strang, Gilbert. Linear algebra and learning from data. Cambridge: Wellesley-Cambridge
+         Press, 2019.
+        Kalyanmoy, Deb. Optimization for engineering design: Algorithms and examples.
+         Prentice-Hall of India Pvt. Limited, 2012.
+        Chong, Edwin KP, and Stanislaw H. Zak. An introduction to optimization. John Wiley &
+         Sons, 2004.
+        Bhatti, M. Asghar. Practical Optimization Methods: With Mathematica® Applications.
+         Springer Science & Business Media, 2012.
+        Stephen P. Boyd, and Lieven Vandenberghe. Convex optimization. Cambridge university
+         press, 2004.
+        Lecture notes on optimization.
+
+Evaluation Pattern
+   Assessment                 Type of Assessment        Minimum Number          Weightage (%)
+   component                                             of Assessments
+ Internal               Quizzes                        2                   20
+
+ Internal               Assignments/Presentations/     2                   30
+                        Case Study
+
+ Internal               Mid-Term Exam                  1                   20
+ External               End Semester Exam/Term         1                   30
+                        Project
+
+
+
+Amrita Vishwa Vidyapeetham.                        MTC-DS                  M.Tech
+Curriculum June 2024
+ 24DS601                            Machine Learning                            L-T-P-C: 3-0-3-4
+
+
+Course Objectives
+        This course provides the basic concepts of machine learning.
+        This course provides the implementation of machine learning algorithms in Matlab/Python.
+        This course serves as the prerequisite for data analysis using machine learning algorithms.
+
+Course Outcomes
+After completing this course, the students will be able to
+
+        CO1: To implement data pre-processing for usage in Machine Learning algorithms
+        CO2: To learn and implement supervised Machine Learning algorithms
+        CO3: To learn and implement unsupervised Machine Learning algorithms
+        CO4: To learn and evaluate the machine learning model's performances.
+
+CO-PO Mapping
+
+      PO/PSO                                                            PSO1      PSO2     PSO3
+                       PO1    PO2    PO3      PO4       PO5    PO6
+        CO
+        CO1              2     2       2        1        3       3        2            -    2
+        CO2              3     3       3        3        3       3        3            1    2
+        CO3              3     3       3        3        3       3        3            1    2
+        CO4              2     3       3        2        1       3        3            -    2
+
+Syllabus
+
+Foundations of machine learning: Regression Vs. Classification, Generalization, Training,
+Validation and Testing, Problem of Overfitting and mechanisms to overcome overfitting, Bias Vs.
+Variance, vector independence, matrices and vector spaces, probability recap – conditional and
+joint.
+Data Handling: Datatypes and mathematical operations, scaling / normalization, binning &
+discretization, missing value imputation, encodings.
+Supervised Learning: Classification algorithms – Support Vector Machines (SVM), Perceptron &
+Neural Networks, k-Near Neighbor (kNN) & weighted-kNN, Decision Trees (DT), Random Forest
+(RF), Boosting classifiers, Bayesian classifier & Naive-Bayes algorithm, Markov Model and
+HMM, Stacking classifiers; Regression algorithms – linear, logistic, kNN, Random Forest, SVM
+(Support Vector Machines); Clustering algorithms – partition algorithms, hierarchical algorithms.
+Performance metrics: Classification, Regression & Clustering
+Amrita Vishwa Vidyapeetham.                    MTC-DS                         M.Tech
+Curriculum June 2024
+Data Dimensionality – Curses of dimensionality, dimensionality reduction techniques.
+Machine learning algorithms applied for signal and image analysis.
+Textbooks / References
+        Tom Mitchell. Machine Learning. McGraw Hill; 2017
+        Trevor Hastie, Robert Tibshirani, Jerome Friedman. The Elements of Statistical Learning:
+         Data Mining, Inference, and Prediction. Springer, 2017.
+        Miroslav Kubat. An Introduction to Machine Learning. Springer, 2017.
+        Christopher M Bishop. Pattern Recognition and Machine Learning. Springer, 2010.
+        Richard O. Duda, Peter E. Hart, David G. Stork. Pattern Classification. Wiley, Second
+         Edition, 2007.
+        Kevin P. Murphey. Machine Learning, a probabilistic perspective. The MIT Press
+         Cambridge, Massachusetts, 2012.
+        Mehryar Mohri, Afshin Rostamizadeh, Ameet Talwalkar. Foundations of Machine
+         Learning. The MIT Press, 2018.
+        Lisa Tagliaferri, Michelle Morales, Ellie Birkbeck, Alvin Wan. Python Machine Learning
+         Projects. DigitalOcean, 2019.
+        Andrew Ng. Machine Learning Yearning Technical Strategy for AI Engineers, In the Era
+         of Deep Learning. 2018.
+        Soman, K. P., Loganathan, R., & Ajay, V, “Machine learning with SVM and other kernel
+         methods”, PHI Learning Pvt. Ltd., 1st Edition, 2009.
+        Soman, K. P., Shyam Diwakar, and V. Ajay. Data mining: theory and practice [with CD].
+         PHI Learning Pvt. Ltd., 1st Edition 2006.
+
+Evaluation Pattern
+        Assessment               Type of Assessment        Minimum Number         Weightage (%)
+        component                                           of Assessments
+          Internal                     Quizzes                    2                    20
+
+          Internal            Assignments/Presentations/          2                    30
+                                     Case Study
+          Internal                 Mid-Term Exam                  1                    20
+
+          External            End Semester Exam/Term              1                    30
+                                     Project
+
+
+
+
+Amrita Vishwa Vidyapeetham.                      MTC-DS                      M.Tech
+Curriculum June 2024
+   24DS602                     Foundations of Data Management               L-T-P-C: 3-0-3-4
+
+
+Course Objectives
+    This course aims to introduce the concepts of processing, storing, and retrieving data.
+    This course will also familiarize students with fundamental data structures, information
+      retrieval techniques, dimensionality reduction, and database management systems (DBMS)
+    The students will be motivated to apply these concepts to address diverse engineering and
+      research challenges.
+
+Course Outcomes:
+
+CO1: Choose an appropriate data structure as applied to a specified problem.
+CO2: Acquire knowledge in standard database systems concepts such as tables, relations, and
+queries, then apply them to address research or engineering challenges
+CO3: Ability to retrieval of information through techniques like indexing, scoring, and ranking.
+CO4: Acquire techniques for reducing data dimensionality and eliminating noise.
+
+CO-PO Mapping
+
+    PO /           PO1        PO2   PO3    PO4       PO5     PO6   PSO1     PSO2     PSO3
+    PSO
+    CO
+    CO1                1       3     1      2            2   1       1         2        2
+    CO2                1       3     2      2            2   1       1         2        2
+    CO3                1       3     2      2            2   1       1         2        2
+    CO4                1       3     2      2            2   1       1         2        2
+
+Syllabus
+
+Unit1: Data Analysis and Visualization Techniques
+Data Collection: Various sources and types of data: text, video, audio, biology etc; Data
+Preprocessing: Cleaning data, missing data imputation, noise elimination, feature selection and
+dimensionality reduction (PCA, tSNE, UMAP), normalisation. Data Visualization: histogram, pie
+chart, area-plot, box plot, scatter-plot, bubble plot, waffle charts etc.
+
+Unit2: Data Structure and Algorithm
+Data Structure: Stack, Queue, Linked List, Graphs. Algorithms. Searching, Sorting, Graph
+traversal, Complexity (Time)
+
+
+Amrita Vishwa Vidyapeetham.                     MTC-DS                    M.Tech
+Curriculum June 2024
+Unit3: Database Management System
+Database, Schema, ER diagram, SQL (Postgresql), database normalization (1NF,2NF,3NF and
+BCNF), indexing (B+tree), transaction concept and simple transaction model, serializability
+concept, concurrency control
+Textbooks / References
+
+        Introduction to Algorithms. Cormen, Leiserson, Rivest, Stein. MIT Press 3ed. ISBN-13:
+         978-0262533058
+        2. Database System Concepts. Silberschatz, Korth, Sudarshan. McGraw Hill Education;
+         Sixth edition. ISBN-13: 978-9332901384
+        3. Introducing Data Science: Big Data, Machine Learning, and More, Using Python Tools.
+         Cielen, Meysman,Ali. Dreamtech Press. ISBN-13: 978-9351199373
+        References
+        1. Data Engineering: A Novel Approach to Data Design. Brian Shive. Technics
+         Publications. ISBN-13: 978-1935504603
+        2. Python Data Science Handbook: Essential Tools for Working with Data. Joel Grus.
+         O’Reilly. ISBN-13: 978-9352134915
+        Jeff     Erickson,       “Algorithms”,      First   edition,    2019     [Available on:
+         https://jeffe.cs.illinois.edu/teaching/algorithms/book/Algorithms-JeffE.pdf]
+        Morin, Pat. Open Data Structures: An Introduction. Vol. 2. Athabasca University Press,
+         2013.
+        Michael T. Goodrich and Roberto Tamassia, “Algorithm Design Foundations, Analysis
+         and Internet Examples,” John Wiley and Sons, 2003.
+        Michael T. Goodrich and Roberto Tamassia, “Data Structures and Algorithms in Java,”
+         Fourth Edition, John Wiley, and Sons, 2004.
+
+Evaluation Pattern
+
+   Assessment                 Type of Assessment        Minimum Number         Weightage (%)
+   component                                             of Assessments
+ Internal               Quizzes                        2                  20
+
+ Internal               Assignments/Presentations/     2                  30
+                        Case Study
+ Internal               Mid-Term Exam                  1                  20
+
+ External               End Semester Exam/Term         1                  30
+                        Project
+
+
+
+
+Amrita Vishwa Vidyapeetham.                        MTC-DS                 M.Tech
+Curriculum June 2024
+ 24DS631          Embedded Computing & RTOS for Data Science Applications                  L-T-P-C:
+ 2-0-3-3
+
+Course Objectives
+        The course will provide the importance and applications of embedded systems in modern
+         applications
+        The course will pave the way for understanding the various sources of data stream from an
+         embedded system point of view and recording this data streams for processing
+        This will enable the students to develop various system and analyze the data from the
+         developed system for decision making.
+        The course will enable the student with basic real-time operating system concepts for
+         application development.
+Course Outcomes
+After completing this course, the students will be able to
+        CO1: To enable the student with the fundamentals of micro-controller architecture,
+         building components and embedded data streaming devices.
+        CO2: To program various micro-controllers, application development and data streaming
+         using various sensors.
+        CO3: To work with Free RTOS for developing real-time data streaming and intelligent
+         applications.
+        CO4: To develop real-time embedded system application in healthcare, agriculture,
+         autonomous car and other data streaming systems.
+
+CO-PO Mapping
+
+        PO/PSO                                                          PSO1 PSO2 PSO3
+                        PO1       PO2   PO3   PO4       PO5     PO6
+          CO
+          CO1                 3    2     2      2        2       2        -            3     1
+          CO2                 3    3     2      2        2       2        -            3     2
+          CO3                 3    3     3      3        3       2        -            3     2
+          CO4                 3    2     2      3        3       2        3            3     2
+
+
+Syllabus
+
+Introduction to Embedded systems, AI enabled embedded system applications, Embedded nodes
+as data source in various applications, Micro-controllers and its basic, Micro-controller Instruction
+Amrita Vishwa Vidyapeetham.                    MTC-DS                         M.Tech
+Curriculum June 2024
+Set Architecture – RISC and CISC, Basic Embedded Processor/Microcontroller Architecture,
+Memory System Architecture-Caches-Virtual Memory, Memory Devices and their
+Characteristics-RAM, ROM, UVROM, EEPROM, Flash Memory, DRAM , I/O Devices - Timers
+and Counters - Watchdog Timers - - Interrupt Controllers - DMA Controllers - A/D and D/A
+Converters -Displays , GPIO, Analog Sensors interfacing and data recording , Networked
+Embedded systems and protocols, Real-time concepts, real-time operating systems, Required
+RTOS services/capabilities (in contrast with traditional OS). Software development for data
+acquisition, fundamentals of wireless networks for embedded system, Interfacing and Integration
+of microcontroller-based systems. Examples of Industrial process automation, software
+development using python and microcontrollers, Introduction to data streams and analytics. Data
+visualization using python tools, Machine learning techniques on sensor data streams, Introduction
+to hardware accelerated embedded systems like Jetson Tx1, Raspberry PI, Jetson-NANO for Data
+science embedded application deployment.
+Textbooks / References
+        Amos, Brian, “Hands-On RTOS with Microcontrollers: Building real-time embedded
+         systems using FreeRTOS, STM32 MCUs, and SEGGER debug tools”, Packt Publishing
+         Ltd, 2020.
+        Brian Amos, Jim Yuill, Penn Linder “Hands-On RTOS with Microcontrollers - Second
+         Edition”, Packt Publishing 2024.
+        Brian Amos,”Hands-On RTOS with Microcontrollers: Building real-time embedded
+         systems using FreeRTOS, STM32 MCUs, and SEGGER debug tools”, PACKT publishing,
+         15 May, 2020.
+        Bhateja, Vikrant, Suresh Chandra Satapathy, and Hassan Satori, eds. Embedded Systems
+         and Artificial Intelligence: Proceedings of ESAI 2019, Fez, Morocco. Vol. 1076. Springer
+         Nature, 2020.
+
+Evaluation Pattern
+   Assessment                 Type of Assessment        Minimum Number         Weightage (%)
+   component                                             of Assessments
+ Internal               Quizzes                        2                  20
+
+ Internal               Assignments/Presentations/     2                  30
+                        Case Study
+ Internal               Mid-Term Exam                  1                  20
+
+ External               End Semester Exam/Term         1                  30
+                        Project
+
+
+
+
+Amrita Vishwa Vidyapeetham.                        MTC-DS                  M.Tech
+Curriculum June 2024
+                                             SEMESTER II
+
+
+ 24DS611                                 Deep Learning                          L-T-P-C: 3-0-3-4
+
+
+Course Objectives
+        This course provides the basic concepts of deep learning and implementation using
+         Matlab/Python.
+        This course provides the application of deep learning algorithms in signal and image data
+         analysis.
+        This course covers the concept of deep learning algorithms such as transfer learning and
+         attention models for signal and image analysis.
+
+Course Outcomes
+After completing this course, the students will be able to
+        CO1: Implement the basics of deep neural networks.
+        CO2: Implement convolutional neural networks for data analysis.
+        CO3: Implement sequential models for sequential data analysis.
+        CO4: Apply transformers for solving real-world problems.
+
+CO-PO Mapping
+
+        PO/PSO                                                        PSO1 PSO2 PSO3
+                        PO1       PO2   PO3     PO4      PO5   PO6
+          CO
+          CO1                 3    3     3       2        3     3       2            3   2
+          CO2                 3    3     3       2        3     3       2            3   2
+          CO3                 3    3     3       2        3     3       2            3   2
+          CO4                 3    3     3       2        3     3       2            3   2
+
+
+Syllabus
+
+Perceptrons, Multilayer Perceptrons (MLPs), Sigmoid Neurons, Gradient Descent, Feedforward
+Neural Networks, Backpropagation, Gradient Descent (GD), Stochastic GD, AdaGrad, RMSProp,
+Adam, Bias Variance Tradeoff, L2 regularization, Early stopping, Dataset augmentation,
+Ensemble methods, Dropout, Better activation functions, Better weight initialization methods,
+Batch Normalization, Convolutional Neural Networks, Recurrent Neural Networks,
+Backpropagation Through Time (BPTT), Vanishing and Exploding Gradients, Gated Recurrent
+Units (GRUs), Long Short Term Memory (LSTM) Cells, Encoder Decoder Models, Attention
+Mechanism, Transformers: Multi-headed Self Attention, Cross Attention.
+Amrita Vishwa Vidyapeetham.                     MTC-DS                      M.Tech
+Curriculum June 2024
+Textbooks / References
+
+        Bishop C.M, “Pattern Recognition and Machine Learning”, Springer, 1st Edition, 2006.
+        Goodfellow I, Bengio Y, Courville A, & Bengio Y, “Deep learning”, Cambridge: MIT
+         Press, 1st Edition, 2016.
+        Charu C. Aggarwal, “Neural Networks and Deep Learning”, Springer, 2nd Edition, 2019.
+
+Evaluation Pattern
+   Assessment                 Type of Assessment        Minimum Number          Weightage (%)
+   component                                             of Assessments
+ Internal                Quizzes                       2                   20
+ Internal                Assignments/Presentations/    2                   30
+                         Case Study
+
+ Internal                Mid-Term Exam                 1                   20
+
+ External                End Semester Exam/Term        1                   30
+                         Project
+
+
+ 24DS632               Introduction to Probabilistic Graphical Models     L-T-P-C: 2-0-3- 3
+
+
+Course Objectives
+        The main objective of the course is to introduce the fundamental concepts of probabilistic
+         graphical models.
+        To explore the applications of probability theory and graphical models in data analysis.
+        To provide connection between the concepts of mathematics and computational thinking
+         with probabilistic graphical models.
+Course Outcomes
+After completing this course, the students will be able to
+CO1: Model engineering problems using the fundamental concepts of probability
+CO2: Apply the concept of probabilistic graphical models to solve problems pertinent to data
+       science.
+CO3: Develop probabilistic models for describing a given system
+CO4: Analyse different probabilistic models developed for describing a given system.
+
+
+
+Amrita Vishwa Vidyapeetham.                        MTC-DS                   M.Tech
+Curriculum June 2024
+CO-PO Mapping
+
+        PO/PSO                                                               PSO1 PSO2 PSO3
+                         PO1          PO2    PO3       PO4       PO5   PO6
+          CO
+          CO1                 3        1       1        1         2     1      3            2    2
+          CO2                 1        3       1        1         2     1      3            1    2
+          CO3                 1        2       2        1         2     1      3            2    2
+          CO4                 2        3       3        2         2     1      3            2    2
+
+
+Syllabus
+
+Samples, Events, Event space, Probability Space, Random Variables, Independence and
+Conditional Independence, Conditional Probability, Joint Probability, Bayes' theorem Joint and
+Marginal Probability, Estimation Theory - Maximum Likelihood Estimators. Probabilistic
+Graphical Models: Direct and undirected model, Inference from Direct and undirected graphical
+model, Structured and Unstructured graphical models, Partition Function, D-Separation, Decision
+Analysis, Decision Trees, Influence Diagrams, Factor Graphs, Sampling from Graphical Models.
+Markov Process and Markov Chain.
+
+Textbooks / References
+        Koller, Daphne, and Nir Friedman. Probabilistic graphical models: principles and
+         techniques. MIT press, 2009.
+        Ian Goodfellow, Yoshua Bengio and Aaron Courville, Deep Learning, MIT press 2016.
+
+Evaluation Pattern
+   Assessment                     Type of Assessment         Minimum Number             Weightage (%)
+   component                                                  of Assessments
+ Internal               Quizzes                              2                     20
+ Internal               Assignments/Presentations/           2                     30
+                        Case Study
+
+ Internal               Mid-Term Exam                        1                     20
+ External               End Semester Exam/Term               1                     30
+                        Project
+
+
+
+
+Amrita Vishwa Vidyapeetham.                            MTC-DS                      M.Tech
+Curriculum June 2024
+ 24DS634                            Text Mining and Analytics                 L-T-P-C: 2-0-3-3
+
+
+Course Objectives
+        This course aims to provide an insight into the concepts of Natural Language Processing
+         and its applications.
+        This course helps the students to implement NLP applications using deep learning
+         algorithms.
+        This course helps to understand various word/text representation algorithms.
+Course Outcomes
+After completing this course, the students will be able to
+    CO1: Use different word/text representation methods to see how words are related to each
+         other
+    CO2: Model Different NLP tasks using Machine Learning/Deep Learning Model/LLM
+    CO3: Implement different deep learning models to solve real-time Text Analytics problems
+    CO4: Assess NLP models using various evaluation metrics and visualization
+
+
+CO-PO Mapping
+    PO/PSO                                                           PSO1 PSO2      PSO3
+                       PO1    PO2    PO3    PO4        PO5     PO6
+        CO
+        CO1             3      3      2       2            2    3     1      1         2
+        CO2             3      3      2       2            3    3     2      2         2
+        CO3             3      3      2       2            3    3     2      3         2
+        CO4             2      3      3       2            1    3     2      1         2
+
+
+Syllabus
+
+Introduction to Natural Language Processing -Words -N-grams -Language modelling - Part-of-
+Speech Tagging - Information Extraction-Name Entity Recognition and Relation Extraction. –
+Syntactic and Semantic Parsing – Morphological Analysis- Introduction of Nltk , SpaCy etc. tools
+for basic NLP task.
+Text Representation and Transformation - Vector space models -Bag-of-Words -Term Frequency
+- Inverse Document Frequency - Word Vector representations: Word2vec, GloVe, FastText,
+BERT, AlBERT, Roberta– Word representation for Indic languages- IndicBERT, IndicFT, XLM,
+Muril- Topic Modelling-LDA,
+Neural language models - Recurrent Neural Network - Long Short-Term Memory Networks -
+Encoder-decoder architecture - Attention mechanism - Transformer networks. Large Language
+Model (LLMs)-Zero short, few shots and Fine tuning of LLMs.
+Amrita Vishwa Vidyapeetham.                       MTC-DS                  M.Tech
+Curriculum June 2024
+Text classification – Sentiment Analysis – Neural Machine Translation - Question answering -
+Text summarization.
+Textbooks / References
+        Daniel Jurafsky and James H. Martin, “Speech and Language Processing,” 3rd edition,
+         2020. [Available on: https://web.stanford.edu/~jurafsky/slp3/ed3book_dec302020.pdf]
+        Christopher Manning and Hinrich Schutze, “Foundations of statistical natural language
+         processing,” MIT press, 1999.
+        Jacob Eisenstein, “Introduction to natural language processing,” Illustrated edition, The
+         MIT press, 2019.
+        Bengfort, Benjamin, Rebecca Bilbro, and Tony Ojeda. Applied text analysis with python:
+         Enabling language-aware data products with machine learning. " O'Reilly Media, Inc.",
+         2018.
+        Ronan Collobert, Jason Weston, Léon Bottou, Michael Karlen, Koray Kavukcuoglu, and
+         Pavel Kuksa, "Natural language processing (almost) from scratch," Journal of machine
+         learning research 12, no. ARTICLE (2011): 2493-2537.
+        Yoav Goldberg, "Neural network methods for natural language processing," Synthesis
+         lectures on human language technologies 10, no. 1 (2017): 1-309.
+        Yoav Goldberg, "A primer on neural network models for natural language processing,"
+         Journal of Artificial Intelligence Research 57 (2016): 345-420.
+
+Evaluation Pattern
+   Assessment                 Type of Assessment        Minimum Number          Weightage (%)
+   component                                             of Assessments
+ Internal               Quizzes                        2                   20
+
+ Internal               Assignments/Presentations/     2                   30
+                        Case Study
+ Internal               Mid-Term Exam                  1                   20
+ External               End Semester Exam/Term         1                   30
+                        Project
+
+
+
+
+Amrita Vishwa Vidyapeetham.                        MTC-DS                  M.Tech
+Curriculum June 2024
+ 24DS633                                Scientific Computing                     L-T-P-C: 2-0-3-3
+
+
+Course Objectives
+        This course helps students to understand the established conventional computational
+         techniques.
+        This course helps students to understand the concepts related to probability, statistics,
+         linear algebra and partial differential equations and the ways to solve those equations.
+        This course aims to help students in implementing the computational methods using
+         MATLAB and Python.
+
+
+Course Outcomes
+After completing this course, the students will be able to
+        CO1: Develop mathematical models to describe natural/engineering/physical systems
+        CO2: Solve the differential equations using numerical schemes
+        CO3: Analyse the stability of systems using dynamical systems theory
+        CO4: Develop data driven models of different engineering/natural/physical systems
+
+CO-PO Mapping
+
+        PO/PSO                                                         PSO1 PSO2 PSO3
+                         PO1      PO2    PO3    PO4       PO5   PO6
+          CO
+          CO1                 3    2      3       1        1     1       3            2   2
+          CO2                 2    2      3       2        2     2       2            3   2
+          CO3                 3    3      3       3        3     3       2            2   2
+          CO4                 2    3      3       2        2     2       3            3   2
+
+Syllabus
+
+Introduction to Mathematical Modelling, Linear system of equations, Eigenvalues and
+Eigenvectors, Stability of Systems using Eigen value analysis, Taylor series, Numerical
+differentiation, Numerical integration, Higher order accuracy schemes for integration and
+differentiation, Ordinary differential equations, Partial Differential Equations, Iterative methods,
+Numerical methods: error analysis, stability and convergence, Runge-Kutta methods, Data Driven
+Modelling, Dynamic mode decomposition, Koopman Theory, System Idenfication techniques for
+nonlinear systems, Physics Informed Neural Networks.
+
+Textbooks / References
+        Gilbert Strang, Differential Equations and Linear Algebra, Wellesley-Cambridge Press,
+         2015.
+
+Amrita Vishwa Vidyapeetham.                      MTC-DS                      M.Tech
+Curriculum June 2024
+        Kutz, J. Nathan, Data-Driven Modeling & Scientific Computation: Methods for Complex
+         Systems & Big Data, Oxford University press, 2013.
+        Arfken, George. B., and Weber, Hans. J., Mathematical Methods for Physicists, Sixth
+         Edition, Elsevier Academic Press, 2005.
+
+Evaluation Pattern
+   Assessment                 Type of Assessment        Minimum Number          Weightage (%)
+   component                                             of Assessments
+ Internal               Quizzes                        2                   20
+
+ Internal               Assignments/Presentations/     2                   30
+                        Case Study
+ Internal               Mid-Term Exam                  1                   20
+
+ External               End Semester Exam/Term         1                   30
+                        Project
+
+
+
+ 24DS636                                 Statistical Modeling                   L-T-P-C: 2-0-3-3
+
+
+Course Objectives
+        The course will lay down the basic concepts and techniques of statistical modeling, to
+         develop the students’ ability to deal with numerical and quantitative issues in business.
+        The course provides a thorough understanding of how regression problems are solved,
+         while working with real time examples.
+        Enable the use of statistical, graphical and algebraic techniques wherever relevant
+        To have a proper understanding of Statistical applications in Engineering, Economics and
+         Management
+        The course will also provide the foundation for research and development work and
+         applications.
+Course Outcomes
+After completing this course, the students will be able to
+     CO1: Apply the concepts of probability, conditional probability, independence, and Bayes’
+          theorem, as well as the properties of discrete and continuous random variables and their
+          distributions.
+     CO2: Apply and analyze parameter estimation and hypothesis testing techniques.
+     CO3: Implement various regression models and evaluate their performance in solving real-
+          world problems.
+
+Amrita Vishwa Vidyapeetham.                        MTC-DS                  M.Tech
+Curriculum June 2024
+     CO4: Implement time-series models and evaluate their effectiveness in addressing real-world
+          problems.
+
+     CO-PO Mapping
+
+        PO/PSO                                                      PSO1 PSO2 PSO3
+                        PO1       PO2   PO3   PO4      PO5   PO6
+           CO
+          CO1                 3    2     3     3        3      3       3            2   2
+          CO2                 3    3     3     3        3      2       3            1   2
+          CO3                 3    3     3     3        3      3       3            1   3
+          CO4                 2    3     3     3        3      3       1            2   3
+
+
+Syllabus
+
+Probability, Random Variables & Probability Distributions. Sampling, analysis of sample data-
+Empirical Distributions, Sampling from a Population Estimation, confidence intervals, point
+estimation--Maximum Likelihood, Probability mass functions, Modeling distributions,
+Hypothesis testing- Z, t, Chi-Square. ANOVA & Designs of Experiments - Single, Two factor
+ANOVA, Factorials ANOVA models.
+Linear least squares, Correlation & Regression Models-linear regression methods, Ridge
+regression, LASSO, univariate and Multivariate Linear Regression, probabilistic interpretation,
+Regularization, Logistic regression, locally weighted regression.
+Exploratory data analysis, Time series analysis, Analytical methods – ARIMA and SARIMA.
+Textbooks / References
+        Think Stats 2e, Exploratory Data Analysis in Python, Allen B. Downey, O’REILLY’,
+         Green Tea Press.
+        Python Crash Course, 2nd Edition: A Hands-On, Project-Based Introduction to
+         Programming by Eric Matthes.
+        Practical Statistics for Data Scientists, by Peter Bruce and Andrew Bruce, O’REILLY’
+        Julian J. Faraway. Extending the Linear Model with R – Generalized Linear, Mixed
+         Effects and Nonparametric Regression Models, Second Edition, CRC Press 2016.
+        Michael Friendly and David Meyer. Discrete Data Analysis with R – Visualization and
+         Modeling Techniques for Categorical and Count Data, CRC Press Dec 2015.
+
+
+
+
+Amrita Vishwa Vidyapeetham.                   MTC-DS                       M.Tech
+Curriculum June 2024
+Evaluation Pattern
+   Assessment                 Type of Assessment          Minimum Number          Weightage (%)
+   component                                               of Assessments
+ Internal               Quizzes                        2                     20
+ Internal               Assignments/Presentations/     2                     30
+                        Case Study
+
+ Internal               Mid-Term Exam                  1                     20
+ External               End Semester Exam/Term         1                     30
+                        Project
+
+
+
+ 24DS637                       Advanced Data Visualization and Analytics          L-T-P-C: 2-0-3-3
+
+
+Course Objectives
+ Develop proficiency in advanced visualization techniques, including interactive visualizations,
+  3D plots, network visualizations, and advanced chart types etc.
+ This course will explore, visualize and analyze various types of data sets such as time series,
+  geospatial and multimodal data.
+ Gain practical experience with Python (Matplotlib, Seaborn, Plotly), JavaScript (D3.js),
+  Tableau, and Power BI.
+
+Course Outcomes
+After completing this course, the students will be able to
+CO1: Understand the importance of data visualization and interactive visualizations for diverse
+     datasets.
+CO2: Learn to create advanced visualization charts, interactive/animated dashboards and construct
+     data stories and communicate important trends/patterns in the datasets.
+CO3: Explore and Analyse Time series, Geospatial and multimodal data.
+CO4: Acquire insights into the intersection of "Advanced data visualization and analytics" with
+     AI.
+
+CO-PO Mapping
+
+              PO /
+              PSO             PO1   PO2     PO3      PO4     PO5    PO6     PSO1      PSO2   PSO3
+              CO
+              CO1              3      2       2       1        1     1       2         3      3
+
+Amrita Vishwa Vidyapeetham.                        MTC-DS                    M.Tech
+Curriculum June 2024
+              CO2             3   2      3        1        2        1        2        3        3
+              CO3             2   3      2        1        3        1        2        3        3
+              CO4             2   2      2        2        2        1        2        3        3
+
+Syllabus
+
+Introduction to Data Visualization – Importance and benefits of good data visualization - Design
+principles - Introduction to python libraries for visualization: seaborn, plotly express, pygal – One
+dimensional (Pictogram, Pie chart, bar chart etc), two-dimentaional (scatterplot, histogram, ogive
+curve, line plot etc.) and chart based (Gantt Chart, Heat Map, Box and Whisker Plot, Waterfall
+Chart, Area Chart, Stacked Bar Charts etc) data visualization techniques - Color palettes – Creation
+of 3D Charts - Creation of Advanced Visualization: Heat Map– Facet Grid - Interaction
+Techniques: Manipulate View – Creation of interactive Network topologies and Treesmap –
+Dimentionality reduction – data cleaning
+
+Visualization of Time series data: summary statistics and plotting aggregated views - Visualization
+of seasonality, trends and noise– working with multiple time series data – case study -
+Visualization of Geospatial data: spatial join - overlaying geospatial data to maps and adding
+special cues - Case Study-Visualization of multimodal data and analysis-case study sensor data
+and health care, genome and biomedical data
+
+Business Analytics and Visualization Tools: Tableau, PowerBI, D3.js(Web-based Tools) - the
+principles of data storytelling and its importance in decision-making - techniques for structuring
+and presenting data-driven narratives - visual storytelling using data visualization tools -
+Interactive visualization techniques - Tools for Interactive Visualization - Designing Interactive
+Dashboards
+
+PCA, t-SNE and UMAP. AI-powered data visualization and Exploratory Data Analysis (EDA)
+with AI.
+
+
+Textbooks / References
+        Tamara Munzner, Visualization Analysis and Design, A K Peters Visualization Series,
+         CRC Press, 2014.
+        Scott Murray, Interactive Data Visualization for the Web, O’Reilly, 2013.
+        VanderPlas J. Python data science handbook: essential tools for working with data
+         O’Reilly Media. Inc”, 2016
+        Alberto Cairo, The Functional Art: An Introduction to Information Graphics and
+         Visualization, New Riders, 2012
+        Nathan Yau, Visualize This: The Flowing Data Guide to Design, Visualization and
+         Statistics, John Wiley & Sons, 2011.
+
+Amrita Vishwa Vidyapeetham.                    MTC-DS                        M.Tech
+Curriculum June 2024
+Evaluation Pattern
+
+   Assessment                 Type of Assessment         Minimum Number          Weightage (%)
+   component                                              of Assessments
+ Internal               Quizzes                         2                   20
+
+ Internal               Assignments/Presentations/      2                   30
+                        Case Study
+ Internal               Mid-Term Exam                   1                   20
+
+ External               End Semester Exam/Term          1                   30
+                        Project
+
+
+ 24DS635                           Bigdata Framework for Data Science            L-T-P-C: 2-0-3-3
+
+Course Objectives
+ To provide the importance of functional programming.
+ To implement various big data concepts using Scala programming language, which is a
+  functional programming language.
+ Ability to solve various real time problems using big data concepts.
+
+Course Outcomes
+After completing this course, the students will be able to
+  CO1: Understand Functional representations.
+  CO2: Model Computations as a Map-Reduce problem.
+  CO3: Imbibe the programming skill to use tools for Bigdata manipulation.
+  CO4: Develop skills to handle and analyze large scale datasets.
+
+CO-PO Mapping
+
+            PO/PSO                                                         PSO1      PSO2   PSO3
+                              PO1      PO2    PO3     PO4    PO5   PO6
+               CO
+              CO1              2        3       3       1     1     1       2         2      2
+              CO2              3        3       3       2     2     1       1         2      3
+              CO3              3        3       3       3     3     2       1         3      3
+              CO4              2        3       3       3     3     3       2         3      3
+
+
+
+Amrita Vishwa Vidyapeetham.                         MTC-DS                  M.Tech
+Curriculum June 2024
+Syllabus
+
+ Introduction to Bigdata - Characteristics of Big Data - Big Data Analytics - Typical Analytical
+Architecture - Challenges in Big Data Analytics - Need of big data frameworks.
+Big data using Functional Programming in Scala - Loops, Lazy evaluation, Arrays, Strings and
+Collections, Classes and Objects, Functions, Recursion - Tail recursion, Higher Order Functions,
+Curried functions, Closures, Inheritance, Overloading and Overriding, Traits, Maps, Flatmaps,
+Sequence summations - Reduce, Fold, Scan, Filter.
+Hadoop Framework - Hadoop - Requirement of Hadoop Framework - Design principle of Hadoop
+-Comparison with other system - Hadoop Components - Hadoop 1.0 vs Hadoop 2.0 vs Hadoop 3.0
+- Hadoop Daemon’s - HDFS Commands - Map Reduce Programming, Pipelining MapReduce
+jobs. Hadoop installation and programming.
+Apache Spark Framework - Resilient Distributed Data Sets - Creating RDDs, Lineage and Fault
+tolerance, DAGs, Spark Programming, Application Execution, transformations and actions,
+persistence.
+Setting up a standalone Spark cluster - spark-shell, basic API, Modules Core-Key/Value pairs and
+other RDD features, Data Frames and Datasets, Creating data frames from RDDs, Using Spark
+SQL to query data frames, NoSQL aggregate databases, MLlib examples on regression,
+classification and clustering problems, Analytics case studies.
+
+Textbooks / References
+        Big Data: Principles and best practices of scalable realtime data systems by James
+         Warren, Nathan Marz, 2015.
+        Learning Spark: Lightning-Fast Big Data Analysis, 1st Edition by Holden Karau, Andy
+         Konwinski, Patrick Wendell, 2015.
+        Programming in Scala: A Comprehensive Step-by-Step Guide, 4th Edition by Martin
+         Odersky, Lex Spoon, Bill Venners.
+        High Performance Spark: Best Practices for Scaling and Optimizing Apache Spark, 1st
+         Edition by Holden Karau, Rachel Warren.
+        Scala for the Impatient, 3rd Edition by Cay S. Horstmann
+        Spark: The Definitive Guide: Big Data Processing Made Simple 1st Edition (Kindle
+         Edition) by Bill Chambers, Matei Zaharia.
+
+Evaluation Pattern
+ Assessment        Type of Assessment                 Minimum Number          Weightage (%)
+ component                                             of Assessments
+ Internal               Quizzes                      2                   20
+ Internal               Assignments/Presentations/   2                   30
+                        Case Study
+
+Amrita Vishwa Vidyapeetham.                      MTC-DS                  M.Tech
+Curriculum June 2024
+ Internal               Mid-Term Exam                 1                      20
+
+ External               End Semester Exam/Term        1                      30
+                        Project
+
+
+
+
+ 24RM607                            Research Methodology                           L-T-P-C: 2-0-0-2
+
+
+Course Objectives
+This course will
+
+        Introduce the concepts involved in scientific research
+        Detail the process of conducting a literature review for a given scientific problem
+        Impart the basics of scientific/technical writing
+
+Course Outcomes
+After completing this course, the students will be able to
+     CO1: Understand the concepts related to scientific research
+     CO2: Perform a literature survey and identify open problems in the chosen area of research
+     CO3: Prepare a research paper/dissertation to communicate their contributions to scientific
+          community
+
+CO-PO Mapping
+
+                PO/PSO                                                      PSO1 PSO2 PSO3
+                              PO1   PO2    PO3       PO4      PO5   PO6
+                  CO
+                  CO1          1     -       -            3    1       1       -      -        3
+                  CO2          -     -       -            1    2      3        -          -    3
+                  CO3          -     -        -           -    2      3        -          -    3
+
+
+Syllabus
+
+Meaning of Research, Types of Research, Research Process, Problem definition, Objectives of
+Research, Research Questions, Research design, Approaches to Research, Quantitative vs.
+Qualitative Approach, Understanding Theory, Building and Validating Theoretical Models,
+Exploratory vs. Confirmatory Research, Experimental vs Theoretical Research, Importance of
+reasoning in research.
+
+
+
+Amrita Vishwa Vidyapeetham.                       MTC-DS                     M.Tech
+Curriculum June 2024
+Problem Formulation, Understanding Modeling & Simulation, Conducting Literature Review,
+Referencing, Information Sources, Information Retrieval, Role of libraries in Information
+Retrieval, Tools for identifying literatures, Indexing and abstracting services, Citation indexes.
+Experimental Research: Cause effect relationship, Development of Hypothesis, Measurement
+Systems Analysis, Error Propagation, Validity of experiments, Statistical Design of Experiments,
+Field Experiments, Data/Variable Types & Classification, Data collection, Numerical and
+Graphical Data Analysis: Sampling, Observation, Surveys, Inferential Statistics, and Interpretation
+of Results
+Preparation of Dissertation and Research Papers, Tables and illustrations, Guidelines for writing
+the abstract, introduction, methodology, results and discussion, conclusion sections of a
+manuscript. References, Citation and listing system of documents
+Intellectual property rights (IPR) - patents-copyrights-Trademarks-Industrial design geographical
+indication. Ethics of Research- Scientific Misconduct- Forms of Scientific Misconduct.
+Plagiarism, Unscientific practices in thesis work, Ethics in science.
+Textbooks / References
+        Bordens, K. S. and Abbott, B. B., “Research Design and Methods – A Process
+         Approach”, 8th Edition, McGraw-Hill, 2011
+        C. R. Kothari, “Research Methodology – Methods and Techniques,” 2nd Edition, New
+         Age International Publishers
+        Davis, M., Davis K., and Dunagan M., “Scientific Papers and Presentations”, 3rd
+         Edition, Elsevier Inc. Michael P. Marder, “Research Methods for Science”, Cambridge
+         University Press, 2011
+        T. Ramappa, “Intellectual Property Rights Under WTO,” S. Chand, 2008
+        Robert P. Merges, Peter S. Menell, Mark A. Lemley, “Intellectual Property in New
+         Technological Age.” Aspen Law & Business; 6 edition July 2012.
+Evaluation Pattern
+   Assessment                 Type of Assessment        Minimum Number          Weightage (%)
+   component                                             of Assessments
+ Internal               Quizzes                        2                   20
+ Internal               Assignments/Presentations/     2                   30
+                        Case Study
+
+ Internal               Mid-Term Exam                  1                   20
+ External               End Semester Exam/Term         1                   30
+                        Project
+
+
+
+Amrita Vishwa Vidyapeetham.                        MTC-DS                   M.Tech
+Curriculum June 2024
+                                       PROFESSIONAL ELECTIVES
+
+
+ 24DS731                          AI Applications for Power Systems            L-T-P-C: 2-0-3-3
+
+
+Course Objectives
+        The course provides fundamental understanding of the electric power system and
+         underlying dynamics of their operation.
+        The course will impart the basic concepts and principles of power system analysis.
+        The course will provide knowledge of appropriate AI framework for solving power
+         system problems.
+        The course will empower the students to integrate the concepts of power systems into AI
+         research.
+Course Outcomes
+After completing this course, the students will be able to,
+     CO1: Understand the fundamental concepts about conventional power system and Smart grid.
+     CO2: Understand the mathematics behind the operation of power grids and various
+          optimization problems such as economic dispatch, optimal power flow etc.
+     CO3: Develop the basic knowledge to apply appropriate AI framework for solving power
+          system problems.
+
+CO-PO Mapping
+
+        PO/PSO                                                        PSO1 PSO2 PSO3
+                         PO1      PO2     PO3    PO4      PO5   PO6
+          CO
+          CO1                 2    1       2      2        2     3     2            2   2
+          CO2                 1    2       1      2        3     3     3            2   2
+          CO3                 2    3       3      3        3     2     2            2   2
+
+
+Syllabus
+
+Three-phase Systems-Overview of Power Grid-Complex power-Per Unit systems- Optimization
+Principles-Economic Dispatch-Power Flow Analysis and OPF-Fundamentals of Power System
+Stability-Distribution Systems-Microgrid and Storage-Electric Power Markets- Renewable
+Energy Optimization-Forecasting of Renewable Energy Sources-AI for Demand Side
+Management-Other AI Applications in Power Systems (Hydro-Thermal Scheduling, Transmission
+Planning, Maintenance Scheduling etc.)
+
+
+
+Amrita Vishwa Vidyapeetham.                      MTC-DS                    M.Tech
+Curriculum June 2024
+Textbooks / References
+        Arthur R. Bergen, and Vijay Vittal. Power systems analysis. Prentice Hall, 2000.
+        Stephen P. Boyd, and Lieven Vandenberghe. Convex optimization. Cambridge university
+         press, 2004.
+        Allen J. Wood and Bruce Wollenberg. Power Generation Operation and Control. Wiley
+         Press, 2006.
+        Kevin Warwick. Artificial Intelligence Techniques in Power Systems. IET Power and
+         Energy Series, 2008.
+
+Evaluation Pattern
+   Assessment                 Type of Assessment        Minimum Number         Weightage (%)
+   component                                             of Assessments
+ Internal               Quizzes                        2                  20
+ Internal               Assignments/Presentations/     2                  30
+                        Case Study
+
+ Internal               Mid-Term Exam                  1                  20
+
+ External               End Semester Exam/Term         1                  30
+                        Project
+
+
+ 24DS732                      Deep Learning in Genomics and Biomedicine        L-T-P-C: 2-0-3-3
+
+
+Course Objectives
+        The course will lay down the basic concepts and techniques of Deep learning in Genomics
+         and Biomedicine
+        It examines how both deep learning and traditional machine learning models can be used
+         to solve the key problems in Genomics and Biomedicine, contrasting and comparing their
+         strengths and weaknesses.
+        The goal of the course is to enable the students to apply the concepts and techniques of
+         Deep learning in Genomics and Biomedicine.
+
+Course Outcomes:
+
+After completing this course, the students will be able to,
+     CO1: Develop an understanding of the basic concepts in Genomics and Biomedicine.
+     CO2: Use various feature representation schemes to represent Biomolecular and Genomics
+          datasets.
+     CO3: Implement deep learning algorithms for Genomics data analysis.
+Amrita Vishwa Vidyapeetham.                        MTC-DS                 M.Tech
+Curriculum June 2024
+     CO4: Apply appropriate deep learning algorithms for Biomedicine and Drug Design.
+
+
+CO-PO Mapping
+
+             PO/PSO                                                       PSO1 PSO2 PSO3
+                              PO1   PO2   PO3      PO4    PO5     PO6
+               CO
+               CO1             3     3     2        2       2       2        1       2        2
+               CO2             3     3     3        2       3       3        2       2        3
+               CO3             3     3     3        3       3       3        3       3        3
+               CO4             3     3     3        3       3       3        3       3        3
+
+
+Syllabus
+
+Gene, Genome and Genomics - DNA, RNA and proteins, Transcription Factor (TF) binding,
+chromatin accessibility and RNA interference; protein sequence, protein structure and protein
+binding; Review of Machine Learning and Deep Learning - training, validation, regularization and
+hyperparameter optimization; Introduction to DeepChem library – prediction of toxicity of
+molecules; MoleculeNet – featurizing a molecule, SMILES strings and RDKit, ECFPs, molecular
+descriptors and graph convolutions; DenseNets and Convolutional Neural Networks (CNN) for
+Genomics, Recurrent Neural Networks (RNN); Autoencoders and representation learning;
+Variational autoencoders and Generative Models - generating new ideas for lead compounds,
+protein design, training a variational autoencoder to generate new molecules; Pretraining and Fine-
+tuning; Transformer-based models, BERT; One-shot Learning Drug Discovery - Case Studies.
+Textbooks / References
+        Bharath Ramsundar, Peter Eastman, Patrick Walters, and Vijay Pande, “Deep Learning
+         for the Life Sciences: Applying Deep Learning to Genomics, Microscopy, Drug
+         Discovery, and More”, O’Reilly Media, Inc. 2019.
+        Sukumar, N., Anandaram, H., and Bhadra, P. “Computational Drug Discovery – A
+         Primer” (Ion Cures Press, 2023). ISBN: 979-8850083663
+        Goodfellow I, Bengio Y, Courville A, & Bengio Y, “Deep learning”, Cambridge: MIT
+         Press, 1st Edition, 2016.
+        Michael Nielsen, “Neural Networks and Deep Learning”, Goodreads (eBook), 2013.
+        Bengio Y, “Learning Deep Architectures for AI, Foundations and Trends in Machine
+         Learning”, nowpublishers, 2009.
+        Vaswani, A., et al. "Attention Is All You Need." arXiv:1706.03762v5 [cs.CL] 6 Dec 2017
+        Bagal, V., Aggarwal, R., Vinod, P. K. and U. Priyakumar, Deva, “MolGPT: Molecular
+         Generation Using a Transformer-Decoder Model.” J. Chem. Inf. Model. 2022, 62,
+         2064−2076 https://doi.org/10.1021/acs.jcim.1c00600
+        ChemBERTa: Large-Scale Self-Supervised Pretraining for Molecular Property
+         Prediction using a Smiles Tokenization Strategy.
+Amrita Vishwa Vidyapeetham.                     MTC-DS                      M.Tech
+Curriculum June 2024
+      https://github.com/deepchem/deepchem/blob/master/examples/tutorials/Transfer_Learnin
+      g_With_ChemBERTa_Transformers.ipynb
+Weblink: https://genome.cshlp.org/content/26/7/990
+Weblink: https://www.nature.com/articles/nmeth.3547
+Weblink: https://academic.oup.com/nar/article/44/11/e107/2468300
+Weblink: https://arxiv.org/abs/1512.00843
+
+Evaluation Pattern
+
+   Assessment                 Type of Assessment        Minimum Number         Weightage (%)
+   component                                             of Assessments
+ Internal               Quizzes                        2                  20
+
+ Internal               Assignments/Presentations/     2                  30
+                        Case Study
+ Internal               Mid-Term Exam                  1                  20
+
+ External               End Semester Exam/Term         1                  30
+                        Project
+
+
+
+ 24DS739                            High Performance Computing                 L-T-P-C: 2-0-3-3
+
+
+Course Objectives
+ Familiarize students with HPC architecture, parallel programming and GPU architecture.
+ To educate students on writing efficient parallel and GPU programming.
+ To discuss various applications of HPC computational techniques in computational science.
+
+Course Outcomes:
+After completing this course, the students will be able to,
+
+CO1: Understanding parallel computing involves grasping parallel architectures, programming
+     models, and algorithms.
+CO2: Design parallel programme and CUDA programme
+CO3: Ability to analyze the performance of parallel programs.
+CO4: Understand how combining HPC and AI is changing data science.
+
+
+
+
+Amrita Vishwa Vidyapeetham.                        MTC-DS                 M.Tech
+Curriculum June 2024
+CO-PO Mapping
+
+                 PO /
+                 PSO          PO1   PO2   PO3    PO4     PO5   PO6      PSO1          PSO2     PSO3
+                 CO
+                 CO1           3     -     -       1      2     1        -             -        -
+                 CO2           2     2     3       3      2         1    1             3        3
+                 CO3           2     2     3       3      2     1            1             3        3
+                 CO4           2     2     2       2      2     2            2             3        3
+
+Syllabus
+Introduction to High-Performance Computing (HPC), Architecture for parallel computing, Shared
+memory and distributed memory in parallel computing, Parallel algorithms, Performance metrics
+of parallel Systems, Introduction to OpenMP, Essential of OpenMP programming (matrix
+computing), Data sharing and synchronizing, Introduction to MPI and distributed memory parallel
+programming, Communication using MPI, Domain decomposition based parallelization of matrix
+solver, Introduction to CUDA, CUDA programming, thread execution in CUDA, matrix problem
+using CUDA.
+
+Application HPC in data science (Big Data Analytics, AI, simulation, and modelling)
+
+Textbooks / References
+        Georg Hager and Gerhard Wellein. Introduction to High Performance Computing for
+         Scientists and Engineers (1st ed.). CRC Press, Chapman &amp;amp; Hall/CRC
+         Computational Science, India, 2010.
+        "High Performance Computing: Modern Systems and Practices" by Thomas Sterling and
+         Matthew Anderson
+        "CUDA by Example: An Introduction to General-Purpose GPU Programming" by Jason
+         Sanders and Edward Kandrot
+        "Parallel Programming with MPI" by Peter S. Pacheco
+        Vipin Kumar , Ananth Grama , Anshul Gupta , George Karypis. Introduction to Parallel
+         Computing (2nd ed.). Pearson India . 2003.
+
+
+
+
+Amrita Vishwa Vidyapeetham.                     MTC-DS                       M.Tech
+Curriculum June 2024
+Evaluation Pattern
+
+   Assessment                 Type of Assessment        Minimum Number          Weightage (%)
+   component                                             of Assessments
+ Internal               Quizzes                        2                   20
+
+ Internal               Assignments/Presentations/     2                   30
+                        Case Study
+ Internal               Mid-Term Exam                  1                   20
+
+ External               End Semester Exam/Term         1                   30
+                        Project
+
+
+ 24DS738 Complex Systems in Engineering, Finance & Biology: Modelling & Analysis
+ L-T-P-C: 2-0-3-3
+
+
+
+Course Objectives
+        The course will lay down the basic concepts of complex system theory required to model
+         and analyse various physical systems
+         It will explore the concepts initially through computational experiments and then try to
+         understand the concepts/theory behind it.
+         It will help the students to perceive the engineering problems using the fundamental
+         concepts in engineering, finance and biology
+         Another goal of the course is to provide connection between the concepts of complex
+         system theory, mathematics and computational thinking
+Course Outcomes
+After completing this course, the students will be able to
+     CO1: To enable the students to create mathematical models of physical and engineering
+          systems
+     CO2: To introduce state of the art techniques to analyze data obtained from nonlinear systems
+     CO3: To apply the concepts of complex system theory to predict transitions that happen in
+          physical and Engineering systems
+
+
+
+
+Amrita Vishwa Vidyapeetham.                        MTC-DS                  M.Tech
+Curriculum June 2024
+CO-PO Mapping
+
+                  PO/PSO                                                 PSO1 PSO2 PSO3
+                              PO1   PO2   PO3       PO4      PO5   PO6
+                       CO
+                       CO1     2     2      2            2    2     2      3        2       2
+                       CO2     1     1      3            2    1     1      2        3       2
+                       CO3     1     2      2            3    3     1      2        2       2
+
+Syllabus
+Definition of a complex system- Complex systems in engineering- Complex systems in nature &
+society-Modelling of complex systems-Introduction to dynamical system theory- standard models
+in dynamical systems-transitions in dynamical systems-bifurcations- Maps and flows- Chaos-
+Routes to chaos.
+Analysis of chaotic data from experiments-basics of time series analysis-standard models in time
+series analysis-nonlinear time series analysis- phase space reconstruction- precursors to predict
+transitions in complex systems- critical slowing down- precursors based on recurrence-precursors
+based on multifractal formalism.
+Emergence of order in complex systems-transitions as pattern formation-spatial early warning
+signals-complex networks-network properties as early warning measures-Networks in natural and
+engineering systems-Networks in biology-Networks in finance.
+General design principles of complex systems - autoregulation, feedforward and feedback loops.
+The human cell as a prototypical complex system; Network motifs in transcription, signal
+transduction and neuronal networks.
+Modeling Complex Systems with AI - examples from climate science, financial modeling, systems
+biology and bioinformatics. Complex evolutionary and adaptive systems; Self-organizing
+collective systems; Biological computing for complex systems; AI in networks.
+Applications in remote sensing- Applications in cyber security- Applications in physiology-
+Applications in finance-future of complex system theory.
+Textbooks / References
+        N. Boccora, Modelling of Complex Systems, 2nd Edition, Springer 2010.
+        S. Strogatz, Nonlinear Dynamics and Chaos with applications to Physics, Biology,
+         Chemistry & Engineering, 2nd Edition, Westview Press 2014.
+        H. D. I. Abarbanel, Analysis of Observed Chaotic Data, Springer 1997.
+        R. C. Hilborn, Chaos and Nonlinear Dynamics: An Introduction for Scientists and
+         Engineers, Oxford University Press 1994.
+        R. H. Shumway and D. S. Stoffer, Time Series Analysis and Its Applications, 3rd Edition,
+         Springer 2011.
+        D. Sornette, Critical Phenomena in Natural Sciences, Springer 2000.
+        M. Cross and H. Greenside, Pattern Formation and Dynamics in Non-equilibrium Systems,
+         Cambridge University Press 2009.
+
+Amrita Vishwa Vidyapeetham.                     MTC-DS                    M.Tech
+Curriculum June 2024
+        R. P. Sattoras, M. Rubi and A. D. Guilera (Eds), Statistical Mechanics of Complex
+         Networks, Springer 2003.
+        Uri Alon, An Introduction to Systems Biology: Design Principles of Biological Circuits,
+         Chapman & Hall/CRC Press, London, 2007.
+
+Evaluation Pattern
+
+   Assessment                 Type of Assessment        Minimum Number         Weightage (%)
+   component                                             of Assessments
+ Internal               Quizzes                        2                  20
+
+ Internal               Assignments/Presentations/     2                  30
+                        Case Study
+
+ Internal               Mid-Term Exam                  1                  20
+ External               End Semester Exam/Term         1                  30
+                        Project
+
+
+
+
+ 24DS740                       Multiscale Modelling in Fluid Mechanics         L-T-P-C: 2-0-3-3
+
+
+Course Objectives
+        Impart the understanding of important concepts of continuum fluid mechanics and related
+         modeling and computational methods.
+        Introduce various particle-based fluid models in the context of game physics and fluid
+         animation.
+        Equip with the skills and tools essential for applied computational and data driven
+         modelling in fluid dynamics.
+Course Outcomes
+After completing this course, the students will be able to,
+     CO1: Develop working knowledge of various computational and data driven fluid models.
+     CO2: Apply the knowledge of data driven and computational methods to real world fluid
+          problems and fluid animations.
+     CO3: Contribute to the development of applied computational and data driven fluid
+          mechanics.
+
+
+
+
+Amrita Vishwa Vidyapeetham.                        MTC-DS                 M.Tech
+Curriculum June 2024
+CO-PO Mapping
+
+             PO/PSO                                                       PSO1 PSO2 PSO3
+                              PO1     PO2    PO3      PO4    PO5   PO6
+                CO
+                CO1             2      1      --       --     --    1      3        2       2
+                CO2             2      3      3        1      2     3      -        2       2
+                CO3             1      3      3        3      3     3      -        2       2
+
+
+Syllabus
+
+Macroscopic fluid modeling: Continuum, Reynolds Transport Theorem, Continuity equation,
+Navier-Stokes Equation, Discretization schemes and numerical solution to partial differential
+equations, Flow over a cylinder and von Karman vortex street, Reynolds averaged Navier-Stokes
+Equations, Introduction to machine learning in fluid mechanics, Introduction to deep learning for
+turbulence, fluid dynamics and control. Mesoscopic and microscopic fluid modelling: Introduction
+to particle fluid models for game physics and animation, Lattice gas automata and Lattice-
+Boltzmann methods, Machine learning applied to particle methods of fluid modelling.
+Textbooks / References
+        Som, SK., Biswas, G. and Chakraborty, S., Introduction to Fluid Mechanics and Fluid
+         Machines, Tata McGraw-Hill Education, 2003.
+        Bridson, R., Fluid simulation for computer graphics, CRC Press, Taylor and Francis,
+         2015.
+        Wolf-Gladrow DA. Lattice-gas cellular automata and lattice Boltzmann models: an
+         introduction. Springer; 2004.
+        Various research publications.
+
+
+Evaluation Pattern
+   Assessment                 Type of Assessment        Minimum Number         Weightage (%)
+   component                                             of Assessments
+ Internal               Quizzes                        2                  20
+
+ Internal               Assignments/Presentations/     2                  30
+                        Case Study
+ Internal               Mid-Term Exam                  1                  20
+
+ External               End Semester Exam/Term         1                  30
+                        Project
+
+
+
+
+Amrita Vishwa Vidyapeetham.                        MTC-DS                 M.Tech
+Curriculum June 2024
+  24DS734                     Deep Learning for Speech Signal Processing           L-T-P-C: 2-0-3-3
+
+
+Course Objectives
+    To develop an understanding on the acoustics of speech production.
+    To develop an understanding about the characteristics of speech signal
+    To analyze the time-domain and frequency domain features of speech signal.
+    To develop an understanding on the deep learning based end-to-end speech processing.
+Course Outcomes
+After completing this course, the students will be able to
+     CO1: Analyse the acoustics of speech signal production
+     CO2: Differentiate the characteristics of speech signals
+     CO3: Analyze the time-domain and frequency domain features of speech signal.
+     CO4: Understand and practice various parts of the deep learning based end-to-end speech
+          processing pipeline.
+
+CO-PO Mapping
+
+     PO/PSO                                                                PSO1          PSO2   PSO3
+                       PO1       PO2     PO3      PO4       PO5   PO6
+        CO
+        CO1             3          2       3       2         2     3        2             -      2
+        CO2             3          2       3       2         2     3        2             -      2
+        CO3             3          2       3       2         2     3        2             3      2
+        CO4             3          3       3       2         3     3        2             2      2
+
+
+Syllabus
+
+Human Speech Production System, Speech Signal Characteristics, Classification of sound units
+and its properties. Short-term p    rocessing of speech- Time Domain and Frequency domain
+parameters, Spectrograms, Cepstral Analysis, MFCC, Linear Prediction Analysis, Speech
+Recognition- GMM, HMM models, Deep Neural Network models, End-to-end Speech
+Recognition (Wav2letter, DeepSpeech, Jasper), End-to-end Speech Synthesis (WaveNet,
+Tacotron). End-to-end Speech Classification- Speaker Verification, Speaker Diarization, Other
+speech technology applications (such as Source Separation, Speech Pathology Detection).
+Textbooks / References
+        L. Rabiner, Biing-Hwang Juang and B. Yegnanarayana,"Fundamentals of Speech
+         Recognition" Pearson Education Inc.2009
+        Thomas F Quatieri,"Discrete Time Speech Signal Processing", Pearson Education
+         Inc.,2004
+
+Amrita Vishwa Vidyapeetham.                        MTC-DS                       M.Tech
+Curriculum June 2024
+        Kamath, Uday, John Liu, and James Whitaker. Deep learning for NLP and speech
+         recognition. Vol. 84. Cham: Springer, 2019.
+        Hannun, Awni, et al. "Deep speech: Scaling up end-to-end speech recognition." arXiv
+         preprint arXiv:1412.5567 (2014).
+        Collobert, Ronan, Christian Puhrsch, and Gabriel Synnaeve. "Wav2letter: an end-to-end
+         convnet-based speech recognition system." arXiv preprint arXiv:1609.03193 (2016).
+        Shen, Jonathan, et al. "Natural TTS synthesis by conditioning wavenet on mel
+         spectrogram predictions." 2018 IEEE International Conference on Acoustics, Speech and
+         Signal Processing (ICASSP). IEEE, 2018.
+        Kuchaiev, Oleksii, et al. "Mixed-precision training for NLP and speech recognition with
+         openseq2seq." arXiv preprint arXiv:1805.10387 (2018).
+        Li, Jason, et al. "Jasper: An end-to-end convolutional neural acoustic model." arXiv
+         preprint arXiv:1904.03288 (2019).
+
+Evaluation Pattern
+   Assessment                 Type of Assessment        Minimum Number         Weightage (%)
+   component                                             of Assessments
+ Internal               Quizzes                        2                  20
+ Internal               Assignments/Presentations/     2                  30
+                        Case Study
+
+ Internal               Mid-Term Exam                  1                  20
+
+ External               End Semester Exam/Term         1                  30
+                        Project
+
+
+  24DS735                              Social Media Analytics                  L-T-P-C: 2-0-3-3
+
+Course Objectives
+        To understand and apply key concepts in social media metrics.
+        To monitor consumers and competitors and mine deeper consumer insights based on
+         advanced social media data modeling.
+        To understand and apply key concepts in social media analytics tools and metrics.
+        To understand and apply various evaluation metrics
+
+
+Course Outcomes
+After completing this course, the students will be able to
+     CO1: Apply different methods for collecting, analyzing, and exploring social media data.
+     CO2: Develop data driven models for solving social media problems.
+Amrita Vishwa Vidyapeetham.                        MTC-DS                 M.Tech
+Curriculum June 2024
+     CO3: Analyze the social media networks to glean new insights
+     CO4: Assess the various evaluation metrics related to social media networks
+
+CO-PO Mapping
+
+    PO/PSO                                                               PSO1           PSO2   PSO3
+                       PO1      PO2     PO3        PO4       PO5   PO6
+        CO
+        CO1             2         2       3         3         3     2      2             2      2
+        CO2             3         3       3         2         3     3      2             3      2
+        CO3             3         3       3         3         3     3      2             2      2
+        CO4             2         3       2         3         3     3      -             1      -
+
+
+Syllabus
+
+Introduction to Social Media Analytics - Network fundamentals and models - Collecting Social
+Media Data - Monitoring Customer Engagement in social media - Fundamentals of Social Data
+Analytics - Social Network Analysis and Metrics - Network dynamics, phase transitions in
+Networks - Identifying Influencers in Social Network - Applied Social Data Analytics.
+Textbooks / References
+        Szabo, G., G. Polatkan, O. Boykin and A. Chalkiopoulus," Social Media Data Mining and
+         Analytics " Wiley, ISBN 978-1-118-82485-6.2019
+        Matthew A. Russell," Mining the Social Web: Data Mining Facebook, Twitter, Linkedin,
+         Google+, Github, and More", O'Reilly Media.,2013
+        Finger, L. and Dutta, S. " Ask, Measure, Learn: Using Social Media Analytics to
+         Understand and Influence Customer Behavior”, O’Reilly. 2019.
+        David Easley and Jon Kleinberg. " Networks, Crowds, and Markets: Reasoning About a
+         Highly Connected World", Cambridge University Press. 2010.
+
+Evaluation Pattern
+   Assessment                 Type of Assessment         Minimum Number             Weightage (%)
+   component                                              of Assessments
+ Internal               Quizzes                          2                     20
+ Internal               Assignments/Presentations/       2                     30
+                        Case Study
+
+ Internal               Mid-Term Exam                    1                     20
+ External               End Semester Exam/Term           1                     30
+                        Project
+Amrita Vishwa Vidyapeetham.                         MTC-DS                     M.Tech
+Curriculum June 2024
+ 24DS733                          Deep Learning for Biomedical Data Analysis           L-T-P-C: 2-0-3-3
+
+
+Course Objectives
+        This course teaches the application of state-of-the-art deep learning algorithms in
+         biomedical data analysis.
+        It provides the practical skills required to implement the state-of-the-art deep learning
+         algorithms for biomedical image segmentation.
+        This course teaches the application of deep generative models for biomedical image
+         analysis.
+
+Course Outcomes
+After completing this course, the students will be able to
+        CO1: Understand the fundamentals of state-of-the-art deep learning algorithms applied in
+         biomedical data analysis.
+        CO2: Apply deep learning algorithms for extracting clean information from microscopy
+         and radiology data.
+        CO3: Implement state-of-the-art deep learning algorithms for biomedical data analysis.
+        CO4: Implement Generative Adversarial Networks for data augmentation.
+
+CO-PO Mapping
+
+        PO/PSO                                                             PSO1 PSO2 PSO3
+                        PO1           PO2     PO3    PO4       PO5   PO6
+          CO
+          CO1                 3         3      2       2        2     2        3            2   2
+          CO2                 3         3      3       2        3     3        3            3   3
+          CO3                 3         3      3       3        3     3        2            3   3
+          CO4                 3         3      3       3        3     3        2            3   3
+
+Syllabus
+
+Introduction to ECG, EEG, MRI and CT datasets – Hybrid Deep Learning Models for ECG
+Signal classification – Federated Transfer Learning for EEG Signal Classification; Introduction
+to microscopy, diffraction limit, modern optical microscopy, super-resolution microscopy and
+fluorescence microscopy; Deep learning applications in microscopy – cell counting, cell
+segmentation; Computer-aided probabilistic diagnoses with Bayesian Networks, deep radiology;
+Benchmark Deep Learning Algorithms for Biomedical Image Segmentation: SwinUNet : UNet
+like Pure Transformer – FANet : Feedback Attention Network – MedT: Medical Transformer –
+Generative Adversarial Network for Synthetic Data Augmentation.
+
+
+Amrita Vishwa Vidyapeetham.                           MTC-DS                       M.Tech
+Curriculum June 2024
+Textbooks / References
+        Goodfellow I, Bengio Y, Courville A, & Bengio Y, “Deep learning”, Cambridge: MIT
+         Press, 1st Edition, 2016.
+        Michael Nielsen, “Neural Networks and Deep Learning”, Goodreads (eBook), 2013.
+        Bengio Y, “Learning Deep Architectures for AI, Foundations and Trends in Machine
+         Learning”, nowpublishers, 2009.
+        Krull, A., Buchholz, T.-O., and Jug, F. (2019). “Noise2void–learning denoising from
+         single noisy images,” in Conference on Computer Vision and Pattern Recognition
+         (CVPR) (Long Beach, CA), 2129–2137.
+        Krull, A., Vicˇar, T., Prakash, M., Lalit M. and Jug, F. (2020). Probabilistic
+         Noise2Void:Unsupervised Content-Aware Denoising.
+
+      https://www.frontiersin.org/articles/10.3389/fcomp.2020.00005
+Weblink: https://github.com/juglab/n2v
+Weblink: https://paperswithcode.com/task/ecg-classification .
+Weblink: https://paperswithcode.com/task/eeg .
+Weblink: https://paperswithcode.com/task/medical-image-segmentation .
+Weblink: https://github.com/xinario/awesome-gan-for-medical-imaging .
+
+Evaluation Pattern
+   Assessment                 Type of Assessment        Minimum Number            Weightage (%)
+   component                                             of Assessments
+ Internal               Quizzes                        2                     20
+
+ Internal               Assignments/Presentations/     2                     30
+                        Case Study
+ Internal               Mid-Term Exam                  1                     20
+
+ External               End Semester Exam/Term         1                     30
+                        Project
+
+
+
+ 24DS736                        Deep Learning for Visual Recognition              L-T-P-C: 2-0-3-3
+
+
+Course Objectives
+        This course provides state-of-the-art deep learning algorithms applied in visual recognition
+         tasks.
+        This course provides the practical skills required to implement the state-of-the-art deep
+         learning algorithms for object detection and segmentation.
+Amrita Vishwa Vidyapeetham.                        MTC-DS                    M.Tech
+Curriculum June 2024
+        This course provides the basics of deep generative models.
+Course Outcomes
+After completing this course, the students will be able to
+        CO1: To implement the basics of state-of-the-art deep learning algorithms applied in visual
+         recognition.
+        CO2: To implement transfer learning methods for image analysis.
+        CO3: To implement state-of-the-art deep learning algorithms for object detection.
+        CO4: To implement state-of-the-art deep learning algorithms for image segmentation.
+
+
+CO-PO Mapping
+
+        PO/PSO                                                         PSO1 PSO2 PSO3
+                        PO1       PO2   PO3   PO4       PO5     PO6
+          CO
+          CO1                 3    3     3      2        3       3        2            3   2
+          CO2                 3    3     3      2        3       3        2            3   2
+          CO3                 3    3     3      2        3       3        2            3   2
+          CO4                 3    3     3      2        3       3        2            3   2
+
+
+Syllabus
+
+Basics of Deep Neural Networks, Evolution of convolutional neural networks (CNN’s): Inception,
+Exception, Resnet, EfficientNet – Transfer Learning– CNNs for Object Detection: R-CNN, Fast
+R-CNN, Faster R-CNN, YOLO, RetinaNet – U-Net for Image Segmentation – Vision Transformer
+– Visualizing CNN’s - Introduction to Deep Generative Models – Self Supervised Contrastive
+Learning.
+Textbooks / References
+        Goodfellow I, Bengio Y, Courville A, & Bengio Y, “Deep learning”, Cambridge: MIT
+         Press, 1st Edition, 2016.
+        Michael Nielsen, “Neural Networks and Deep Learning”, Goodreads (eBook), 2013.
+        Bengio Y, “Learning Deep Architectures for AI, Foundations and Trends in Machine
+         Learning”, now publishers, 2009.
+        Zeiler, Matthew D., and Rob Fergus. "Visualizing and understanding convolutional
+         networks." In Computer Vision–ECCV 2014: 13th European Conference, Zurich,
+         Switzerland, September 6-12, 2014, Proceedings, Part I 13, pp. 818-833. Springer
+         International Publishing, 2014.
+        Dosovitskiy, Alexey, et al. "An image is worth 16x16 words: Transformers for image
+         recognition at scale." arXiv preprint arXiv:2010.11929 (2020).
+
+
+Amrita Vishwa Vidyapeetham.                    MTC-DS                         M.Tech
+Curriculum June 2024
+        Chen, Ting, Simon Kornblith, Mohammad Norouzi, and Geoffrey Hinton. "A simple
+         framework for contrastive learning of visual representations." In International
+         conference on machine learning, pp. 1597-1607. PMLR, 2020.
+
+Evaluation Pattern
+   Assessment                 Type of Assessment          Minimum Number            Weightage (%)
+   component                                               of Assessments
+ Internal                  Quizzes                       2                     20
+
+ Internal                  Assignments/Presentations/    2                     30
+                           Case Study
+ Internal                  Mid-Term Exam                 1                     20
+
+ External                  End Semester Exam/Term        1                     30
+                           Project
+
+
+
+ 24DS737                             Deep Learning for Cyber Security               L-T-P-C: 2-0-3-3
+
+Course Objectives
+ To understand the basic concepts of deep learning and cyber security.
+ To implement deep learning algorithms in cyber security related problems.
+ To create tools related to cyber security using deep learning models.
+
+Course Outcomes
+After completing this course, the students will be able to
+   CO1: To understand and implement the concepts behind deep learning and cyber security.
+   CO2: To apply deep learning techniques for malware analysis and detection.
+   CO3: To understand how deep learning can be used for intrusion detection and anomaly
+   detection.
+   CO4: To implement deep learning algorithms in cyber security related problems.
+
+
+CO-PO Mapping
+
+  PO/PSO                                                                PSO   PSO       PSO
+                   PO1         PO2      PO3    PO4      PO5   PO6        1     2         3
+      CO
+     CO1               3         2        2      2       2     1         3     -         2
+     CO2               3         2        2      2       2     2         2     2         2
+     CO3               3         2        2      2       3     2         2     2         2
+Amrita Vishwa Vidyapeetham.                          MTC-DS                    M.Tech
+Curriculum June 2024
+     CO4               3         3       3       3       3     3     2      3        2
+
+Syllabus
+
+Introduction to Cyber Security, vulnerabilities, risks, cyber threats, cyber security safeguards -
+access control, audit, authentication, cryptography, denial-of-service, firewalls, spam email
+detection, intrusion detection, intrusion prevention, malware attacks and counter measures,
+malicious URL detection.
+
+Trends in AI for Cyber Security, Applications of ML/DL in Cyber Security, Supervised Learning-
+CNN & RNN for Cyber Security, Identification of Phishing Websites using DNNs, Unsupervised
+Learning in Neural Networks, Auto Encoders and RBMs for Spam Filtering, Machine Learning
+based DDoS Detection and Mitigation.
+
+Basic deep learning concepts, Cybersecurity and Deep Learning- Intelligence through Data
+Integration, Cryptomodule Identification in Malwares, Deep learning for malware analysis and
+Intrusion detection, Transfer Learning for Cyber Security, LLMs for Cyber Security, Real world
+case studies on cyber threats.
+
+Textbooks / References
+        Deep Learning Applications for Cyber Security (Advanced Sciences and Technologies for
+         Security Applications) by Mamoun Alazab, MingJian Tang, 2020.
+        Hands-On Machine Learning for Cybersecurity by Soma Halder, Sinan Ozdemir, 2018.
+        Intrusion detection and Prevention by Carl Enrolf, Eugene Schultz, Jim Mellander,
+         McGraw Hill, 2003.
+        The art of software security assessment: Identifying and preventing software
+         vulnerabilities by Dowd, Mark, John McDonald, and Justin Schuh, Pearson Education,
+         2006.
+        Data Mining and Machine learning in Cybersecurity by Sumeet Dua and Xian Du CRC
+         Press, 2011.
+
+Evaluation Pattern
+
+   Assessment                 Type of Assessment          Minimum Number         Weightage (%)
+   component                                               of Assessments
+ Internal                  Quizzes                       2                  20
+ Internal                  Assignments/Presentations/    2                  30
+                           Case Study
+ Internal                  Mid-Term Exam                 1                  20
+
+
+Amrita Vishwa Vidyapeetham.                          MTC-DS                 M.Tech
+Curriculum June 2024
+ External               End Semester Exam/Term        1                      30
+                        Project
+
+
+
+ 24DS741                               Computer Vision                            L-T-P-C: 2-0-3-3
+
+
+Course Objectives
+        To introduce students to the state-of-the-art algorithms in the area of image analysis and
+         object recognition
+        Give an exposure to video analysis techniques for object tracking and motion estimation
+        To build good understanding on the computer vision concepts and techniques to be applied
+         for robotic vision applications
+        Enable students to apply the vision algorithms and develop applications in the domain of
+         image analysis, robotic navigation
+
+
+Course Outcomes
+After completing this course, the students will be able to
+        CO1: To build an understanding on detailed models of image formation
+        CO2: To expose the students to techniques of image analysis through image feature
+         extraction and object recognition
+        CO3: To introduce fundamental algorithms for video analysis such as object tracking,
+         motion segmentation etc
+        CO4: Become familiar with the major technical approaches involved in image registration,
+         camera calibration, pose estimation, stereo vision etc to be applied to develop vision
+         algorithms for robotic applications.
+        CO5: Apply the algorithms and develop applications in the domain of image analysis and
+         robotic vision
+CO-PO Mapping
+
+        PO/PSO                                                         PSO1 PSO2 PSO3
+                        PO1    PO2    PO3     PO4         PO5   PO6
+          CO
+          CO1             3      3      1         -        -     -       -            -    2
+          CO2             3      2      -         -        1     -       -            2    2
+          CO3             3      3      2         -        -     -       2            -    2
+          CO4             -      -      3         1        2     -       -            -    2
+          CO5             --     -      -         3        3     -       -            2    2
+
+
+
+Amrita Vishwa Vidyapeetham.                      MTC-DS                      M.Tech
+Curriculum June 2024
+Syllabus
+
+ Introduction to Image Processing-Basic mathematical concepts: Image enhancement: Grey level
+transforms, Spatial ltering. Extraction of special features: edge and corner detection.
+Morphological processing, Image transforms, Discrete Fourier Transform, Fast Fourier
+Transform.Frequency domain enhancement.
+
+ Image Segmentation Algorithms: contextual, non-contextual segmentation, texture segmentation.
+Feature Detectors and Descriptors, Feature Matching-Object Recognition, Face detection (Viola
+Jones), Face Recognition.
+
+ Modern computer vision architectures based on deep convolutional neural networks, The Use of
+Motion in Segmentation Optical Flow & Tracking Algorithms, YOLO, DeepSORT: Deep
+Learning to Track Custom Objects in a Video, Action classification with convolutional neural
+networks, RNN, LSTM
+
+ Image registration, 2D and 3D feature-based alignment, Pose estimation, Geometric intrinsic
+calibration, -Camera Models and Calibration: Camera Projection Models - Projective Geometry,
+transformation of 2-d and 3-d, Internal Parameters, Lens Distortion Models, Calibration Methods
+Geometry of Multiple views- Stereopsis, Camera and Epipolar Geometry, Fundamental matrix;
+Homography, Rectification, DLT, RANSAC, 3-D reconstruction framework; Auto-calibration.,
+Introduction to SLAM (Simultaneous Localization and Mapping).
+
+Textbooks / References
+        Deep Learning (Adaptive Computation and Machine Learning series) Ian Goodfellow,
+         Yoshua Bengio, Aaron Courville, Francis Bach, January 2017, MIT Press
+         Introduction to Computer Vision and its Application, Richard Szelinski,2010
+         E. Trucco and A. Verri, Prentice Hall, 1998.Introductory techniques for 3D Computer
+         Vision.
+         Marco Treiber, \An Introduction to Object Recognition Selected Algorithms for a Wide
+         Variety of Applications", Springer, 2010.
+        Forsyth and Ponce, \Computer Vision {A Modern Approach", Second Edition, Prentice
+         Hall, 2011.
+        R. C. Gonzalez, R. E. Woods, ‘Digital Image Processing’, 4th edition Addison-
+         Wesley,2016.
+        Vision: A Computational Investigation into the Human Representation and Processing of
+         Visual Information, by David Marr, The MIT Press, ISBN-10: 0262514621, ISBN-13:
+         978-0262514620.
+
+
+
+
+Amrita Vishwa Vidyapeetham.                  MTC-DS                      M.Tech
+Curriculum June 2024
+Evaluation Pattern
+
+   Assessment                     Type of Assessment         Minimum Number             Weightage (%)
+   component                                                  of Assessments
+ Internal               Quizzes                              2                     20
+
+ Internal               Assignments/Presentations/           2                     30
+                        Case Study
+ Internal               Mid-Term Exam                        1                     20
+
+ External               End Semester Exam/Term               1                     30
+                        Project
+
+
+  24DS742                                   Reinforcement Learning                      L-T-P-C: 2-0-3-3
+
+
+Course Objectives
+        Learn how to define RL tasks and the core principals behind the RL
+        Understand and work with approximate solutions (deep Q network-based algorithms)
+        Explore imitation learning tasks and solutions
+        Recognize current advanced techniques and applications in RL
+Course Outcomes
+After completing this course, the students will be able to
+        CO1: Understand the relevance of Reinforcement Learning and it’how does it
+         complement other ML techniques.
+        CO2: Understand various RL algorithms
+        CO3: Formulate a problem as a Reinforcement Learning problem and solve it
+        CO4: Implement RL algorithms
+CO-PO Mapping
+
+        PO/PSO                                                               PSO1 PSO2 PSO3
+                        PO1           PO2     PO3      PO4       PO5   PO6
+          CO
+          CO1                 3        1        2       1         -     -      -            -    2
+          CO2                 3        1        2       1         -     -      3            -    2
+          CO3                 -        3        2       3         3     -      -            -    3
+          CO4                 3        3        3       3         -     -      -            3    3
+
+
+
+Amrita Vishwa Vidyapeetham.                            MTC-DS                      M.Tech
+Curriculum June 2024
+Syllabus
+
+Reinforcement learning vs all, multi-armed bandit, Decision process & applications, Markov
+Decision Process, Cross entropy method, Approximate cross entropy method, approximate cross
+entropy method, Evolution strategies: core idea, math problems, log-derivative trick, duct tape.
+Blackbox optimization: drawback - Dynamic Programming, Reward design, state and Action
+Value Functions, Measuring Policy Optimality, Policy: evaluation & improvement, Policy and
+value iteration, Model-free methods: Model-based vs model-free, Monte-Carlo & Temporal
+Difference; Q-learning, Exploration vs Exploitation, Footnote: Monte-Carlo vs Temporal
+Difference, Accounting for exploration. Expected Value SARSA, On-policy vs off-policy;
+Experience replay. Approximate Value Based Methods: Supervised & Reinforcement Learning,
+Loss functions in value based RL, difficulties with Approximate Methods, DQN – bird's eye view,
+DQN – the internals, DQN: statistical issues, Double Q-learning, More DQN tricks, Partial
+observability. RLHF – Reinforcement Learning through Human Feedback.
+Textbooks / References
+        Sutton and Barto, Reinforcement Learning: An Introduction, 2nd Edition. MIT Press,
+        Cambridge, MA, 2018
+        Csaba Szepesvári, Algorithms for Reinforcement Learning, Morgan & Claypool. 2010.
+        Marco Wiering and Martijn van Otterlo, Reinforcement Learning: State-of-the-Art
+        Adaptation, Learning, and Optimization, Springer, 2012.
+
+Evaluation Pattern
+   Assessment                 Type of Assessment        Minimum Number         Weightage (%)
+   component                                             of Assessments
+ Internal               Quizzes                        2                  20
+ Internal               Assignments/Presentations/     2                  30
+                        Case Study
+ Internal               Mid-Term Exam                  1                  20
+
+ External               End Semester Exam/Term         1                  30
+                        Project
+
+
+
+
+ 24DS743                               Blockchain Technology                   L-T-P-C: 2-0-3-3
+
+Course Objectives
+ Understand how blockchain systems (mainly Bitcoin and Ethereum) work
+ To securely interact with them
+Amrita Vishwa Vidyapeetham.                        MTC-DS                 M.Tech
+Curriculum June 2024
+   Design, build, and deploy smart contracts and distributed applications
+   Integrate ideas from blockchain technology into their own projects
+
+Course Outcomes
+After completing this course, the students will be able to
+CO1: To understand the concepts of cryptocurrency, blockchain, and distributed ledger
+technologies.
+CO2: To analyze the application and impact of blockchain technology in various industries.
+CO3: To evaluate security issues related to blockchain and cryptocurrency.
+CO4: To design and analyze the impact of blockchain technology for real world applications.
+
+CO-PO Mapping
+
+    PO/PSO                                                      PSO1     PSO2         PSO3
+                   PO1        PO2   PO3   PO4     PO5    PO6
+        CO
+     CO1               3       2     3     1       1      1       2          -         2
+     CO2               2       2     3     2       2      2       -          -         2
+     CO3               3       3     3     3       3      2       -          3         2
+     CO4               2       2     2     3       3      3       -          3         2
+
+
+Syllabus
+
+History, definition, features, types, and benefits of block chain and bitcoin, Consensus, CAP
+theorem and blockchain. Decentralization – methods, routes, smart contracts, platforms.
+Symmetric and Asymmetric cryptography - Public and private keys, theoretical foundations
+cryptography with practical examples. Introduction to financial markets, use cases for block chain
+technology in the financial sector. Bitcoin, Transactions, Block chain, Bitcoin payments, technical
+concepts related to bitcoin cryptocurrency. Smart Contracts, definition of smart contracts,
+Ricardian contracts, Oracles, and the theoretical aspects of smart contracts. Ethereum 101 - design
+and architecture of the Ethereum block chain, Various technical concepts related to the Ethereum
+block chain that explains the underlying principles, features, and components of this platform in
+depth. Hyperledger – protocol and architecture. Case studies on alternative Blockchains.
+
+Textbooks / References
+        Mastering Blockchain - Distributed ledgers, decentralization and smart contracts
+         explained by Imran Bashir, Packt Publishing Ltd, Second Edition, 2018
+        Mastering Bitcoin: Unlocking Digital Cryptocurrencies by Andreas Antonopoulos,
+         O’Reilly Publishing 2014.
+        Blockchain Basics: A Non-Technical Introduction in 25 Steps by Daniel Drescher, Apress,
+         First Edition, 2017.
+Amrita Vishwa Vidyapeetham.                     MTC-DS                       M.Tech
+Curriculum June 2024
+        Bitcoin and Cryptocurrency Technologies: A Comprehensive Introduction by Arvind
+         Narayanan, Joseph Bonneau, Edward Felten, Andrew Miller, and Steven Goldfeder,
+         Princeton University Press, 2016.
+        The Business Blockchain: Promise, Practice, and Application of the Next Internet
+         Technology by Vitalik Buterin, William Mougayar, Wiley; 1st edition, 2016.
+        Bitcoin: A Peer-to Peer Electronic Cash System by Satoshi Nakamoto, Online 2009,
+         https://bitcoin.org/bitcoin.pdf .
+        Ethereum White Paper by Vitalik Buterin, Online 2017,
+         https://ethereum.org/en/whitepaper/.
+
+Evaluation Pattern
+
+   Assessment                 Type of Assessment        Minimum Number           Weightage (%)
+   component                                             of Assessments
+ Internal               Quizzes                        2                    20
+ Internal               Assignments/Presentations/     2                    30
+                        Case Study
+ Internal               Mid-Term Exam                  1                    20
+
+ External               End Semester Exam/Term         1                    30
+                        Project
+
+
+ 24DS744                      Predictive Analytics for Internet of Things        L-T-P-C: 2-0-3-3
+
+Course Objectives
+ The course will help to apply machine learning concepts to the IoT data
+ Choose appropriate machine learning models for analyzing IoT applications
+ To integrate the deep learning scenario to the predictive models
+ To visualize IoT data and identify target variables using appropriate algorithms
+
+Course Outcomes
+After completing this course, the students will be able to
+  CO1: To study the protocols and communication models used in IoT.
+  CO2: To learn and understand the data analysis concept related to IoT.
+  CO3: To have a working knowledge of the platforms used for analyzing cloud data.
+  CO4: To apply predictive analytics to real world problems.
+
+
+
+
+Amrita Vishwa Vidyapeetham.                        MTC-DS                   M.Tech
+Curriculum June 2024
+CO-PO Mapping
+
+                 PO/PSO                                                       PSO      PSO   PSO
+                                 PO1    PO2    PO3         PO4   PO5   PO6     1        2     3
+                       CO
+                   CO1            2      2         1        1     1     1         -     -     2
+                   CO2            3      3         3        2     2     1         2     1     2
+                   CO3            2      2         2        2     3     1         -     3     2
+                   CO4            2      2         3        2     3     3         -     3     2
+
+
+Syllabus
+
+Introduction to IoT - Definitions, frameworks and key technologies. Challenges to solve in IoT -
+Key hardware and software elements. Applications: smart transportation, smart cities, smart living,
+smart energy, smart health, and smart learning. Real-World Data representation and visualization,
+Introduction to Data Analytics for IoT.
+IoT Analytics- Definition, Challenges, Devices, Connectivity protocols, data messaging protocols-
+MQTT, HTTP, CoAP, Data Distribution Services (DDS), IoT Data Analytics – Elastics Analytics
+Concepts, Scaling.
+Cloud Analytics and Security, AWS / Azure / ThingWorx. Design of data processing for analytics,
+application of big data technology to storage, Visualization and Dashboard – Designing visual
+analysis for IoT data- creating dashboard –creating and visualizing alerts – Exploring and
+visualizing data, solution for industry specific analysis problem, understand streaming data
+analytics for IoT.
+
+Textbooks / References
+        Big Data Analytics for Internet of Things by Tausifa Jan Saleem, Mohammed Ahsan
+         Chishti, 1st Edition.
+        Internet of Things: A Hands-on Approach by Vijay Madisetti and Arshdeep Bahga,
+         Hardcover – Import, 2015.
+        Internet of Things: Principles and Paradigms by Vahid Dastjerdi, Rajkumar Buyya, 2016.
+        Analytics for Internet of Things by Andrew Minteer, Packt Publications Mumbai, 2017.
+        Big Data Analytics for Cloud, IoT and Cognitive Computing by Min Chen, Kai Hwang,
+         Hardcover, 2017.
+
+Evaluation Pattern
+
+   Assessment                 Type of Assessment        Minimum Number            Weightage (%)
+   component                                             of Assessments
+ Internal               Quizzes                        2                     20
+
+Amrita Vishwa Vidyapeetham.                        MTC-DS                    M.Tech
+Curriculum June 2024
+ Internal                  Assignments/Presentations/   2                       30
+                           Case Study
+
+ Internal                  Mid-Term Exam                1                       20
+ External                  End Semester Exam/Term       1                       30
+                           Project
+
+
+
+ 24DS745                      Cloud Computing and Security in the Cloud              L-T-P-C: 2-0-3-3
+
+
+Course Objectives
+        To gain in-depth knowledge of Cloud Computing concepts, technologies, architecture and
+         applications by introducing and researching state-of-the-art in Cloud Computing
+         fundamental issues, technologies, applications and implementations.
+        To expose the students to frontier areas of Cloud Computing and information systems,
+         while providing sufficient foundations to enable further study and research.
+        To learn the current security standards, protocols, and best practices intended for delivering
+         Cloud based enterprise services
+
+
+Course Outcomes
+After completing this course, the students will be able to
+        CO1: Develop the concepts on the basic principles of cloud computing
+        CO2: Analyze the Cloud computing setup with it's vulnerabilities and applications using
+         different architectures
+        CO3: Assess cloud Storage systems and Cloud security, the risks involved, its impact and
+         develop cloud application
+        CO4: Familiarize various data security and storage algorithms
+        CO5: Assess the strengths and weaknesses of various algorithms used in cloud security
+
+
+CO-PO Mapping
+
+  PO/PSO                                                                 PSO1        PSO2    PSO3
+                    PO1         PO2      PO3     PO4        PO5   PO6
+      CO
+     CO1               3          1       2        1         -     -        -            2      2
+     CO2               3          1       2        1         -     -        -            2      2
+     CO3               -          3       2        3         3     -        -            2      2
+     CO4               3          3       3        3         -     -        2            3      2
+     CO5               2          2       1        2         2              2            2      2
+Amrita Vishwa Vidyapeetham.                         MTC-DS                      M.Tech
+Curriculum June 2024
+Syllabus
+
+Introduction to cloud computing – Evolution of cloud computing, definition of cloud computing,
+SPI framework, Service delivery model, Deployment models, Key drivers to adopting the cloud,
+Barriers to cloud computing adoption in the cloud, Modular arithmetic background, concepts of
+security, how to assess security of a system, information theoretic security v/s computational
+security, Data security and storage in cloud, data dispersal techniques, High-availability and
+integrity layer for cloud storage, Encryption and key management in the cloud, Cloud forensics,
+Data location and availability, Data security tools and techniques for the cloud, Data distribution
+and information dispersal techniques, Data encryption/decryption methodologies and algorithms
+for a client-server setup such as SSL, IPSec, etc., Introduction to Homomorphic encryption.
+Approximate string searching over encrypted data stored in the cloud, Trustworthy cloud
+infrastructures, Secure computations, cloud related regulatory and compliance issues.
+Textbooks / References
+        Zeal Vors, “Enterprise Cloud Security and Governance: Efficiently set data protection
+         and privacy principles”, First Edition, 2017.
+        Tim Mather, S. Kumaraswamy and S.Latif, “Cloud Security and Privacy: An Enterprise
+         Perspective on Risks and compliance”, O’Reilly Media, 2009
+        William Stallings, “Cryptography and Network Security: Principles and Practice, Fifth
+         Edition, Prentice Hall, 2011.
+        William Stallings, Lawrie Brown, “Computer Security: Principles and Practice”,
+         Pearson, 2012.
+        Menezes. A, Oorschot. P, and Vanstone. S, Handbook of Applied Cryptography, CRC
+         Press, 1996
+        B. Schneier, “Applied Cryptography: Protocols, Algorithms, and source Code in C”,
+         Second Edition, Jhon Wiley and Sons, 1996.
+        John Sammons, “The Basics of Digital Forensics: The Primer for Getting Started in
+         Digital Forensics”, second edition, 2014.
+        Terrence Lillard, “Digital Forensics for Network, Internet, and Cloud Computing,
+         Elsevier, 2010.
+
+
+Evaluation Pattern
+   Assessment                 Type of Assessment        Minimum Number          Weightage (%)
+   component                                             of Assessments
+ Internal               Quizzes                        2                   20
+ Internal               Assignments/Presentations/     2                   30
+                        Case Study
+
+
+Amrita Vishwa Vidyapeetham.                        MTC-DS                   M.Tech
+Curriculum June 2024
+ Internal               Mid-Term Exam                1                     20
+
+ External               End Semester Exam/Term       1                     30
+                        Project
+
+
+ 24DS747                             Materials Informatics                      L-T-P-C: 2-0-3-3
+
+
+Course Objectives
+    The course aims to introduce students to the effective management and organization of
+      materials data using tools and techniques from the field of informatics.
+    This course will also familiarize students with the application of machine and deep learning
+      algorithms to predict materials properties, design new materials, and optimize material
+      performance.
+    The students will be provided with the hands-on experience of AI/ML driven materials
+      design and discovery.
+
+Course Outcomes:
+
+CO1: Querying available materials databases for optimal design
+CO2: Acquire knowledge in conventional machine learning algorithms and a framework for their
+integration with materials design and discovery
+CO3: Accelerated materials design and discovery using Bayesian approach.
+CO4: Apply natural language processing in materials science for data mining.
+
+CO-PO Mapping
+
+    PO / PSO           PO1    PO2    PO3    PO4           PO5   PO6   PSO1          PSO2   PSO3
+      CO
+      CO1               1      3        2     1            1     1     1             2      1
+      CO2               3      2        1     1            1     1     3             2      1
+      CO3               3      3        3     2            3     2     3             1      3
+      CO4               1      3        2     2            2     3     2             1      3
+
+Syllabus
+
+Introduction: Historical paradigm of materials discovery; understand property, structure and
+process spaces; role of data science in materials knowledge system
+
+
+
+Amrita Vishwa Vidyapeetham.                      MTC-DS                    M.Tech
+Curriculum June 2024
+Materials Databases and Featurization: String and Graph representations. Familiarization to
+materials project API; querying the database; composition-based feature vector; structure-based
+feature vector; handling molecular descriptors; crystal graph networks.
+
+Machine Learning: Simple linear/nonlinear models; test/train/validation/metrics; ensemble
+models; support vector machines; artificial neural networks
+
+Accelerating materials design and discovery: A framework for optimal design of materials
+system; Bayesian Inference; Gaussian processes; Bayesian Optimization; Data-intensive
+investigations: uncertainty quantification, sensitivity analysis, multi-objective optimization
+
+Natural Language Processing (NLP) for Materials: Design of materials embeddings; Mat2Vec;
+Chemical similarity-based embeddings; named entity recognition (NER) in Materials science.
+
+Active Learning: Leveraging first principles density functional theory (DFT) computations
+
+Textbooks / References
+        Olexandr Isayev, Alexander Tropsha, Stefano Curtarolo, Materials Informatics, Wiley.
+        Murdock, R.J., Kauwe, S.K., Wang, A.Y.T. and Sparks, T.D., 2020. “Is domain knowledge
+         necessary for machine learning materials properties?” Integrating Materials and
+         Manufacturing Innovation, 9, pp.221-227.
+        Sayeed, H.M., Baird, S.G. and Sparks, T.D., 2023. Structure feature vectors derived from
+         Robocrystallographer text descriptions of crystal structures using word embeddings.
+        Anoop Krishnan N. M., Kodamana H., Bhattoo R., “Machine Learning for Materials
+         Discovery,” 1st Edition, Springer, 2024.
+        Roman Garnett, “Bayesian Optimization”, Cambridge University Press
+        Hargreaves, C.J., Dyer, M.S., Gaultois, M.W., Kurlin, V.A. and Rosseinsky, M.J., 2020.
+         The earth mover’s distance as a metric for the space of inorganic compositions. Chemistry
+         of Materials, 32(24), pp.10610-10620.
+        Tshitoyan, V., Dagdelen, J., Weston, L., Dunn, A., Rong, Z., Kononova, O., Persson, K.A.,
+         Ceder, G. and Jain, A., 2019. Unsupervised word embeddings capture latent knowledge
+         from materials science literature. Nature, 571(7763), pp.95-98.
+
+Evaluation Pattern
+
+   Assessment                 Type of Assessment        Minimum Number          Weightage (%)
+   component                                             of Assessments
+ Internal               Quizzes                        2                   20
+
+
+
+Amrita Vishwa Vidyapeetham.                        MTC-DS                  M.Tech
+Curriculum June 2024
+ Internal               Assignments/Presentations/   2                     30
+                        Case Study
+
+ Internal               Mid-Term Exam                1                     20
+ External               End Semester Exam/Term       1                     30
+                        Project
+
+
+
+ 24DS746                             Financial Data Analytics                   L-T-P-C: 2-0-3-3
+
+
+Course Objectives
+    The course aim to develop a deep understanding and vitualization of various types of
+      financial data, including market data, and economic indicators etc.
+    The course provides advanced analytical skills for processing and analysing financial data.
+      It covers a range of techniques, including data wrangling, exploratory data analysis (EDA),
+      time series analysis, and predictive modelling.
+    The course introduced students to concepts and methodologies for risk management,
+      portfolio optimization.
+    Hands-on experience with industry-standard financial analytics tools and platforms will be
+      provide in the course.
+
+Course Outcomes:
+CO1: Acquire knowledge of the basic characteristics of financial time series data
+CO2: Ability to analyze and model financial data.
+CO3: Evaluate and model risk across various financial assets.
+CO4: Utilize advanced R or Python routines for analytical finance.
+
+CO-PO Mapping
+
+    PO / PSO           PO1    PO2     PO3      PO4        PO5   PO6   PSO1          PSO2   PSO3
+      CO
+      CO1               1       -       -       1          2     2     -             -      3
+      CO2               3       2       3       2          2    2      3             2      3
+      CO3               3       2       2       2          2     2     3             2      3
+      CO4               3       2       2       3          2     2     2             3      3
+
+Syllabus
+
+
+
+Amrita Vishwa Vidyapeetham.                      MTC-DS                    M.Tech
+Curriculum June 2024
+Introduction to financial time series and their characteristics -- Exploratory data analysis -- Linear
+time series analysis(AR, MA, ARIMA, unit-root non-stationarity, seasonality model) --
+Conditional heteroscedastic models/ Modeling volatility (ARCH, GARCH) -- Non-linear model
+and their application(TAR, STAR) -- High-frequency data analysis and market
+microstructure(nonsynchronous trading, bid-ask spread, model for price change, duration model)
+-- Derivative pricing / Continuous time models (black sholes model) -- Asset portfolio
+models(basics of portfolio construction, Markowitz theorem, capital asset pricing model,
+diversification and portfolio optimization) -- Measuring and modelling risk(extreme value,
+quantile estimation and Value at Risk (VaR)) -- Modeling credit risk (corporate liabilities as
+contingent claims, endogenous default boundaries and optional capital structure, intensity
+modeling, rating based term-structure models, credit risk and interest-rate Swaps, modelling
+dependent defaults) -- Derivative pricing / Continuous time models (black sholes model) --
+Multivariate time series analysis(vector autoregressive model).
+
+Textbooks / References
+        Analysis of Financial Time Series (Wiley Series in Probability and Statistics) Ruey Tsay
+        Time series analysis and its applications. Shumway and Stoffer.
+        Advances in financial machine learning. Marcos Lopez de Prado
+        Hilpisch, Yves. Python for Finance: Analyze big financial data. " O'Reilly Media, Inc.",
+         2014.
+        Ruey S. Tsay (2012), “An Introduction to Analysis of Financial Data with R” , Wiley, ISBN:
+         978-0-470-89081-3
+
+Evaluation Pattern
+
+   Assessment                 Type of Assessment         Minimum Number             Weightage (%)
+   component                                              of Assessments
+ Internal               Quizzes                         2                      20
+
+ Internal               Assignments/Presentations/      2                      30
+                        Case Study
+ Internal               Mid-Term Exam                   1                      20
+
+ External               End Semester Exam/Term          1                      30
+                        Project
+
+
+ 24DS748                      Integration of data science and system biology        L-T-P-C: 2-0-3-3
+
+
+Course Objective:
+Amrita Vishwa Vidyapeetham.                         MTC-DS                     M.Tech
+Curriculum June 2024
+        The course will lay down the application of data science into system biology which is an
+         emerging research field in bioscience.
+        The course will explore the concept of Markov modelling of stochastic processes,
+         mathematical formulation of the stochastic dynamics along with the simulation techniques
+         of the stochastic processes.
+        The course will provide the theoretical techniques to handle the big data obtained from the
+         stochastic single molecular experiments and imaging processes.
+
+Course Outcome:
+    CO1: Enable to handle the random big data obtained from the stochastic processes; Able
+       to get an idea about the application of the data sciences into study of the system biology.
+    CO2: Obtain an idea about the Markovian description for the stochastic processes; Able
+       to formulate the stochastic equation of motion i.e., the Langevin equation in continuous
+       space as well as master equation in discrete space to study the stochastic dynamics.
+    CO3: Learn about the simulation techniques of stochastic processes and network
+       dynamics i.e., the kinetic Monte Carlo and the Langevin dynamics simulation techniques.
+    CO4: Able to describe the stochastic dynamics by applying the concept of the non-
+       equilibrium statistical mechanics which is widely used in Physics, Chemistry, Biology as
+       well as economics.
+
+CO-PO Mapping
+
+            PO/P       PO1    PO2   PO3      PO4          PO5   PO6    PSO1      PSO2    PSO3
+            SO
+            CO
+            CO1        3      3     1        2            2     3      3         3       2
+            CO2        3      3     -        3            1     2      3         3       3
+            CO3        2      3     -        2            2     3      3         3       3
+            CO4        2      3     -        3            1     3      2         1       2
+
+Syllabus
+
+System biology: its necessity and application; Concept of network in system biology; Inter and
+intra-cellular networks; Stochastic time-evaluation of the cellular network; Explanation for
+obtaining big data from cellular network dynamics and its importance by considering gene-
+expression network as model; Mathematical modelling of the dynamics of cellular network;
+Concept of continuous and discrete state spaces; Understanding of the Markov processes and
+transition probabilities.
+
+General design principles of biological networks - autoregulation, feedforward, and feedback
+loops. Network motifs in transcription, signal transduction and neuronal networks.
+
+
+Amrita Vishwa Vidyapeetham.                      MTC-DS                      M.Tech
+Curriculum June 2024
+Stochastic dynamics at continuous space; Winner and Ornstein-Uhlenbeck processes;
+Understanding of the drift and diffusion terms; Construction of the Langevin equation;
+Introduction to stochastic integrals: Ito and Stratonovich descriptions; Kolmogorov forward and
+backward differential equations; Introduction of the Langevin dynamics simulation; Stochastic
+dynamics in discrete space; Formulation of the master equation; Introduction to the Kinetic Monte-
+Carlo Simulation.
+
+Formulation of the cell phenotypic transitions following the dynamical systems theory; Procedure
+for the extraction of dynamical information from snapshot data and from live-cell time series data;
+Challenges and perspectives.
+
+Textbooks / References
+        An Introduction to Systems Biology: Design Principles of Biological Circuits, Uri Alon,
+         (Chapman & Hall/CRC Mathematical and Computational Biology), 2007.
+        Data Mining for System Biology, Methods, and Protocols, Hiroshi Mamitsuka, Chapman
+         & Hall/CRC Mathematical and Computational Biology, 2018.
+        Big Data Mining, Network Modelling, and Genome-Wide Data Identification, Bor-Sen
+         Chen, Cheng-Wei Li, Elsevier, 2016.
+        Stochastic processes in physics and Chemistry, N. G. Van Kampen, 3rd edition, Science
+         Direct, 2007.
+        Handbook of stochastic methods for physics, chemistry and natural sciences, C. W.
+         Gardiner, 2nd edition, 1985.
+        The Fokker-Planck equation methods of solution and application, H. Risken, 2nd edition,
+         Springer, 1996.
+        Uri Alon, An Introduction to Systems Biology: Design Principles of Biological Circuits,
+         Chapman & Hall/CRC Press, London, 2007.
+
+Evaluation pattern
+
+   Assessment                 Type of Assessment        Minimum Number          Weightage (%)
+   component                                             of Assessments
+ Internal               Quizzes                        2                   20
+
+ Internal               Assignments/Presentations/     2                   30
+                        Case Study
+ Internal               Mid-Term Exam                  1                   20
+
+ External               End Semester Exam/Term         1                   30
+                        Project
+
+
+
+Amrita Vishwa Vidyapeetham.                        MTC-DS                   M.Tech
+Curriculum June 2024
+ 24DS749                           Introduction to Graph Theory                L-T-P-C: 2-0-3-3
+
+
+Course Objectives
+        Achieve proficiency in fundamental graph theory concepts and definitions, and
+         differentiate various graph types
+        Explore key graph theory theorems, algorithms, and their applications.
+        Gain exposure to advanced topics and recent developments in graph theory, including
+         random graphs, spectral graph theory, and applications in computer science and biology.
+Course Outcomes:
+CO1: Ability to explain the basic concepts of graph theory.
+CO2: Understand the importance of graph theory and represent real-world problems using graph
+theory.
+CO3: Learn to apply different algorithms of graph theory to solve network-related problems across
+diverse fields.
+CO4: Develop an understanding of graph mining, graph machine learning, and graph neural
+networks.
+
+CO-PO Mapping
+
+    PO / PSO           PO1    PO2     PO3     PO4        PO5   PO6   PSO1           PSO2   PSO3
+      CO
+      CO1               1      2        2      2          2     2      3             3      3
+      CO2               2      3        2      3          2     2      3             3      3
+      CO3               2      3        2      3          3     2      3             3      3
+      CO4               2      2        2      2          2     2      3             3      3
+
+Syllabus
+
+Fundamental Graph Concepts: Definition and examples of different graph types and subgraphs,
+adjacent matrices, isomorphism, decompositions, Ramsey number, paths, cycles, trails, vertex
+degrees, and counting. a directed graph, weak connectivity, connectivity, strong components, etc.
+Trees: Cut edges and bonds, cut vertices, Cayley's formula, spanning trees, Kruskal’s theorem,
+and Dijkstra’s theorem.
+
+Amrita Vishwa Vidyapeetham.                     MTC-DS                     M.Tech
+Curriculum June 2024
+Connectivity: walks, trails, and paths, connectedness and components, blocks, 2-connected and
+3-connected graphs, Eulerian graphs, Euler tours, Hamilton cycles, Menger’s theorem.
+Matching and Covering: bipartite matching, vertex cover, edge cover, independent set, M-
+alternating path, Hall’s theorem.
+Colorings: vertex coloring, Brooks' theorem, edge coloring, Vizing's theorem, girth and chromatic
+numbers, list coloring, chromatic index, chromatic polynomials, k-critical graphs.
+Planarity: plane and planar graphs, 5-coloring planar graphs, Kuratowski's theorem.
+Special Classes of Graphs: Perfect graph, interval graph, chordal graph, boxicity, sphericity, 4-
+color conjecture.
+Graph Centrality measures, Spectral Graph Theory - Analysis of Eigenvalues/Eigenvectors of
+Adjacency and Laplacian Matrices.
+Network Flow: Max flow and mincut theorem, circulations, tensions, Ford-Fulkerson labeling
+algorithm, flow integrality
+GraphAI: Introduction to graph mining, graph neural networks, and graph machine learning.
+
+Textbooks / References
+        Reinhard Diestel, "Graph Theory", Springer (2010)
+        Douglas B. West, "Introduction to Graph Theory", Prentice Hall (2001)
+        A. Bondy and U. S. R. Murty, "Graph Theory", Springer (2008)
+        B. Bollabas, "Modern Graph Theory", Springer (1998)
+        M. E. J. Newman, Networks: An Introduction, Oxford University Press, Oxford, 2010.
+
+Evaluation Pattern
+
+   Assessment                 Type of Assessment        Minimum Number         Weightage (%)
+   component                                             of Assessments
+ Internal               Quizzes                        2                  20
+
+ Internal               Assignments/Presentations/     2                  30
+                        Case Study
+ Internal               Mid-Term Exam                  1                  20
+
+ External               End Semester Exam/Term         1                  30
+                        Project
+
+
+
+
+Amrita Vishwa Vidyapeetham.                        MTC-DS                 M.Tech
+Curriculum June 2024
+22AVP103                                 Mastery Over Mind (MAOM)                                 1-0-2 2
+
+1.        Course Overview
+
+Master Over the Mind (MAOM) is an Amrita initiative to implement schemes and organise university-wide
+programs to enhance health and wellbeing of all faculty, staff, and students (UN SDG -3). This program as
+part of our efforts for sustainable stress reduction gives an introduction to immediate and long-term
+benefits and equips every attendee to manage stressful emotions and anxiety facilitating inner peace and
+harmony.
+
+With a meditation technique offered by Amrita Chancellor and world-renowned humanitarian and
+spiritual leader, Sri Mata Amritanandamayi Devi (Amma), this course has been planned to be offered to
+all students of all campuses of AMRITA, starting off with all first years, wherein one hour per week is
+completely dedicated for guided practical meditation session and one hour on the theory aspects of
+MAOM. The theory section comprises lecture hours within a structured syllabus and will include invited
+guest lecture series from eminent personalities from diverse fields of excellence. This course will enhance
+the understanding of experiential learning based on university’s mission: “Education for Life along with
+Education for Living”, and is aimed to allow learners to realize and rediscover the infinite potential of one’s
+true Being and the fulfilment of life’s goals.
+
+2. Course Syllabus
+Unit 1                                                                                        (4 hours)
+
+Causes of Stress: The problem of not being relaxed. Need for meditation -basics of stress management at
+home and workplace. Traditions and Culture. Principles of
+
+meditation– promote a sense of control and autonomy in the Universal Human Value System. Different
+stages of Meditation. Various Meditation Models. Various practices of Meditation techniques in different
+schools of philosophy and Indian Knowledge System.
+Unit 2                                                                                        (4 hours)
+Improving work and study performance. Meditation in daily life. Cultivating compassion and good mental
+health with an attitude of openness and acceptance. Research and Science of Meditation: Significance of
+practising meditation and perspectives from diverse fields like science, medicine, technology. philosophy,
+culture, arts, management, sports, economics, healthcare, environment etc. The role of meditation for
+stress and anxiety reduction in one’s life with insights based on recent cutting-edge technology. The effect
+of practicing meditation for the wholesome wellbeing of an individual.
+Unit 3                                                                                        (4 hours)
+
+Communications: principles of conscious communication. Relationships and empathy: meditative
+approach in managing and maintaining better relationships in life during the interactions in the world,
+role of MAOM in developing compassion, empathy and responsibility, instilling interest, and orientation
+to humanitarian projects as a key to harness intelligence and compassion in youth. Methodologies to
+evaluate effective awareness and relaxation gained from meditation. Evaluating the global transformation
+
+Amrita Vishwa Vidyapeetham.                         MTC-DS                           M.Tech
+Curriculum June 2024
+through meditation by instilling human values which leads to service learning and compassion driven
+research.
+TEXT BOOKS:
+
+1.Mata Amritanandamayi Devi, “Cultivating Strength and vitality,” published by Mata
+
+Amritanandamayi Math, Dec 2019
+
+2.Swami Amritaswarupananda Puri ,”The Color of Rainbow “ published by MAM, Amritapuri.
+
+
+
+
+REFERENCES:
+
+1.Craig Groeschel, “Winning the War in Your Mind: Change Your Thinking, Change Your Life” Zondervan
+Publishers, February 2019
+
+2.R Nagarathna et al, “New Perspectives in Stress Management “Swami Vivekananda Yoga Prakashana
+publications, Jan 1986
+3. Swami Amritaswarupananda Puri “Awaken Children Vol 1, 5 and 7 - Dialogues with Amma on
+   Meditation”, August 2019
+
+4. Swami Amritaswarupananda Puri “From Amma’s Heart - Amma’s answer to questions raised during
+  world tours” March 2018
+
+5. Secret of Inner Peace- Swami Ramakrishnananda Puri, Amrita Books, Jan 2018.
+
+6. Mata Amritanandamayi Devi “Compassion :The only way to Peace:Paris Speech”, MA Center, April
+   2016.
+
+7. Mata Amritanandamayi Devi “Understanding and collaboration between Religions”, MA Center, April
+   2016.
+
+8. Mata Amritanandamayi Devi “Awakening of Universal Motherhood: Geneva Speech” M A center,
+   April 2016.
+
+
+
+3. Evaluation and Grading
+
+  Internal                                          External                             Total
+
+ Components                          Weightage      Practical ( attendance and class     100%
+                                                    participation) 60%
+ Quizzes( based on the reading       20%    40%
+ material)
+
+
+
+
+Amrita Vishwa Vidyapeetham.                    MTC-DS                          M.Tech
+Curriculum June 2024
+ Assignments (Based on webinars         20%
+ and lecture series)
+
+
+
+4.        Course Outcomes (CO)
+
+CO1: Relate to the causes of stress in one’s life.
+
+CO2: Experiment with a range of relaxation techniques
+
+CO3: Model a meditative approach to work, study, and life.
+
+CO4: Develop appropriate practice of MA-OM technique that is effective in one’s life
+
+CO5: Inculcate a higher level of awareness and focus.
+
+CO6: Evaluate the impact of a meditation technique
+
+
+*Program Outcomes (PO) (As given by NBA and ABET)
+
+PO1: Engineering Knowledge
+
+PO2: Problem Analysis
+
+PO3: Design/Development of Solutions
+
+PO4: Conduct Investigations of complex problems
+
+PO5: Modern tools usage
+
+PO6: Engineer and Society
+
+PO7: Environment and Sustainability
+
+PO8: Ethics
+
+PO9: Individual & Team work
+
+PO10: Communication
+
+PO11: Project management & Finance
+
+PO12: Lifelong learning
+
+
+CO – PO Affinity Map
+
+              P        PO2 PO3   PO4 PO5 PO6          PO7 PO8 PO9    PO10 PO11 PO12 PS01   PSO2   PSO3
+     P O/
+              O
+     CO       1
+
+
+Amrita Vishwa Vidyapeetham.                          MTC-DS                     M.Tech
+Curriculum June 2024
+  23HU601                         Career Competency I                    L-T-P-C: 0-0-3-P/F
+
+   CO 1        3       3      3       2           -       2      3   -       3       -        3   -     -   -
+
+   CO 2        3       3      3       2     2     _       2      3   3       3       -        3   -     -   -
+
+   CO 3        3       3      2       2     2     2       2      3   3       3       -        3   -     -   -
+
+   CO 4        3       3      3       2     -     2       3      3   3       3       -        3   -     -   -
+
+   CO 5        3       2      2       2     -     2       -      3   2       2       -        2   -     -   -
+
+   CO 6        3       2      2       2     3     2       _      3   2       2       -        2   -     -   -
+
+Prerequisite:
+
+An open mind and the urge for self-development, basic English language skills and knowledge of high
+school level arithmetic.
+
+Course Objectives:
+
+             Help students transit from campus to corporate and enhance their soft skills
+             Enable students to understand the importance of goal setting and time management skills
+             Support them in developing their problem solving and reasoning skills
+             Inspire students to enhance their diction, grammar and verbal reasoning skills
+
+
+Course Outcomes:
+
+CO1: Soft Skills - To develop positive mindset, communicate professionally, manage time effectively and
+set personal goals and achieve them.
+
+CO2: Soft Skills - To make formal and informal presentations with self-confidence.
+
+CO3: Aptitude - To analyze, understand and employ the most suitable methods to solve questions on
+arithmetic and algebra.
+Amrita Vishwa Vidyapeetham.                             MTC-DS                       M.Tech
+Curriculum June 2024
+CO4: Aptitude - To analyze, understand and apply suitable techniques to solve questions on logical
+reasoning and data analysis.
+
+CO5: Verbal - To infer the meaning of words and use them in the right context. To have a better
+understanding of the nuances of English grammar and become capable of applying them effectively.
+
+CO6: Verbal - To identify the relationship between words using reasoning skills. To understand and
+analyze arguments and use inductive/deductive reasoning to arrive at conclusions and communicate
+ideas/perspectives convincingly.
+
+CO-PO Mapping
+
+PO/CO
+            PO1        PO2 PO3
+
+
+   CO1         2        1     -
+
+   CO2         2        1     -
+
+   CO3         2        1     -
+
+   CO4         2        1     -
+
+   CO5         1        2     -
+
+   CO6         2        2     -
+
+
+
+Syllabus:
+
+Soft Skills
+
+Introduction to ‘campus to corporate transition’:
+
+Communication and listening skills: communication process, barriers to communication, verbal and non-
+verbal communications, elements of effective communication, listening skills, empathetic listening, role
+of perception in communication.
+
+Assertiveness skills: the concept, assertiveness and self-esteem, advantages of being assertive,
+assertiveness and organizational effectiveness.
+
+Self-perception and self-confidence: locus of control (internal v/s external), person perception, social
+perception, attribution theories-self presentation and impression management, the concept of self and
+self-confidence, how to develop self-confidence.
+
+Goal setting: the concept, personal values and personal goals, goal setting theory, six areas of goal setting,
+process of goal setting: SMART goals, how to set personal goals
+
+Time management: the value of time, setting goals/ planning and prioritizing, check the time killing habits,
+procrastination, tools for time management, rules for time management, strategies for effective time
+management
+Amrita Vishwa Vidyapeetham.                         MTC-DS                          M.Tech
+Curriculum June 2024
+Presentation skills: the process of presentation, adult learning principles, preparation and planning,
+practice, delivery, effective use of voice and body language, effective use of audio visual aids, dos and
+don’ts of effective presentation
+
+Public speaking-an art, language fluency, the domain expertise (Business GK, Current affairs), self-
+confidence, the audience, learning principles, body language, energy level and conviction, student
+presentations in teams of five with debriefing
+
+Verbal
+
+Vocabulary: Familiarize students with the etymology of words, help them realize the relevance of word
+analysis and enable them to answer synonym and antonym questions. Create an awareness about the
+frequently misspelt words, commonly confused words and wrong form of words in English.
+
+Grammar: Train students to understand the nuances of English Grammar and thereby enable them to
+spot grammatical errors and punctuation errors in sentences.
+
+Reasoning: Stress the importance of understanding the relationship between words through analogy
+questions and learn logical reasoning through syllogism questions. Emphasize the importance of avoiding
+the gap (assumption) in arguments/ statements/ communication.
+
+Oral Communication Skills: Aid students in using the gift of the gab to improve their debating skills.
+
+Writing Skills: Introduce formal written communication and keep the students informed about the
+etiquettes of email writing. Make students practise writing emails especially composing job application
+emails.
+
+Aptitude
+
+Numbers: Types, Power Cycles, Divisibility, Prime, Factors & Multiples, HCF & LCM, Surds, Indices, Square
+roots, Cube Roots and Simplification.
+
+Percentage: Basics, Profit, Loss & Discount, and Simple & Compound Interest.
+
+Ratio, Proportion & Variation: Basics, Alligations, Mixtures, and Partnership.
+
+Averages: Basics, and Weighted Average.
+
+Time and Work: Basics, Pipes & Cistern, and Work Equivalence.
+
+Time, Speed and Distance: Basics, Average Speed, Relative Speed, Boats & Streams, Races and Circular
+tracks.
+
+Statistics: Mean, Median, Mode, Range, Variance, Quartile Deviation and Standard Deviation.
+
+Data Interpretation: Tables, Bar Diagrams, Line Graphs, Pie Charts, Caselets, Mixed Varieties, and other
+forms of data representation.
+
+Equations: Basics, Linear, Quadratic, Equations of Higher Degree and Problems on ages.
+
+Logarithms, Inequalities and Modulus: Basics
+
+References
+Amrita Vishwa Vidyapeetham.                       MTC-DS                          M.Tech
+Curriculum June 2024
+Soft Skills:
+
+Communication and listening skills:
+
+     Andrew J DuRbin , “Applied Psychology: Individual and organizational effectiveness”, Pearson-
+      Merril Prentice Hall, 2004
+   Michael G Aamodt, “An Applied Approach, 6th edition”, Wadsworth Cengage Learning, 2010
+Assertiveness skills:
+
+     Robert Bolton, Dorothy Grover Bolton, “People Style at Work..and Beyond: Making Bad
+      Relationships Good and Good”, Ridge Associates Inc., 2009
+   John Hayes “Interpersonal skills at work”, Routledge, 2003
+   Nord, W. R., Brief, A. P., Atieh, J. M., & Doherty, E. M., “Meanings of occupational work: A collection
+      of essays (pp. 21- 64)”, Lexington, MA: Lexington Books, 1990
+Self-perception and self-confidence:
+
+   Mark J Martinko, “Attribution theory: an organizational perspective”, St. Lucie, 1995
+   Miles Hewstone, “Attribution Theory: Social and Functional Extensions”, Blackwell, 1983
+Time management:
+
+         Stephen Covey, “The habits of highly effective people”, Free press Revised edition, 2004
+         Kenneth H Blanchard , “The 25 Best Time Management Tools & Techniques: How to Get More Done
+          Without Driving Yourself Crazy” , Peak Performance Press, 1st edition 2005
+         Kenneth H. Blanchard and Spencer Johnson, “The One Minute Manager” , William Morrow, 1984
+
+
+Verbal:
+
+      Erica Meltzer, “The Ultimate Guide to SAT Grammar”
+      Green, Sharon, and Ira K. Wolf, “Barron's New GRE”, Barron's Educational Series, 2011
+      Jeff Kolby, Scott Thornburg & Kathleen Pierce, “Nova’s GRE Prep Course”
+      Kaplan, “Kaplan New GRE Premier”, 2011-2012
+      Kaplan’s GRE Comprehensive Programme
+      Lewis Norman, “Word Power Made Easy”, Goyal Publishers, Reprint edition, 1 June 2011
+      Manhattan Prep, “GRE Verbal Strategies Effective Strategies Practice from 99th Percentile
+       Instructors”
+     Pearson- “A Complete Manual for CAT”, 2013
+     R.S. Aggarwal, “A Modern Approach to Verbal Reasoning”
+     S. Upendran, “Know Your English”, Universities Press (India) Limited, 2015
+     Sharon Weiner Green, Ira K. Wolf, “Barron's New GRE, 19th edition (Barron's GRE)”, 2019
+     Wren & Martin, “English Grammar & Composition”
+     www.bbc.co.uk/learningenglish
+     www.cambridgeenglish.org
+     www.englishforeveryone.org
+     www.merriam-webster.com
+Aptitude:
+
+         Arun Sharma, “How to Prepare for Quantitative Aptitude for the CAT Common Admission Test”,
+          Tata Mc Graw Hills, 5th Edition , 2012
+Amrita Vishwa Vidyapeetham.                       MTC-DS                          M.Tech
+Curriculum June 2024
+         Arun Sharma, “How to Prepare for Logical Reasoning for the CAT Common Admission Test”, Tata
+          Mc Graw Hills, 2nd Edition, 2014
+         Arun Sharma, “How to Prepare for Data Interpretation for the CAT Common Admission Test”, Tata
+          Mc Graw Hills, 3nd Edition, 2015
+         R.S. Aggarwal, “Quantitative Aptitude For Competitive Examinations”, S. Chand Publishing, 2015
+         R.S. Aggarwal, “A Modern Approach To Verbal & Non-Verbal Reasoning”, S. Chand Publishing,
+          Revised -2015
+         Sarvesh Verma, “Quantitative Aptitude-Quantum CAT”, Arihant Publications, 2016
+         www.mbatious.com
+         www.campusgate.co.in
+         www.careerbless.com
+
+Evaluation Pattern
+
+Assessment                                                    Internal        External
+
+Continuous Assessment (CA)* – Soft Skills                           30                -
+
+Continuous Assessment (CA)* – Aptitude                              10                25
+
+Continuous Assessment (CA)* – Verbal                                10                25
+
+Total                                                               50                50
+
+Pass / Fail
+
+*CA - Can be presentations, speaking activities and tests.
+
+
+
+
+  23HU611                              Career Competency II                               L-T-P-C: 0-0-3-1
+
+Pre-requisite: Willingness to learn, team spirit, basic English language and communication skills and
+knowledge of high school level arithmetic.
+
+Course Objectives:
+
+      Help students to understand the importance of interpersonal skills and team work
+      Prepare the students for effective group discussions and interviews participation.
+      Help students to sharpen their problem solving and reasoning skills
+      Empower students to communicate effectively by using the correct diction, grammar and verbal
+       reasoning skills
+Course Outcomes:
+
+CO1: Soft Skills - To demonstrate good interpersonal skills, solve problems and effectively participate in
+group discussions.
+
+CO2: Soft Skills - To write technical resume and perform effectively in interviews.
+
+
+Amrita Vishwa Vidyapeetham.                       MTC-DS                          M.Tech
+Curriculum June 2024
+CO3: Aptitude - To identify, investigate and arrive at appropriate strategies to solve questions on
+arithmetic by managing time effectively.
+
+CO4: Aptitude - To investigate, understand and use appropriate techniques to solve questions on logical
+reasoning and data analysis by managing time effectively.
+
+C05: Verbal - To be able to use diction that is more refined and appropriate and to be competent in
+knowledge of grammar to correct/improve sentences
+
+C06: Verbal - To be able to examine, interpret and investigate passages and to be able to generate ideas,
+structure them logically and express them in a style that is comprehensible to the audience/recipient.
+
+CO-PO Mapping
+
+PO/CO
+              PO1         PO2     PO3
+
+
+    CO1             2         1         -
+
+    CO2             2         1         -
+
+    CO3             2         1         -
+
+    CO4             2         1         -
+
+    CO5             1         2         -
+
+    CO6             2         2         -
+
+
+
+Syllabus
+
+Soft Skills
+
+Interpersonal skill: ability to manage conflict, flexibility, empathetic listening, assertiveness, stress
+management, problem solving, understanding one’s own interpersonal needs, role of effective team work
+in organizations
+
+Group problem solving: the process, the challenges, the skills and knowledge required for the same.
+
+Conflict management: the concept, its impact and importance in personal and professional lives, (activity
+to identify personal style of conflict management, developing insights that helps in future conflict
+management situations.)
+
+Team building and working effectively in teams: the concept of groups (teams), different stages of group
+formation, process of team building, group dynamics, characteristics of effective team, role of leadership
+in team effectiveness. (Exercise to demonstrate the process of emergence of leadership in a group, debrief
+and reflection), group discussions.
+
+Interview skills: what is the purpose of a job interview, types of job interviews, how to prepare for an
+interview, dos and don’ts of interview, One on one mock interview sessions with each student
+Amrita Vishwa Vidyapeetham.                      MTC-DS                          M.Tech
+Curriculum June 2024
+Verbal
+
+Vocabulary: Help students understand the usage of words in different contexts. Stress the importance of
+using refined language through idioms and phrasal verbs.
+
+Grammar: Enable students to identify poorly constructed sentences or incorrect sentences and improvise
+or correct them.
+
+Reasoning: Facilitate the student to tap her/his reasoning skills through critical reasoning questions and
+logical ordering of sentences.
+
+Reading Comprehension: Enlighten students on the different strategies involved in tackling reading
+comprehension questions.
+
+Public Speaking Skills: Empower students to overcome glossophobia and speak effectively and
+confidently before an audience.
+
+Writing Skills: Practice closet tests that assess basic knowledge and skills in usage and mechanics of
+writing such as punctuation, basic grammar and usage, sentence structure and rhetorical skills such as
+writing strategy, organization, and style.
+
+
+
+Aptitude
+
+Sequence and Series: Basics, AP, GP, HP, and Special Series.
+
+Geometry: 2D, 3D, Coordinate Geometry, and Heights & Distance.
+Permutations & Combinations: Basics, Fundamental Counting Principle, Circular Arrangements, and
+Derangements.
+
+Probability: Basics, Addition & Multiplication Theorems, Conditional Probability and Bayes' Theorem.
+
+Logical Reasoning I: Arrangements, Sequencing, Scheduling, Venn Diagram, Network Diagrams, Binary
+Logic, and Logical Connectives, Clocks, Calendars, Cubes, Non-Verbal reasoning and Symbol based
+reasoning.
+
+Logical Reasoning II: Blood Relations, Direction Test, Syllogisms, Series, Odd man out, Coding & Decoding,
+Cryptarithmetic Problems and Input - Output Reasoning.
+
+Data Sufficiency: Introduction, 5 Options Data Sufficiency and 4 Options Data Sufficiency.
+
+Campus recruitment papers: Discussion of previous year question papers of all major recruiters of Amrita
+Vishwa Vidyapeetham.
+
+Miscellaneous: Interview Puzzles, Calculation Techniques and Time Management Strategies.
+
+
+
+References
+Soft Skills
+
+Amrita Vishwa Vidyapeetham.                      MTC-DS                          M.Tech
+Curriculum June 2024
+Team Building
+     Thomas L.Quick, ”Successful team building”, AMACOM Div American Mgmt Assn, 1992
+     Brian Cole Miller, “Quick Team-Building Activities for Busy Managers: 50 Exercises That
+       Get Results in Just 15 Minutes”, AMACOM; 1 edition, 2003.
+     Patrick Lencioni, “The Five Dysfunctions of a Team: A Leadership Fable”, Jossey-Bass, 1st
+       Edition, 2002
+Verbal
+     “GMAT Official Guide” by the Graduate Management Admission Council, 2019
+     Arun Sharma, “How to Prepare for Verbal Ability And Reading Comprehension For CAT”
+     Joern Meissner, “Turbocharge Your GMAT Sentence Correction Study Guide”, 2012
+     Kaplan, “Kaplan GMAT 2012 & 13”
+     Kaplan, “New GMAT Premier”, Kaplan Publishing, U.K., 2013
+     Manhattan Prep, “Critical Reasoning 6th Edition GMAT”
+     Manhattan Prep, “Sentence Correction 6th Edition GMAT”
+     Mike Barrett “SAT Prep Black Book The Most Effective SAT Strategies Ever Published”
+     Mike Bryon, “Verbal Reasoning Test Workbook Unbeatable Practice for Verbal Ability, English
+       Usage and Interpretation and Judgement Tests”
+     www.bristol.ac.uk/arts/skills/grammar/grammar_tutorial/page_55.htm
+     www.campusgate.co.in
+Aptitude
+
+        Arun Sharma, “How to Prepare for Quantitative Aptitude for the CAT Common Admission Test”,
+         Tata Mc Graw Hills, 5th Edition, 2012
+        Arun Sharma, “How to Prepare for Logical Reasoning for the CAT Common Admission Test”, Tata
+         Mc Graw Hills, 2nd Edition , 2014
+        Arun Sharma, “How to Prepare for Data Interpretation for the CAT Common Admission Test”, Tata
+         Mc Graw Hills, 3nd Edition , 2015
+        R.S. Aggarwal, “Quantitative Aptitude For Competitive Examinations”, S. Chand Publishing , 2015
+        R.S. Aggarwal, “A Modern Approach To Verbal & Non-Verbal Reasoning”, S. Chand Publishing ,
+         Revised -2015
+        Sarvesh Verma, “Quantitative Aptitude-Quantum CAT” , Arihant Publications , 2016
+        www.mbatious.com
+        www.campusgate.co.in
+        www.careerbless.com
+
+
+Evaluation Pattern
+
+Assessment                                           Internal     External
+
+Continuous Assessment (CA)* – Soft Skills                    30         -
+
+Continuous Assessment (CA)* – Aptitude                       10        25
+
+Continuous Assessment (CA)* – Verbal                         10        25
+
+Total                                                        50        50
+
+*CA - Can be presentations, speaking activities and tests.
+
+Amrita Vishwa Vidyapeetham.                      MTC-DS                         M.Tech
+Curriculum June 2024
+

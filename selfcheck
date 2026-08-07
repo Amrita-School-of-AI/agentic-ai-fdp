@@ -1,0 +1,164 @@
+#!/usr/bin/env python3
+"""Check your work.
+
+    ./selfcheck            every block
+    ./selfcheck ex01       one block (ex1, 1, ex01_tool_use all work)
+
+Runs the same tests GitHub runs when you push, so a green result here means a
+green result there. Needs no network: the tests use a scripted model.
+"""
+
+from __future__ import annotations
+
+import os
+import re
+import subprocess
+import sys
+from pathlib import Path
+
+ROOT = Path(__file__).resolve().parent
+EXERCISES = ROOT / "exercises"
+
+
+def interpreter() -> str:
+    """The Python that has the workshop's dependencies installed.
+
+    Running `./selfcheck` uses the shebang, which is the system Python, not the
+    one `uv sync` built. Left alone that produces ModuleNotFoundError for
+    langchain on a correctly set up machine, which is a maddening first
+    experience. So look for the project's virtual environment and prefer it.
+    """
+    for candidate in (
+        ROOT / ".venv" / "bin" / "python",           # macOS, Linux
+        ROOT / ".venv" / "Scripts" / "python.exe",   # Windows
+    ):
+        if candidate.exists():
+            return str(candidate)
+    return sys.executable
+
+TITLES = {
+    "ex00_setup": "Your first model call",
+    "ex01_tool_use": "Tool Use",
+    "ex02_chaining_routing": "Prompt Chaining and Routing",
+    "ex03_reflection": "Reflection",
+    "ex04_rag": "Knowledge Retrieval",
+    "ex05_capstone": "Multi-Agent capstone",
+}
+
+USE_COLOUR = sys.stdout.isatty() and os.environ.get("NO_COLOR") is None
+GREEN = "\033[32m" if USE_COLOUR else ""
+RED = "\033[31m" if USE_COLOUR else ""
+DIM = "\033[2m" if USE_COLOUR else ""
+BOLD = "\033[1m" if USE_COLOUR else ""
+OFF = "\033[0m" if USE_COLOUR else ""
+
+
+def all_blocks() -> list[str]:
+    return sorted(p.name for p in EXERCISES.iterdir() if p.is_dir() and p.name.startswith("ex"))
+
+
+def resolve(name: str) -> str | None:
+    """Accept ex01, ex1, 1, or the full folder name."""
+    blocks = all_blocks()
+    if name in blocks:
+        return name
+    m = re.fullmatch(r"(?:ex)?0*(\d+)", name, re.I)
+    if m:
+        wanted = f"ex{int(m.group(1)):02d}_"
+        for b in blocks:
+            if b.startswith(wanted):
+                return b
+    return None
+
+
+def run(block: str) -> tuple[bool, int, int, str]:
+    """Run one block's tests. Returns (ok, n_passed, n_failed, output).
+
+    Counts the per-test result lines from `-v` rather than reading the summary
+    line, because the wording and even the presence of that line varies between
+    pytest versions. `-o addopts=` clears the project defaults so the flags here
+    are the only ones in play.
+    """
+    r = subprocess.run(
+        [
+            interpreter(), "-m", "pytest", f"exercises/{block}",
+            "-v", "--tb=short", "--no-header",
+            "-o", "addopts=", "-p", "no:cacheprovider",
+        ],
+        cwd=ROOT,
+        capture_output=True,
+        text=True,
+    )
+    out = r.stdout + r.stderr
+    # Only the per-test progress lines, which start with the file path and
+    # contain "::". The "short test summary info" block at the end repeats
+    # every failure, and counting both reports each one twice.
+    results = re.findall(r"^\S+::\S+.*?\b(PASSED|FAILED|ERROR)\b", out, re.M)
+    n_pass = results.count("PASSED")
+    n_fail = len(results) - n_pass
+    return r.returncode == 0, n_pass, n_fail, out
+
+
+def first_hint(output: str) -> str:
+    """Pull the most useful line out of a pytest failure.
+
+    Participants should not have to read a full traceback to learn that they
+    forgot a tool_call_id, so surface the assertion message itself.
+    """
+    for line in output.splitlines():
+        s = line.strip()
+        if s.startswith("E   ") or s.startswith("E "):
+            s = s.lstrip("E").strip()
+            if s and not s.startswith("assert") and len(s) > 20:
+                return s
+    for line in output.splitlines():
+        if line.strip().startswith("E "):
+            return line.strip().lstrip("E").strip()
+    return ""
+
+
+def main() -> int:
+    args = sys.argv[1:]
+    if args:
+        blocks = []
+        for a in args:
+            resolved = resolve(a)
+            if not resolved:
+                print(f"No such block: {a}\nAvailable: {', '.join(all_blocks())}")
+                return 2
+            blocks.append(resolved)
+    else:
+        blocks = all_blocks()
+
+    print(f"\n{BOLD}Agentic AI FDP — selfcheck{OFF}\n")
+
+    results = {}
+    for block in blocks:
+        title = TITLES.get(block, block)
+        print(f"  {block:<24} {DIM}{title}{OFF}")
+        ok, n_pass, n_fail, out = run(block)
+        results[block] = ok
+
+        if ok:
+            print(f"  {GREEN}    ✓ {n_pass} tests passed{OFF}\n")
+        else:
+            print(f"  {RED}    ✗ {n_fail} failing, {n_pass} passing{OFF}")
+            hint = first_hint(out)
+            if hint:
+                print(f"  {DIM}      {hint[:300]}{OFF}")
+            print(f"  {DIM}      see it all:  pytest exercises/{block}{OFF}\n")
+
+    done = sum(results.values())
+    total = len(results)
+    bar = "".join("█" if results[b] else "░" for b in blocks)
+
+    print(f"  {bar}  {done}/{total} blocks complete\n")
+
+    if done == total:
+        print(f"  {GREEN}All green. Commit and push, and GitHub will agree.{OFF}\n")
+        return 0
+    return 1
+
+
+if __name__ == "__main__":
+    sys.exit(main())

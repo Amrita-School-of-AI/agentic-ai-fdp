@@ -1,0 +1,83 @@
+name: selfcheck
+
+# Runs the same tests as ./selfcheck, on every push. The job summary shows a
+# block-by-block table, so a participant can see their progress from the phone
+# in their hand rather than by reading a log.
+#
+# No network is needed: the tests use a scripted model, not the School's server.
+
+on:
+  push:
+    branches: ["**"]
+  pull_request:
+  workflow_dispatch:
+
+jobs:
+  blocks:
+    name: exercise blocks
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Install uv
+        uses: astral-sh/setup-uv@v5
+        with:
+          enable-cache: true
+
+      - name: Set up Python
+        run: uv python install 3.12
+
+      - name: Install dependencies
+        run: uv sync --frozen || uv sync
+
+      - name: Run every block
+        id: blocks
+        run: |
+          set +e
+          echo "## Agentic AI FDP — your progress" >> "$GITHUB_STEP_SUMMARY"
+          echo "" >> "$GITHUB_STEP_SUMMARY"
+          echo "| Block | Pattern | Result |" >> "$GITHUB_STEP_SUMMARY"
+          echo "|---|---|---|" >> "$GITHUB_STEP_SUMMARY"
+
+          declare -A TITLES=(
+            [ex00_setup]="Your first model call"
+            [ex01_tool_use]="Tool Use"
+            [ex02_chaining_routing]="Prompt Chaining and Routing"
+            [ex03_reflection]="Reflection"
+            [ex04_rag]="Knowledge Retrieval"
+            [ex05_capstone]="Multi-Agent capstone"
+          )
+
+          done_count=0
+          total=0
+          for dir in exercises/ex*/; do
+            block=$(basename "$dir")
+            total=$((total + 1))
+            if uv run pytest "$dir" -q -o addopts= > "/tmp/$block.log" 2>&1; then
+              echo "| \`$block\` | ${TITLES[$block]} | ✅ passed |" >> "$GITHUB_STEP_SUMMARY"
+              done_count=$((done_count + 1))
+            else
+              hint=$(grep -m1 -E '^E ' "/tmp/$block.log" | sed 's/^E *//' | cut -c1-160)
+              echo "| \`$block\` | ${TITLES[$block]} | ❌ ${hint:-see log} |" >> "$GITHUB_STEP_SUMMARY"
+            fi
+          done
+
+          echo "" >> "$GITHUB_STEP_SUMMARY"
+          echo "**$done_count of $total blocks complete.**" >> "$GITHUB_STEP_SUMMARY"
+
+          if [ "$done_count" -lt "$total" ]; then
+            echo "" >> "$GITHUB_STEP_SUMMARY"
+            echo "Run \`./selfcheck\` locally for the full failure output." >> "$GITHUB_STEP_SUMMARY"
+            exit 1
+          fi
+
+      - name: Show failures in the log
+        if: failure()
+        run: |
+          for log in /tmp/ex*.log; do
+            echo "::group::$(basename "$log" .log)"
+            cat "$log"
+            echo "::endgroup::"
+          done
