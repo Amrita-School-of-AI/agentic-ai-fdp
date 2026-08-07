@@ -1,7 +1,13 @@
 # Agentic AI, Hands On
 
+[![selfcheck](https://github.com/Amrita-School-of-AI/agentic-ai-fdp/actions/workflows/selfcheck.yml/badge.svg)](https://github.com/Amrita-School-of-AI/agentic-ai-fdp/actions/workflows/selfcheck.yml)
+
 **Amrita School of AI, Coimbatore** · Faculty Development Programme
 Dr. Abhijith Anandakrishnan, Assistant Professor
+
+> The badge above is **red on this repository, and that is correct**. The
+> exercises here are unsolved starters, so the tests fail by design. It turns
+> green on your fork as you complete the blocks.
 
 A one-day workshop in which you build six working AI agents, starting from a
 single model call and finishing with a supervised multi-agent system. Everything
@@ -98,8 +104,15 @@ git push
 ```
 
 GitHub runs the same tests and shows a block-by-block table under the **Actions**
-tab. If the badge at the top of this README is green on your fork, your work
-passes.
+tab, like this:
+
+| Block | Pattern | Result |
+|---|---|---|
+| `ex00_setup` | Your first model call | ✅ passed |
+| `ex01_tool_use` | Tool Use | ✅ passed |
+| `ex02_chaining_routing` | Prompt Chaining and Routing | ❌ the second call did not receive the first call's output |
+
+When every block passes, the badge on your fork turns green.
 
 > Push to **your own fork**, not to this repository. Fork it from the GitHub web
 > interface first, then clone your fork instead of this one.
