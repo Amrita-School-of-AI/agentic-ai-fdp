@@ -234,10 +234,9 @@ the timing plan and the notes for running each block.
 
 The patterns taught here are the well-established ones in the field. For a
 book-length treatment, see **Antonio Gulli, _Agentic Design Patterns: A Hands-On
-Guide to Building Intelligent Systems_**, which Prof. K.P. Soman circulated to
-the School and which each block cites by chapter. The material in this
-repository is written independently; the chapter references are there so you can
-read further, not because the text is drawn from it.
+Guide to Building Intelligent Systems_**, which each block cites by chapter. The
+material in this repository is written independently; the chapter references are
+there so you can read further, not because the text is drawn from it.
 
 ---
 
