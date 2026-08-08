@@ -1,0 +1,132 @@
+#!/usr/bin/env python3
+"""Drop into a REPL with everything already imported and connected.
+
+    ./scratch                 Linux and macOS
+    uv run python scratch     Windows, or anywhere
+
+For a quick poke mid-session: a one-liner, a tool you want to try, a question
+somebody asked. For anything you want to keep on screen, use scratchpad.ipynb.
+
+Already in scope when it opens:
+
+    model                 the chat model, connected
+    embeddings()          the embedding model
+    ask, show, rule       print model output readably
+    run_tools, hits       narrate a tool loop, print retrieved chunks
+    ALL_TOOLS             the block 1 tools
+    tool                  the decorator, to define more
+"""
+
+from __future__ import annotations
+
+import os
+import sys
+from pathlib import Path
+
+ROOT = Path(__file__).resolve().parent
+sys.path.insert(0, str(ROOT))
+
+
+def _reexec_under_venv() -> None:
+    """Restart under the project's interpreter if we were not started with it.
+
+    Running `./scratch` uses the shebang, which is the system Python, and that
+    one has none of the workshop's dependencies. selfcheck solves the same
+    problem by choosing an interpreter for its subprocess, but IPython runs
+    in-process here, so the only way is to hand over to the right interpreter.
+
+    The environment flag stops this recursing if the venv Python somehow still
+    cannot import what it needs.
+    """
+    if os.environ.get("FDP_SCRATCH_REEXEC"):
+        return
+
+    venv = ROOT / ".venv"
+    # Compare sys.prefix, not the interpreter path. A venv's bin/python is a
+    # symlink to the base interpreter, so resolving it makes the two compare
+    # equal and the re-exec never happens. sys.prefix is what actually says
+    # which environment is active.
+    if Path(sys.prefix).resolve() == venv.resolve():
+        return
+
+    for candidate in (venv / "bin" / "python", venv / "Scripts" / "python.exe"):
+        if candidate.exists():
+            os.environ["FDP_SCRATCH_REEXEC"] = "1"
+            # Exec the unresolved path: running the symlink's target directly
+            # would start the base interpreter without the venv.
+            os.execv(str(candidate), [str(candidate), str(Path(__file__).resolve()), *sys.argv[1:]])
+
+
+_reexec_under_venv()
+
+BANNER = """
+Agentic AI FDP — scratch
+
+  model                the chat model            ask(model, "...")
+  ALL_TOOLS            block 1 tools             run_tools(model, "...", ALL_TOOLS)
+  show / rule / hits   readable output           embeddings()
+
+  index()              build the retrieval index (a few seconds, once)
+
+Ctrl-D to leave.
+"""
+
+
+def main() -> int:
+    try:
+        from agentic_fdp import chat_base_url, chat_model, embeddings
+        from agentic_fdp.live import ask, hits, rule, run_tools, show
+    except Exception as e:  # noqa: BLE001
+        print(f"could not import the workshop package: {e}")
+        print("Run `uv sync` first, and start this from the repository root.")
+        return 1
+
+    try:
+        print(f"connecting to {chat_base_url()} ...")
+        model = chat_model()
+    except Exception as e:  # noqa: BLE001
+        print(f"\nno model server: {e}\n")
+        print("Everything else still works; `model` will not.")
+        model = None
+
+    from langchain_core.tools import tool
+
+    from exercises.ex01_tool_use.tools import ALL_TOOLS
+
+    def index():
+        """Build the retrieval index. Slow once, then instant."""
+        from langchain_community.vectorstores import FAISS
+
+        from exercises.ex04_rag.agent import load_corpus, split
+
+        chunks = split(load_corpus())
+        print(f"{len(chunks)} chunks, embedding...")
+        return FAISS.from_documents(chunks, embeddings())
+
+    scope = {
+        "model": model, "embeddings": embeddings, "ask": ask, "show": show,
+        "rule": rule, "run_tools": run_tools, "hits": hits, "tool": tool,
+        "ALL_TOOLS": ALL_TOOLS, "index": index,
+    }
+
+    try:
+        from IPython import start_ipython
+        from traitlets.config import Config
+
+        cfg = Config()
+        cfg.TerminalInteractiveShell.banner1 = BANNER
+        cfg.InteractiveShellApp.exec_lines = []
+        return start_ipython(argv=[], user_ns=scope, config=cfg) or 0
+    except ImportError:
+        # IPython is the nicer surface, but the plain REPL is a fine fallback
+        # and not worth failing over.
+        import code as _code
+
+        print(BANNER)
+        print("(IPython not installed — plain REPL, so no tab completion.)")
+        _code.interact(local=scope, banner="")
+        return 0
+
+
+if __name__ == "__main__":
+    sys.exit(main())

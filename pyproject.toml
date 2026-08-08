@@ -22,6 +22,14 @@ dependencies = [
     "faiss-cpu>=1.15.0",
     "pypdf>=6.1.0",
     "pytest>=9.1.1",
+    # For the scratchpad: the notebook to present from, IPython for `./scratch`.
+    # Not needed by any exercise or test.
+    #
+    # IPython is held below 9 deliberately. From 9.0 it requires Python 3.11,
+    # which would drag this project's floor up with it and strand anyone on a
+    # 3.10 that works perfectly well for everything else here.
+    "jupyterlab>=4.4.0",
+    "ipython>=8.18,<9",
 ]
 
 [project.optional-dependencies]

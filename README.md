@@ -165,6 +165,39 @@ When every block passes, the badge on your fork turns green.
 
 ---
 
+## A place to experiment
+
+Two scratchpads come with the repository. Neither is graded, and nothing you do
+in them can break an exercise.
+
+**The notebook** is the one to use while following along or trying an idea out:
+
+```
+uv run jupyter lab scratchpad.ipynb
+```
+
+It opens with a cell that connects to the model server, then a section per
+block holding the key snippet ready to run, and blank cells throughout to type
+into. Output stays on screen, and cells re-run independently, so a mistake
+costs you one cell rather than the session.
+
+**The REPL** is for a quick one-liner:
+
+```bash
+./scratch                    # Linux and macOS
+uv run python scratch        # Windows
+```
+
+It opens with `model`, `ALL_TOOLS`, and the printing helpers already imported
+and connected.
+
+The retrieval and multi-agent sections of the notebook run **your** code from
+`exercises/`, so they need those blocks finished. They say so clearly if not.
+That is on purpose: shipping a working copy in the scratchpad would just be
+handing over the answers.
+
+---
+
 ## Why the tests do not call the real model
 
 A language model can answer the same question two different ways. If the tests
